@@ -49,12 +49,12 @@ CREATE TABLE "national_team" (
      )
 );
 
-ALTER TABLE "club" ADD CONSTRAINT "fk_club_id" FOREIGN KEY("id")
-REFERENCES "players" ("club_id");
+ALTER TABLE "players" ADD CONSTRAINT "fk_players_pos_id" FOREIGN KEY("pos_id")
+REFERENCES "position" ("id");
 
-ALTER TABLE "position" ADD CONSTRAINT "fk_position_id" FOREIGN KEY("id")
-REFERENCES "players" ("pos_id");
+ALTER TABLE "players" ADD CONSTRAINT "fk_players_team_id" FOREIGN KEY("team_id")
+REFERENCES "national_team" ("id");
 
-ALTER TABLE "national_team" ADD CONSTRAINT "fk_national_team_id" FOREIGN KEY("id")
-REFERENCES "players" ("team_id");
+ALTER TABLE "players" ADD CONSTRAINT "fk_players_club_id" FOREIGN KEY("club_id")
+REFERENCES "club" ("id");
 
