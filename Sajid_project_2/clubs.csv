@@ -1,0 +1,255 @@
+,id,clubs
+0,1,Leeds United
+1,2,Caen
+2,3,Lens
+3,4,Al-Hilal
+4,5,Al-Shabab
+5,6,Olympiacos
+6,7,Al-Nassr
+7,8,Al-Ittihad
+8,9,Toulouse
+9,10,Los Angeles FC
+10,11,Sevilla
+11,12,Hatayspor
+12,13,Bologna
+13,14,Al Sadd SC
+14,15,West Ham
+15,16,Asociación Deportiva Guanacasteca
+16,17,Al-Gharafa Sports Club
+17,18,Manchester City
+18,19,Barcelona
+19,20,Antwerp
+20,21,Liverpool
+21,22,Al Duhail SC
+22,23,Swansea City
+23,24,Atlanta Utd
+24,25,Guadalajara
+25,26,Ajax
+26,27,Pachuca
+27,28,UNAM
+28,29,Standard Liège
+29,30,Leicester City
+30,31,Spezia
+31,32,Fiorentina
+32,33,Crystal Palace
+33,34,AC Omonia
+34,35,Manchester Utd
+35,36,Cruz Azul
+36,37,América
+37,38,Bochum
+38,39,Real Madrid
+39,40,St. Gallen
+40,41,Hearts
+41,42,Wydad Casablanca
+42,43,Leverkusen
+43,44,Chelsea
+44,45,Almería
+45,46,St Mirren
+46,47,Benfica
+47,48,Milan
+48,49,Qatar SC
+49,50,Rangers
+50,51,Shanghai Shen
+51,52,Fenerbahçe
+52,53,Aston Villa
+53,54,Dundee United
+54,55,Persepolis
+55,56,Dortmund
+56,57,Brøndby
+57,58,Sunderland
+58,59,Tottenham
+59,60,Sampdoria
+60,61,Derby County
+61,62,Liga Deportiva Alajuelense
+62,63,Red Star
+63,64,Angers
+64,65,Espanyol
+65,66,Juventus
+66,67,Salernitana
+67,68,Inter
+68,69,Club Brugge
+69,70,Osasuna
+70,71,Al-Fateh
+71,72,LA Galaxy
+72,73,Brighton
+73,74,Konyaspor
+74,75,León
+75,76,Atl Paranaense
+76,77,Atlético Madrid
+77,78,Celtic
+78,79,Betis
+79,80,Nantes
+80,81,Vancouver
+81,82,Valencia
+82,83,Espérance de Tunis
+83,84,CS Cartaginés
+84,85,Sangju Sangmu
+85,86,Bari
+86,87,Esteghlal
+87,88,Daegu
+88,89,Rayo Vallecano
+89,90,Sporting CP
+90,91,Cardiff City
+91,92,Bayern Munich
+92,93,Club Sport Herediano
+93,94,FC Copenhagen
+94,95,Porto
+95,96,Central Coast
+96,97,CS Sfaxien
+97,98,Brentford
+98,99,Brest
+99,100,Lille
+100,101,Flamengo
+101,102,River Plate
+102,103,Columbus Crew
+103,104,RB Leipzig
+104,105,Monaco
+105,106,Alanyaspor
+106,107,Marseille
+107,108,Strasbourg
+108,109,Freiburg
+109,110,Rennes
+110,111,Luzern
+111,112,Al-Wehda
+112,113,Fagi Okayama
+113,114,Roma
+114,115,Udinese
+115,116,M'Gladbach
+116,117,Stuttgart
+117,118,Abha
+118,119,Vejle BK
+119,120,Al-Ta'ee
+120,121,Young Boys
+121,122,Mainz 05
+122,123,FC Dallas
+123,124,Villarreal
+124,125,Talleres
+125,126,Basel
+126,127,Nott'ham Forest
+127,128,Werder Bremen
+128,129,Monterrey
+129,130,PSV Eindhoven
+130,131,SD Aucas
+131,132,Everton
+132,133,Club Africain
+133,134,Charleroi
+134,135,Benevento
+135,136,Vélez Sarsf
+136,137,Trabzonspor
+137,138,S-Pulse
+138,139,Adelaide
+139,140,Eint Frankfurt
+140,141,Pogoń Szczecin
+141,142,Augsburg
+142,143,Jeonbuk
+143,144,Newcastle Utd
+144,145,Al-Ahli
+145,146,AEK Athens
+146,147,Paris S-G
+147,148,Al Rayyan SC
+148,149,Wolves
+149,150,Houston Dynamo
+150,151,Reading
+151,152,Hellas Verona
+152,153,Braga
+153,154,Kayserispor
+154,155,Beşiktaş
+155,156,St. Pauli
+156,157,Reims
+157,158,Feyenoord
+158,159,Fulham
+159,160,Odense
+160,161,Legia Warsaw
+161,162,Arsenal
+162,163,CF Montréal
+163,164,Shandong Lunen
+164,165,Wolfsburg
+165,166,Al Ahli SC
+166,167,Mallorca
+167,168,Brescia
+168,169,Toronto FC
+169,170,Atromitos
+170,171,Montpellier
+171,172,Atalanta
+172,173,Hoffenheim
+173,174,Real Sociedad
+174,175,Gamba Osaka
+175,176,Ferencváros
+176,177,Melb City
+177,178,Hajduk Split
+178,179,Dinamo Zagreb
+179,180,Zenit
+180,181,Napoli
+181,182,Torino
+182,183,Al Ahly SC
+183,184,Cádiz
+184,185,Getafe
+185,186,AD San Carlos
+186,187,FC Cincinnati
+187,188,Middlesbrough
+188,189,Birmingham City
+189,190,Auxerre
+190,191,Bournemouth
+191,192,Galatasaray
+192,193,Lazio
+193,194,Nashville
+194,195,Portsmouth
+195,196,Seattle
+196,197,Al-Arabi SC
+197,198,FC Tokyo
+198,199,Sheffield Utd
+199,200,Dynamo Mosc
+200,201,Colombe Sportive du Dja et Lobo
+201,202,Aris
+202,203,Heerenveen
+203,204,Al-Ahli Dubai FC
+204,205,RB Salzburg
+205,206,Hannover 96
+206,207,Mechelen
+207,208,Real Salt Lake
+208,209,Millonarios
+209,210,Valladolid
+210,211,Troyes
+211,212,Genk
+212,213,Nice
+213,214,Newell's OB
+214,215,Sepahan
+215,216,Burnley
+216,217,Nacional
+217,218,
+218,219,Urawa Reds
+219,220,Deportivo Saprissa
+220,221,Southampton
+221,222,FC Seoul
+222,223,Norwich City
+223,224,Watford
+224,225,Clermont Foot
+225,226,Bristol City
+226,227,Chicago Fire
+227,228,Athletic Club
+228,229,Köln
+229,230,Lech Poznań
+230,231,Al-Ettifaq
+231,232,Grampus
+232,233,Stoke City
+233,234,Lugano
+234,235,Charlotte
+235,236,Lyon
+236,237,Lorient
+237,238,Düsseldorf
+238,239,Kawa Frontale
+239,240,Huddersfield
+240,241,Santos
+241,242,Cercle Brugge
+242,243,Anderlecht
+243,244,Chaves
+244,245,Palmeiras
+245,246,Municipal Grecia
+246,247,St Johnstone
+247,248,Antalyaspor
+248,249,Kuwait SC
+249,250,Inter Miami
+250,251,Schalke 04
+251,252,Ulsan Hyundai
+252,253,Daejeon Citizen FC
+253,254,PAOK
