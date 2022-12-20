@@ -5,12 +5,12 @@
 -- Conceptual (without relationships)
 
 CREATE TABLE "all_players_main" (
-    "id" int   NOT NULL,
+    "id" serial   NOT NULL,
     "name" varchar(100)   NOT NULL,
     "position_id" int   NOT NULL,
     "position_2_id" int   NOT NULL,
     "squad_id" int   NOT NULL,
-    "age" varchar(100)   NOT NULL,
+    "age" int   NOT NULL,
     "club_id" int   NOT NULL,
     "birth_year" int   NOT NULL,
     "matches_played" int   NOT NULL,
@@ -23,8 +23,8 @@ CREATE TABLE "all_players_main" (
 );
 
 CREATE TABLE "clubs" (
-    "id" int   NOT NULL,
-    "clubs" varchar(100)   NOT NULL,
+    "id" serial   NOT NULL,
+    "clubs" varchar(50)   NOT NULL,
     "last_updated" timestamp   NOT NULL,
     CONSTRAINT "pk_clubs" PRIMARY KEY (
         "id"
@@ -32,8 +32,8 @@ CREATE TABLE "clubs" (
 );
 
 CREATE TABLE "positions" (
-    "id" int   NOT NULL,
-    "positions" varchar(50)   NOT NULL,
+    "id" serial   NOT NULL,
+    "positions" varchar(3)   NOT NULL,
     "last_updated" timestamp   NOT NULL,
     CONSTRAINT "pk_positions" PRIMARY KEY (
         "id"
@@ -41,8 +41,8 @@ CREATE TABLE "positions" (
 );
 
 CREATE TABLE "squads" (
-    "id" int   NOT NULL,
-    "squads" varchar(100)   NOT NULL,
+    "id" serial   NOT NULL,
+    "squads" varchar(50)   NOT NULL,
     "last_updated" timestamp   NOT NULL,
     CONSTRAINT "pk_squads" PRIMARY KEY (
         "id"
@@ -50,7 +50,7 @@ CREATE TABLE "squads" (
 );
 
 CREATE TABLE "players_stats" (
-    "id" int   NOT NULL,
+    "id" serial   NOT NULL,
     "player_id" int   NOT NULL,
     "goals" int   NOT NULL,
     "assists" int   NOT NULL,
@@ -66,7 +66,7 @@ CREATE TABLE "players_stats" (
 );
 
 CREATE TABLE "keepers_stats" (
-    "id" int   NOT NULL,
+    "id" serial   NOT NULL,
     "player_id" int   NOT NULL,
     "goals_against" int   NOT NULL,
     "shots_on_target_against" int   NOT NULL,
