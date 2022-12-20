@@ -1,4 +1,4 @@
-player_id,goals_against,shots_on_target_against,saves,clean_sheets,penalty_kicks_attempted,penalty_kicks_allowed,Penalty Kicks Saved
+player_id,goals_against,shots_on_target_against,saves,clean_sheets,penalty_kicks_attempted,penalty_kicks_allowed,penalty_kicks_saved
 675,2,7,5,2,0,0,0
 676,7,17,10,0,1,1,0
 677,5,9,4,0,0,0,0

@@ -1,4 +1,4 @@
-player_id,goals,assists,non_penalty_goals,pk_goals,pk_attemps,yellow_cards,red_cards
+player_id,goals,assists,non_penalty_goals,pk_goals,pk_attempts,yellow_cards,red_cards
 1,0,0,0,0,0,0,0
 2,0,0,0,0,0,1,0
 3,0,0,0,0,0,0,0
