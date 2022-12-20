@@ -1,675 +1,681 @@
-,name,position,squad,age,club,birth_year,matches_played,starts,minutes_played,min_played_per_90,goals,assists,non_penalty_goals,pk_goals,pk_attemps,yellow_cards,red_cards
-0,Brenden Aaronson,MF,us United States,22-055,1.eng Leeds United,2000,4,0,108,1.2,0,0,0,0,0,0,0
-1,Ali Abdi,DF,tn Tunisia,28-361,2.fr Caen,1993,3,2,188,2.1,0,0,0,0,0,1,0
-2,Salis Abdul Samed,MF,gh Ghana,22-265,1.fr Lens,2000,3,3,250,2.8,0,0,0,0,0,0,0
-3,Saud Abdulhamid,"DF,MF",sa Saudi Arabia,23-151,1.sa Al-Hilal,1999,3,3,270,3.0,0,0,0,0,0,1,0
-4,Nawaf Al Abed,MF,sa Saudi Arabia,32-324,1.sa Al-Shabab,1990,2,0,88,1.0,0,0,0,0,0,1,0
-5,Pape Abou Cissé,DF,sn Senegal,27-093,1.gr Olympiacos,1995,3,1,105,1.2,0,0,0,0,0,0,0
-6,Vincent Aboubakar,FW,cm Cameroon,30-328,1.sa Al-Nassr,1992,3,1,142,1.6,2,1,2,0,0,2,1
-7,Abdulrahman Al-Aboud,"MF,DF",sa Saudi Arabia,27-198,1.sa Al-Ittihad,1995,2,0,35,0.4,0,0,0,0,0,0,0
-8,Zakaria Aboukhlal,"FW,MF",ma Morocco,22-301,1.fr Toulouse,2000,4,0,79,0.9,1,0,1,0,0,0,0
-9,Kellyn Acosta,MF,us United States,27-145,1.us Los Angeles FC,1995,2,0,43,0.5,0,0,0,0,0,1,0
-10,Marcos Acuña,DF,ar Argentina,31-049,1.es Sevilla,1991,5,4,316,3.5,0,0,0,0,0,2,0
-11,Tyler Adams,MF,us United States,23-305,1.eng Leeds United,1999,4,4,360,4.0,0,0,0,0,0,1,0
-12,Sam Adekugbe,DF,ca Canada,27-334,1.tr Hatayspor,1995,3,1,95,1.1,0,0,0,0,0,1,0
-13,Michel Aebischer,"MF,FW",ch Switzerland,25-344,1.it Bologna,1997,1,0,16,0.2,0,0,0,0,0,0,0
-14,Akram Afif,FW,qa Qatar,26-028,1.qa Al Sadd SC,1996,3,3,270,3.0,0,0,0,0,0,1,0
-15,Nayef Aguerd,DF,ma Morocco,26-261,1.eng West Ham,1996,4,4,353,3.9,0,0,0,0,0,0,0
-16,Brandon Aguilera,MF,cr Costa Rica,19-171,1.cr Asociación Deportiva Guanacasteca,2003,3,1,90,1.0,0,0,0,0,0,0,0
-17,Homam Ahmed,DF,qa Qatar,23-113,1.qa Al-Gharafa Sports Club,1999,3,3,262,2.9,0,0,0,0,0,1,0
-18,Manuel Akanji,DF,ch Switzerland,27-150,1.eng Manchester City,1995,4,4,360,4.0,1,0,1,0,0,1,0
-19,Nathan Aké,DF,nl Netherlands,27-301,1.eng Manchester City,1995,5,5,479,5.3,0,0,0,0,0,1,0
-20,Ahmed Alaaeldin,FW,qa Qatar,29-319,1.qa Al-Gharafa Sports Club,1993,1,0,6,0.1,0,0,0,0,0,0,0
-21,Jordi Alba,DF,es Spain,33-270,1.es Barcelona,1989,4,3,264,2.9,0,2,0,0,0,0,0
-22,Toby Alderweireld,DF,be Belgium,33-289,1.be Antwerp,1989,3,3,270,3.0,0,1,0,0,0,0,0
-23,Trent Alexander-Arnold,DF,eng England,24-070,1.eng Liverpool,1998,1,0,34,0.4,0,0,0,0,0,0,0
-24,Almoez Ali,FW,qa Qatar,26-119,1.qa Al Duhail SC,1996,3,3,224,2.5,0,0,0,0,0,1,0
-25,Alisson,GK,br Brazil,30-075,1.eng Liverpool,1992,4,4,379,4.2,0,0,0,0,0,0,0
-26,Joe Allen,MF,wls Wales,32-277,2.eng Swansea City,1990,2,1,94,1.0,0,0,0,0,0,0,0
-27,Thiago Almada,MF,ar Argentina,21-234,1.us Atlanta Utd,2001,1,0,7,0.1,0,0,0,0,0,0,0
-28,Roberto Alvarado,FW,mx Mexico,24-100,1.mx Guadalajara,1998,1,0,18,0.2,0,0,0,0,0,1,0
-29,Edson Álvarez,MF,mx Mexico,25-053,1.nl Ajax,1997,2,2,175,1.9,0,0,0,0,0,1,0
-30,Julián Álvarez,"FW,MF",ar Argentina,22-319,1.eng Manchester City,2000,6,4,362,4.0,4,0,4,0,0,0,0
-31,Kevin Álvarez,DF,mx Mexico,23-335,1.mx Pachuca,1999,2,1,70,0.8,0,0,0,0,0,0,0
-32,Dani Alves,DF,br Brazil,39-224,1.mx UNAM,1983,2,1,118,1.3,0,0,0,0,0,0,0
-33,Selim Amallah,MF,ma Morocco,26-031,1.be Standard Liège,1996,6,4,384,4.3,0,0,0,0,0,0,0
-34,Daniel Amartey,DF,gh Ghana,27-360,1.eng Leicester City,1994,3,3,251,2.8,0,0,0,0,0,2,0
-35,Ethan Ampadu,"MF,DF",wls Wales,22-093,1.it Spezia,2000,3,3,255,2.8,0,0,0,0,0,0,0
-36,Sofyan Amrabat,MF,ma Morocco,26-117,1.it Fiorentina,1996,6,6,570,6.3,0,0,0,0,0,1,0
-37,Abdulelah Al-Amri,DF,sa Saudi Arabia,25-335,1.sa Al-Nassr,1997,3,2,182,2.0,0,0,0,0,0,2,0
-38,Joachim Andersen,DF,dk Denmark,26-199,1.eng Crystal Palace,1996,3,3,270,3.0,0,1,0,0,0,0,0
-39,Karim Ansarifard,"FW,MF",ir IR Iran,32-257,1.cy AC Omonia,1990,2,0,35,0.4,0,0,0,0,0,0,0
-40,Antony,FW,br Brazil,22-295,1.eng Manchester Utd,2000,4,1,172,1.9,0,0,0,0,0,0,0
-41,Uriel Antuna,"FW,MF",mx Mexico,25-117,1.mx Cruz Azul,1997,3,0,77,0.9,0,0,0,0,0,0,0
-42,Néstor Araujo,DF,mx Mexico,31-109,1.mx América,1991,1,1,90,1.0,0,0,0,0,0,1,0
-43,Takuma Asano,FW,jp Japan,28-036,1.de Bochum,1994,4,0,165,1.8,1,0,1,0,0,0,0
-44,Marco Asensio,FW,es Spain,26-329,1.es Real Madrid,1996,4,3,229,2.5,1,0,1,0,0,0,0
-45,Ali Assadalla,MF,qa Qatar,29-331,1.qa Al Sadd SC,1993,1,0,27,0.3,0,0,0,0,0,0,0
-46,Lawrence Ati-Zigi,GK,gh Ghana,26-017,1.ch St. Gallen,1996,3,3,270,3.0,0,0,0,0,0,0,0
-47,Nathaniel Atkinson,DF,au Australia,23-186,1.sct Hearts,1999,1,1,84,0.9,0,0,0,0,0,0,0
-48,Yahya Attiat Allah,DF,ma Morocco,27-289,1.ma Wydad Casablanca,1995,5,1,228,2.5,0,1,0,0,0,0,0
-49,André Ayew,"MF,FW",gh Ghana,32-364,1.qa Al Sadd SC,1989,3,3,198,2.2,1,0,1,0,1,1,0
-50,Jordan Ayew,FW,gh Ghana,31-096,1.eng Crystal Palace,1991,3,2,136,1.5,0,1,0,0,0,0,0
-51,Sardar Azmoun,FW,ir IR Iran,27-349,1.de Leverkusen,1995,3,2,126,1.4,0,0,0,0,0,0,0
-52,César Azpilicueta,DF,es Spain,33-110,1.eng Chelsea,1989,2,2,135,1.5,0,1,0,0,0,0,0
-53,Srđan Babić,DF,rs Serbia,26-238,1.es Almería,1996,1,0,13,0.1,0,0,0,0,0,0,0
-54,Keanu Baccus,MF,au Australia,24-192,1.sct St Mirren,1998,4,1,114,1.3,0,0,0,0,0,0,0
-55,Alexander Bah,DF,dk Denmark,25-007,1.pt Benfica,1997,2,0,46,0.5,0,0,0,0,0,0,0
-56,Hattan Bahebri,MF,sa Saudi Arabia,30-153,1.sa Al-Shabab,1992,2,0,4,0.0,0,1,0,0,0,1,0
-57,Alejandro Balde,DF,es Spain,19-059,1.es Barcelona,2003,4,1,126,1.4,0,0,0,0,0,0,0
-58,Gareth Bale,FW,wls Wales,33-153,1.us Los Angeles FC,1989,3,3,225,2.5,1,0,0,1,1,1,0
-59,Fodé Ballo-Touré,DF,sn Senegal,25-347,1.it Milan,1997,1,0,7,0.1,0,0,0,0,0,0,0
-60,Badr Banoun,DF,ma Morocco,29-077,1.qa Qatar SC,1993,2,0,27,0.3,0,0,0,0,0,0,0
-61,Borna Barišić,DF,hr Croatia,30-036,1.sct Rangers,1992,1,1,120,1.3,0,0,0,0,0,1,0
-62,Meshaal Barsham,GK,qa Qatar,24-305,1.qa Al Sadd SC,1998,2,2,180,2.0,0,0,0,0,0,0,0
-63,Christian Bassogog,MF,cm Cameroon,27-059,1.cn Shanghai Shen,1995,1,0,24,0.3,0,0,0,0,0,1,0
-64,Michy Batshuayi,FW,be Belgium,29-075,1.tr Fenerbahçe,1993,2,2,151,1.7,1,0,1,0,0,0,0
-65,Jan Bednarek,DF,pl Poland,26-248,1.eng Aston Villa,1996,1,0,5,0.1,0,0,0,0,0,0,0
-66,Aziz Behich,DF,au Australia,32-000,1.sct Dundee United,1990,4,4,360,4.0,0,0,0,0,0,1,0
-67,Alireza Beiranvand,GK,ir IR Iran,30-086,1.ir Persepolis,1992,2,2,109,1.2,0,0,0,0,0,0,0
-68,Jude Bellingham,MF,eng England,19-170,1.de Dortmund,2003,5,5,414,4.6,1,1,1,0,0,0,0
-69,Anis Ben Slimane,MF,tn Tunisia,21-275,1.dk Brøndby,2001,2,2,148,1.6,0,0,0,0,0,0,0
-70,Jewison Bennette,MF,cr Costa Rica,18-184,2.eng Sunderland,2004,3,1,103,1.1,0,0,0,0,0,0,0
-71,Rodrigo Bentancur,MF,uy Uruguay,25-174,1.eng Tottenham,1997,3,3,213,2.4,0,0,0,0,0,1,0
-72,Bartosz Bereszyński,DF,pl Poland,30-157,1.it Sampdoria,1992,4,4,341,3.8,0,0,0,0,0,1,0
-73,Steven Berghuis,MF,nl Netherlands,30-362,1.nl Ajax,1991,4,1,200,2.2,0,1,0,0,0,1,0
-74,Steven Bergwijn,FW,nl Netherlands,25-069,1.nl Ajax,1997,4,3,213,2.4,0,0,0,0,0,1,0
-75,Krystian Bielik,MF,pl Poland,24-346,3.eng Derby County,1998,4,2,216,2.4,0,0,0,0,0,0,0
-76,Daley Blind,DF,nl Netherlands,32-282,1.nl Ajax,1990,5,5,423,4.7,1,1,1,0,0,0,0
-77,Celso Borges,MF,cr Costa Rica,34-203,1.cr Liga Deportiva Alajuelense,1988,3,3,249,2.8,0,0,0,0,0,1,0
-78,Milan Borjan,GK,ca Canada,35-054,1.rs Red Star,1987,3,3,270,3.0,0,0,0,0,0,0,0
-79,Karim Boudiaf,MF,qa Qatar,32-091,1.qa Al Duhail SC,1990,3,2,185,2.1,0,0,0,0,0,1,0
-80,Sofiane Boufal,FW,ma Morocco,29-090,1.fr Angers,1993,6,6,412,4.6,0,0,0,0,0,1,0
-81,Yassine Bounou,GK,ma Morocco,31-255,1.es Sevilla,1991,5,5,480,5.3,0,0,0,0,0,0,0
-82,Martin Braithwaite,"FW,MF",dk Denmark,31-194,1.es Espanyol,1991,2,1,103,1.1,0,0,0,0,0,0,0
-83,Mohammed Al-Breik,DF,sa Saudi Arabia,30-092,1.sa Al-Hilal,1992,2,1,65,0.7,0,0,0,0,0,0,0
-84,Gleison Bremer,DF,br Brazil,25-273,1.it Juventus,1997,2,1,109,1.2,0,0,0,0,0,0,0
-85,Dylan Bronn,DF,tn Tunisia,27-180,1.it Salernitana,1995,2,2,162,1.8,0,0,0,0,0,0,0
-86,Marcelo Brozović,MF,hr Croatia,30-030,1.it Inter,1992,6,6,552,6.1,0,0,0,0,0,1,0
-87,Tajon Buchanan,"MF,DF",ca Canada,23-311,1.be Club Brugge,1999,3,3,260,2.9,0,1,0,0,0,1,0
-88,Ante Budimir,FW,hr Croatia,31-147,1.es Osasuna,1991,2,0,55,0.6,0,0,0,0,0,0,0
-89,Osman Bukari,MF,gh Ghana,24-003,1.rs Red Star,1998,2,0,59,0.7,1,0,1,0,0,0,0
-90,Ali Al-Bulaihi,DF,sa Saudi Arabia,33-025,1.sa Al-Hilal,1989,3,3,216,2.4,0,0,0,0,0,1,0
-91,Firas Al-Buraikan,"MF,FW",sa Saudi Arabia,22-216,1.sa Al-Fateh,2000,3,3,268,3.0,0,1,0,0,0,0,0
-92,Sergio Busquets,MF,es Spain,34-153,1.es Barcelona,1988,4,4,363,4.0,0,0,0,0,0,1,0
-93,Martín Cáceres,DF,uy Uruguay,35-253,1.us LA Galaxy,1987,1,1,90,1.0,0,0,0,0,0,1,0
-94,Moisés Caicedo,MF,ec Ecuador,21-044,1.eng Brighton,2001,3,3,269,3.0,1,0,1,0,0,1,0
-95,Francisco Calvo,DF,cr Costa Rica,30-161,1.tr Konyaspor,1992,2,2,180,2.0,0,0,0,0,0,2,0
-96,Eduardo Camavinga,DF,fr France,20-036,1.es Real Madrid,2002,1,1,90,1.0,0,0,0,0,0,0,0
-97,Joel Campbell,"FW,MF",cr Costa Rica,30-173,1.mx León,1992,3,3,269,3.0,0,0,0,0,0,1,0
-98,João Cancelo,DF,pt Portugal,28-203,1.eng Manchester City,1994,4,3,310,3.4,0,0,0,0,0,0,0
-99,Agustín Canobbio,MF,uy Uruguay,24-076,1.br Atl Paranaense,1998,1,0,11,0.1,0,0,0,0,0,0,0
-100,Yannick Carrasco,"FW,DF",be Belgium,29-103,1.es Atlético Madrid,1993,2,2,116,1.3,0,0,0,0,0,1,0
-101,Cameron Carter-Vickers,DF,us United States,24-350,1.sct Celtic,1997,1,1,90,1.0,0,0,0,0,0,0,0
-102,Dani Carvajal,DF,es Spain,30-339,1.es Real Madrid,1992,2,1,135,1.5,0,0,0,0,0,0,0
-103,William Carvalho,MF,pt Portugal,30-253,1.es Betis,1992,4,2,215,2.4,0,0,0,0,0,0,0
-104,Casemiro,MF,br Brazil,30-296,1.eng Manchester Utd,1992,4,4,390,4.3,1,0,1,0,0,1,0
-105,Matty Cash,DF,pl Poland,25-131,1.eng Aston Villa,1997,4,4,360,4.0,0,0,0,0,0,2,0
-106,Timothy Castagne,DF,be Belgium,27-011,1.eng Leicester City,1995,3,3,270,3.0,0,0,0,0,0,0,0
-107,Jean-Charles Castelletto,DF,cm Cameroon,27-324,1.fr Nantes,1995,2,2,180,2.0,1,1,1,0,0,0,0
-108,Lucas Cavallini,FW,ca Canada,29-353,1.us Vancouver,1992,1,0,19,0.2,0,0,0,0,0,0,0
-109,Edinson Cavani,FW,uy Uruguay,35-305,1.es Valencia,1987,3,1,124,1.4,0,0,0,0,0,1,0
-110,Ghaylène Chaalali,MF,tn Tunisia,28-291,1.tn Espérance de Tunis,1994,1,0,17,0.2,0,0,0,0,0,0,0
-111,Daniel Chacón,MF,cr Costa Rica,21-249,1.cr CS Cartaginés,2001,1,0,1,0.0,0,0,0,0,0,0,0
-112,Kwon Chang-hoon,"FW,MF",kr Korea Republic,28-169,1.kr Sangju Sangmu,1994,1,1,56,0.6,0,0,0,0,0,0,0
-113,Luis Chávez,MF,mx Mexico,26-335,1.mx Pachuca,1996,3,3,270,3.0,1,0,1,0,0,0,0
-114,Walid Cheddira,FW,ma Morocco,24-328,2.it Bari,1998,2,0,64,0.7,0,0,0,0,0,2,1
-115,Roozbeh Cheshmi,"DF,MF",ir IR Iran,29-145,1.ir Esteghlal,1993,2,1,58,0.6,1,0,1,0,0,0,0
-116,Andreas Christensen,DF,dk Denmark,26-250,1.es Barcelona,1996,3,3,270,3.0,1,0,1,0,0,1,0
-117,Hong Chul,DF,kr Korea Republic,32-090,1.kr Daegu,1990,1,0,45,0.5,0,0,0,0,0,0,0
-118,José Cifuentes,MF,ec Ecuador,23-279,1.us Los Angeles FC,1999,2,0,59,0.7,0,0,0,0,0,0,0
-119,Pathé Ciss,MF,sn Senegal,28-275,1.es Rayo Vallecano,1994,3,2,146,1.6,0,0,0,0,0,1,0
-120,Sebastián Coates,DF,uy Uruguay,32-070,1.pt Sporting CP,1990,2,2,180,2.0,0,0,0,0,0,1,0
-121,Rubin Colwill,MF,wls Wales,20-233,2.eng Cardiff City,2002,1,0,10,0.1,0,0,0,0,0,0,0
-122,Kingsley Coman,FW,fr France,26-186,1.de Bayern Munich,1996,5,1,119,1.3,0,0,0,0,0,0,0
-123,Eray Cömert,DF,ch Switzerland,24-315,1.es Valencia,1998,2,0,46,0.5,0,0,0,0,0,1,0
-124,Anthony Contreras,"FW,MF",cr Costa Rica,22-321,1.cr Club Sport Herediano,2000,3,2,125,1.4,0,0,0,0,0,1,0
-125,Andreas Cornelius,FW,dk Denmark,29-275,1.dk FC Copenhagen,1993,3,1,92,1.0,0,0,0,0,0,1,0
-126,Ángel Correa,MF,ar Argentina,27-282,1.es Atlético Madrid,1995,1,0,5,0.1,0,0,0,0,0,0,0
-127,Diogo Costa,GK,pt Portugal,23-088,1.pt Porto,1999,5,5,450,5.0,0,0,0,0,0,0,0
-128,Thibaut Courtois,GK,be Belgium,30-219,1.es Real Madrid,1992,3,3,270,3.0,0,0,0,0,0,0,0
-129,Jason Cummings,FW,au Australia,27-137,1.au Central Coast,1995,1,0,35,0.4,0,0,0,0,0,0,0
-130,Aimen Dahmen,GK,tn Tunisia,25-322,1.tn CS Sfaxien,1997,3,3,270,3.0,0,0,0,0,0,0,0
-131,Diogo Dalot,DF,pt Portugal,23-273,1.eng Manchester Utd,1999,3,3,258,2.9,0,2,0,0,0,0,0
-132,Mikkel Damsgaard,"MF,FW",dk Denmark,22-166,1.eng Brentford,2000,3,1,150,1.7,0,0,0,0,0,0,0
-133,Danilo,DF,br Brazil,31-154,1.it Juventus,1991,3,3,281,3.1,0,0,0,0,0,1,0
-134,Achraf Dari,DF,ma Morocco,23-224,1.fr Brest,1999,2,1,124,1.4,0,0,0,0,0,1,0
-135,Jonathan David,"FW,MF",ca Canada,22-336,1.fr Lille,2000,3,2,192,2.1,0,0,0,0,0,0,0
-136,Alphonso Davies,"MF,DF",ca Canada,22-044,1.de Bayern Munich,2000,3,3,270,3.0,1,0,1,0,1,1,0
-137,Ben Davies,DF,wls Wales,29-236,1.eng Tottenham,1993,3,3,238,2.6,0,0,0,0,0,0,0
-138,Nasser Al-Dawsari,FW,sa Saudi Arabia,23-362,1.sa Al-Hilal,1998,1,0,5,0.1,0,0,0,0,0,0,0
-139,Salem Al-Dawsari,MF,sa Saudi Arabia,31-119,1.sa Al-Hilal,1991,3,3,270,3.0,2,0,2,0,1,1,0
-140,Giorgian De Arrascaeta,MF,uy Uruguay,28-198,1.br Flamengo,1994,2,1,108,1.2,2,0,2,0,0,0,0
-141,Kevin De Bruyne,"FW,MF",be Belgium,31-171,1.eng Manchester City,1991,3,3,270,3.0,0,0,0,0,0,0,0
-142,Charles De Ketelaere,FW,be Belgium,21-281,1.it Milan,2001,1,0,16,0.2,0,0,0,0,0,0,0
-143,Nicolás De La Cruz,MF,uy Uruguay,25-198,1.ar River Plate,1997,2,0,38,0.4,0,0,0,0,0,0,0
-144,Rodrigo De Paul,MF,ar Argentina,28-206,1.es Atlético Madrid,1994,6,6,498,5.5,0,0,0,0,0,0,0
-145,Miloš Degenek,DF,au Australia,28-232,1.us Columbus Crew,1994,4,2,183,2.0,0,0,0,0,0,2,0
-146,Thomas Delaney,MF,dk Denmark,31-104,1.es Sevilla,1991,1,1,44,0.5,0,0,0,0,0,0,0
-147,Ousmane Dembélé,FW,fr France,25-215,1.es Barcelona,1997,6,5,393,4.4,0,2,0,0,0,1,0
-148,Leander Dendoncker,"DF,MF",be Belgium,27-245,1.eng Aston Villa,1995,2,2,161,1.8,0,0,0,0,0,1,0
-149,Sergiño Dest,DF,us United States,22-043,1.it Milan,2000,4,4,305,3.4,0,1,0,0,0,1,0
-150,Ángel Di María,"MF,FW",ar Argentina,34-305,1.it Juventus,1988,4,3,225,2.5,0,1,0,0,0,0,0
-151,Boulaye Dia,FW,sn Senegal,26-030,1.it Salernitana,1996,4,4,318,3.5,1,0,1,0,0,1,0
-152,Abdou Diallo,DF,sn Senegal,26-226,1.de RB Leipzig,1996,4,4,331,3.7,0,0,0,0,0,0,0
-153,Rúben Dias,DF,pt Portugal,25-216,1.eng Manchester City,1997,4,4,360,4.0,0,0,0,0,0,1,0
-154,Krépin Diatta,"FW,MF",sn Senegal,23-294,1.fr Monaco,1999,3,3,181,2.0,0,0,0,0,0,0,0
-155,Famara Diedhiou,FW,sn Senegal,30-001,1.tr Alanyaspor,1992,2,1,92,1.0,1,0,1,0,0,0,0
-156,Bamba Dieng,FW,sn Senegal,22-268,1.fr Marseille,2000,4,0,100,1.1,1,0,1,0,0,0,0
-157,Eric Dier,DF,eng England,28-335,1.eng Tottenham,1994,2,0,36,0.4,0,0,0,0,0,0,0
-158,Axel Disasi,DF,fr France,24-280,1.fr Monaco,1998,2,1,91,1.0,0,0,0,0,0,0,0
-159,Alexander Djiku,"DF,FW",gh Ghana,28-129,1.fr Strasbourg,1994,2,1,97,1.1,0,0,0,0,0,0,0
-160,Ritsu Doan,FW,jp Japan,24-183,1.de Freiburg,1998,4,2,217,2.4,2,0,2,0,0,0,0
-161,Jeremy Doku,"MF,FW",be Belgium,20-203,1.fr Rennes,2002,1,0,19,0.2,0,0,0,0,0,0,0
-162,Kasper Dolberg,FW,dk Denmark,25-071,1.es Sevilla,1997,3,1,114,1.3,0,0,0,0,0,0,0
-163,Mohamed Dräger,DF,tn Tunisia,26-174,1.ch Luzern,1996,2,2,132,1.5,0,0,0,0,0,0,0
-164,Óscar Duarte,DF,cr Costa Rica,33-196,1.sa Al-Wehda,1989,3,3,270,3.0,0,0,0,0,0,1,0
-165,Mitchell Duke,FW,au Australia,31-332,2.jp Fagi Okayama,1991,4,4,270,3.0,1,0,1,0,0,1,0
-166,Denzel Dumfries,DF,nl Netherlands,26-242,1.it Inter,1996,5,5,479,5.3,1,2,1,0,0,2,1
-167,Paulo Dybala,FW,ar Argentina,29-031,1.it Roma,1993,1,0,17,0.2,0,0,0,0,0,0,0
-168,Enzo Ebosse,DF,cm Cameroon,23-280,1.it Udinese,1999,1,1,90,1.0,0,0,0,0,0,0,0
-169,Ederson,GK,br Brazil,29-121,1.eng Manchester City,1993,1,1,90,1.0,0,0,0,0,0,0,0
-170,Jorge Eduardo Sánchez,DF,mx Mexico,25-006,1.nl Ajax,1997,2,2,175,1.9,0,0,0,0,0,1,0
-171,Nico Elvedi,DF,ch Switzerland,26-077,1.de M'Gladbach,1996,2,2,180,2.0,0,0,0,0,0,1,0
-172,Breel Embolo,FW,ch Switzerland,25-305,1.fr Monaco,1997,4,4,323,3.6,2,0,2,0,0,0,0
-173,Youssef En-Nesyri,FW,ma Morocco,25-198,1.es Sevilla,1997,6,6,452,5.0,2,0,2,0,0,0,0
-174,Wataru Endo,MF,jp Japan,29-310,1.de Stuttgart,1993,4,3,304,3.4,0,0,0,0,0,1,0
-175,Devis Epassy,GK,cm Cameroon,29-317,1.sa Abha,1993,2,2,180,2.0,0,0,0,0,0,0,0
-176,Christian Eriksen,MF,dk Denmark,30-305,1.eng Manchester Utd,1992,3,3,270,3.0,0,0,0,0,0,0,0
-177,Michael Estrada,FW,ec Ecuador,26-253,1.mx Cruz Azul,1996,3,3,225,2.5,0,0,0,0,0,0,0
-178,Pervis Estupiñán,DF,ec Ecuador,24-329,1.eng Brighton,1998,3,3,270,3.0,0,0,0,0,0,0,0
-179,Stephen Eustáquio,MF,ca Canada,25-360,1.pt Porto,1996,2,2,125,1.4,0,0,0,0,0,0,0
-180,Saeid Ezatolahi,MF,ir IR Iran,26-076,2.dk Vejle BK,1996,3,2,217,2.4,0,0,0,0,0,0,0
-181,Abdessamad Ezzalzouli,"FW,MF",ma Morocco,20-364,1.es Osasuna,2001,3,0,93,1.0,0,0,0,0,0,0,0
-182,Fabinho,MF,br Brazil,29-054,1.eng Liverpool,1993,1,1,90,1.0,0,0,0,0,0,0,0
-183,Collins Fai,DF,cm Cameroon,30-125,1.sa Al-Ta'ee,1992,3,3,270,3.0,0,0,0,0,0,2,0
-184,Salman Al-Faraj,MF,sa Saudi Arabia,33-137,1.sa Al-Hilal,1989,1,1,44,0.5,0,0,0,0,0,0,0
-185,Christian Fassnacht,FW,ch Switzerland,29-035,1.ch Young Boys,1993,1,0,8,0.1,0,0,0,0,0,0,0
-186,Abdul Fatawu Issahaku,FW,gh Ghana,18-283,1.pt Sporting CP,2004,1,0,1,0.0,0,0,0,0,0,0,0
-187,Ansu Fati,FW,es Spain,20-046,1.es Barcelona,2002,2,0,46,0.5,0,0,0,0,0,0,0
-188,João Félix,FW,pt Portugal,23-036,1.es Atlético Madrid,1999,4,4,331,3.7,1,2,1,0,0,1,0
-189,Bruno Fernandes,"FW,MF",pt Portugal,28-099,1.eng Manchester Utd,1994,4,4,356,4.0,2,3,1,1,1,1,0
-190,Edimilson Fernandes,"FW,DF",ch Switzerland,26-245,1.de Mainz 05,1996,3,1,145,1.6,0,0,0,0,0,0,0
-191,Enzo Fernández,MF,ar Argentina,21-333,1.pt Benfica,2001,6,4,444,4.9,1,1,1,0,0,0,0
-192,Jesús Ferreira,FW,us United States,21-357,1.us FC Dallas,2000,1,1,45,0.5,0,0,0,0,0,0,0
-193,Phil Foden,"FW,MF",eng England,22-202,1.eng Manchester City,2000,4,3,258,2.9,1,2,1,0,0,0,0
-194,Youssouf Fofana,MF,fr France,23-340,1.fr Monaco,1999,5,2,202,2.2,0,0,0,0,0,0,0
-195,Juan Foyth,DF,ar Argentina,24-338,1.es Villarreal,1998,1,0,5,0.1,0,0,0,0,0,0,0
-196,Alan Franco,MF,ec Ecuador,24-117,1.ar Talleres,1998,2,1,46,0.5,0,0,0,0,0,0,0
-197,Przemysław Frankowski,MF,pl Poland,27-248,1.fr Lens,1995,4,3,240,2.7,0,0,0,0,0,1,0
-198,Fred,MF,br Brazil,29-286,1.eng Manchester Utd,1993,4,2,142,1.6,0,0,0,0,0,1,0
-199,Fabian Frei,MF,ch Switzerland,33-342,1.ch Basel,1989,2,0,25,0.3,0,0,0,0,0,0,0
-200,Remo Freuler,MF,ch Switzerland,30-245,1.eng Nott'ham Forest,1992,4,4,323,3.6,1,0,1,0,0,0,0
-201,Keysher Fuller,"DF,MF",cr Costa Rica,28-158,1.cr Club Sport Herediano,1994,3,3,253,2.8,1,0,1,0,0,0,0
-202,Niclas Füllkrug,FW,de Germany,29-310,1.de Werder Bremen,1993,3,0,69,0.8,2,1,2,0,0,0,0
-203,Rogelio Funes Mori,FW,mx Mexico,31-286,1.mx Monterrey,1991,1,0,5,0.1,0,0,0,0,0,0,0
-204,Cody Gakpo,"FW,MF",nl Netherlands,23-223,1.nl PSV Eindhoven,1999,5,5,450,5.0,3,0,3,0,0,0,0
-205,Hernán Galíndez,GK,ec Ecuador,35-261,1.ec SD Aucas,1987,3,3,270,3.0,0,0,0,0,0,0,0
-206,Jesús Gallardo,DF,mx Mexico,28-123,1.mx Monterrey,1994,3,3,270,3.0,0,0,0,0,0,0,0
-207,Idrissa Gana Gueye,MF,sn Senegal,33-081,1.eng Everton,1989,3,3,270,3.0,0,0,0,0,0,2,0
-208,Gavi,MF,es Spain,18-133,1.es Barcelona,2004,4,4,284,3.2,1,0,1,0,0,0,0
-209,Sultan Al-Ghanam,"DF,MF",sa Saudi Arabia,28-224,1.sa Al-Nassr,1994,3,1,126,1.4,0,0,0,0,0,0,0
-210,Nader Ghandri,DF,tn Tunisia,27-301,1.tn Club Africain,1995,1,1,90,1.0,0,0,0,0,0,0,0
-211,Saman Ghoddos,MF,ir IR Iran,29-101,1.eng Brentford,1993,1,0,45,0.5,0,0,0,0,0,0,0
-212,Ali Gholizadeh,"MF,FW",ir IR Iran,26-281,1.be Charleroi,1996,3,2,199,2.2,0,1,0,0,0,0,0
-213,Matthias Ginter,DF,de Germany,28-331,1.de Freiburg,1994,1,0,1,0.0,0,0,0,0,0,0,0
-214,Olivier Giroud,FW,fr France,36-077,1.it Milan,1986,5,5,379,4.2,4,0,4,0,0,0,0
-215,Kamil Glik,DF,pl Poland,34-316,2.it Benevento,1988,4,4,360,4.0,0,0,0,0,0,0,0
-216,Serge Gnabry,"FW,MF",de Germany,27-155,1.de Bayern Munich,1995,3,3,263,2.9,1,1,1,0,0,0,0
-217,Diego Godín,DF,uy Uruguay,36-303,1.ar Vélez Sarsf,1986,2,2,151,1.7,0,0,0,0,0,0,0
-218,Maxi Gómez,FW,uy Uruguay,26-124,1.tr Trabzonspor,1996,2,0,30,0.3,0,0,0,0,0,0,0
-219,Papu Gómez,"MF,FW",ar Argentina,34-304,1.es Sevilla,1988,2,2,107,1.2,0,0,0,0,0,0,0
-220,Shūichi Gonda,GK,jp Japan,33-288,1.jp S-Pulse,1989,4,4,390,4.3,0,0,0,0,0,0,0
-221,Craig Goodwin,MF,au Australia,31-000,1.au Adelaide,1991,4,3,234,2.6,1,1,1,0,0,0,0
-222,Leon Goretzka,MF,de Germany,27-313,1.de Bayern Munich,1995,3,2,159,1.8,0,0,0,0,0,1,0
-223,Mario Götze,MF,de Germany,30-196,1.de Eint Frankfurt,1992,2,0,36,0.4,0,0,0,0,0,0,0
-224,Jack Grealish,FW,eng England,27-097,1.eng Manchester City,1995,5,0,86,1.0,1,0,1,0,0,0,0
-225,Antoine Griezmann,MF,fr France,31-270,1.es Atlético Madrid,1991,6,5,467,5.2,0,3,0,0,0,1,0
-226,Kamil Grosicki,MF,pl Poland,34-191,1.pl Pogoń Szczecin,1988,1,0,4,0.0,0,0,0,0,0,0,0
-227,Carlos Gruezo,MF,ec Ecuador,27-241,1.de Augsburg,1995,1,1,45,0.5,0,0,0,0,0,0,0
-228,Marko Grujić,MF,rs Serbia,26-247,1.pt Porto,1996,1,0,13,0.1,0,0,0,0,0,0,0
-229,Andrés Guardado,MF,mx Mexico,36-079,1.es Betis,1986,1,1,41,0.5,0,0,0,0,0,0,0
-230,Nemanja Gudelj,"MF,DF",rs Serbia,31-030,1.es Sevilla,1991,2,1,92,1.0,0,0,0,0,0,2,0
-231,Mattéo Guendouzi,"FW,MF",fr France,23-246,1.fr Marseille,1999,1,1,78,0.9,0,0,0,0,0,0,0
-232,Raphaël Guerreiro,DF,pt Portugal,28-359,1.de Dortmund,1993,4,3,279,3.1,1,2,1,0,0,0,0
-233,Cho Guesung,FW,kr Korea Republic,24-325,1.kr Jeonbuk,1998,4,3,275,3.1,2,0,2,0,0,1,0
-234,Pape Gueye,MF,sn Senegal,23-326,1.fr Marseille,1999,3,1,153,1.7,0,0,0,0,0,0,0
-235,Bruno Guimarães,MF,br Brazil,25-030,1.eng Newcastle Utd,1997,2,0,69,0.8,0,0,0,0,0,1,0
-236,İlkay Gündoğan,MF,de Germany,32-053,1.eng Manchester City,1990,3,3,189,2.1,1,0,0,1,1,0,0
-237,Erick Gutiérrez,MF,mx Mexico,27-184,1.nl PSV Eindhoven,1995,1,0,49,0.5,0,0,0,0,0,1,0
-238,Joško Gvardiol,DF,hr Croatia,20-327,1.de RB Leipzig,2002,6,6,600,6.7,0,0,0,0,0,0,0
-239,Asiri Haitham,FW,sa Saudi Arabia,21-266,2.sa Al-Ahli,2001,1,0,2,0.0,0,0,0,0,0,0,0
-240,Ehsan Hajsafi,"MF,DF",ir IR Iran,32-294,1.gr AEK Athens,1990,3,3,237,2.6,0,0,0,0,0,0,0
-241,Achraf Hakimi,DF,ma Morocco,24-042,1.fr Paris S-G,1998,6,6,541,6.0,0,1,0,0,0,0,0
-242,Abderrazak Hamdallah,FW,ma Morocco,31-364,1.sa Al-Ittihad,1990,4,0,68,0.8,0,0,0,0,0,0,0
-243,Abdelkarim Hassan,DF,qa Qatar,29-110,1.qa Al Sadd SC,1993,3,3,270,3.0,0,0,0,0,0,0,0
-244,Ali Al Hassan,MF,sa Saudi Arabia,25-287,1.sa Al-Nassr,1997,1,1,45,0.5,0,0,0,0,0,1,0
-245,Abdulaziz Hatem,MF,qa Qatar,32-049,1.qa Al Rayyan SC,1990,3,2,196,2.2,0,0,0,0,0,0,0
-246,Kai Havertz,FW,de Germany,23-188,1.eng Chelsea,1999,2,1,102,1.1,2,0,2,0,0,0,0
-247,Hassan Al-Haydos,MF,qa Qatar,32-005,1.qa Al Sadd SC,1990,3,3,206,2.3,0,0,0,0,0,0,0
-248,Eden Hazard,MF,be Belgium,31-343,1.es Real Madrid,1991,3,2,124,1.4,0,0,0,0,0,0,0
-249,Thorgan Hazard,FW,be Belgium,29-262,1.de Dortmund,1993,2,1,106,1.2,0,0,0,0,0,0,0
-250,Hwang Hee-chan,"MF,FW",kr Korea Republic,26-324,1.eng Wolves,1996,2,1,115,1.3,1,0,1,0,0,1,0
-251,Jordan Henderson,MF,eng England,32-182,1.eng Liverpool,1990,4,3,271,3.0,1,0,1,0,0,0,0
-252,Wayne Hennessey,GK,wls Wales,35-326,1.eng Nott'ham Forest,1987,2,2,175,1.9,0,0,0,0,0,0,1
-253,Lucas Hernández,DF,fr France,26-305,1.de Bayern Munich,1996,1,1,12,0.1,0,0,0,0,0,0,0
-254,Theo Hernández,DF,fr France,25-071,1.it Milan,1997,5,4,438,4.9,1,2,1,0,0,1,0
-255,Héctor Herrera,MF,mx Mexico,32-241,1.us Houston Dynamo,1990,2,2,160,1.8,0,0,0,0,0,1,0
-256,Son Heung-min,"FW,MF",kr Korea Republic,30-161,1.eng Tottenham,1992,4,4,360,4.0,0,1,0,0,0,0,0
-257,Piero Hincapié,DF,ec Ecuador,20-341,1.de Leverkusen,2002,3,3,270,3.0,0,0,0,0,0,0,0
-258,Jonas Hofmann,FW,de Germany,30-155,1.de M'Gladbach,1992,2,0,30,0.3,0,0,0,0,0,0,0
-259,Junior Hoilett,"FW,MF",ca Canada,32-194,2.eng Reading,1990,3,2,161,1.8,0,0,0,0,0,1,0
-260,Martin Hongla,MF,cm Cameroon,24-275,1.it Hellas Verona,1998,2,2,121,1.3,0,0,0,0,0,0,0
-261,Ricardo Horta,FW,pt Portugal,28-092,1.pt Braga,1994,3,1,119,1.3,1,0,1,0,0,0,0
-262,Hossein Hosseini,GK,ir IR Iran,30-169,1.ir Esteghlal,1992,2,1,161,1.8,0,0,0,0,0,0,0
-263,Majid Hosseini,DF,ir IR Iran,26-179,1.tr Kayserispor,1996,3,3,270,3.0,0,0,0,0,0,1,0
-264,Ajdin Hrustic,"MF,FW",au Australia,26-164,1.it Hellas Verona,1996,3,0,62,0.7,0,0,0,0,0,0,0
-265,Atiba Hutchinson,MF,ca Canada,39-311,1.tr Beşiktaş,1983,3,2,159,1.8,0,0,0,0,0,0,0
-266,Pierre Højbjerg,MF,dk Denmark,27-133,1.eng Tottenham,1995,3,3,270,3.0,0,0,0,0,0,0,0
-267,Romario Ibarra,MF,ec Ecuador,28-083,1.mx Pachuca,1994,2,1,68,0.8,0,0,0,0,0,0,0
-268,Ivan Ilić,MF,rs Serbia,21-274,1.it Hellas Verona,2001,1,0,34,0.4,0,0,0,0,0,0,0
-269,Hwang In-beom,MF,kr Korea Republic,26-087,1.gr Olympiacos,1996,4,4,334,3.7,0,0,0,0,0,0,0
-270,Jackson Irvine,"MF,FW",au Australia,29-284,2.de St. Pauli,1993,4,4,354,3.9,0,0,0,0,0,2,0
-271,Ko Itakura,DF,jp Japan,25-323,1.de M'Gladbach,1997,3,3,270,3.0,0,1,0,0,0,2,0
-272,Hiroki Ito,DF,jp Japan,23-218,1.de Stuttgart,1999,1,0,45,0.5,0,0,0,0,0,0,0
-273,Junya Ito,"MF,FW",jp Japan,29-282,1.fr Reims,1993,4,3,324,3.6,0,1,0,0,0,0,0
-274,Yahya Jabrane,MF,ma Morocco,31-181,1.ma Wydad Casablanca,1991,2,0,15,0.2,0,0,0,0,0,0,0
-275,Nicolas Jackson,FW,sn Senegal,21-179,1.es Villarreal,2001,1,0,17,0.2,0,0,0,0,0,0,0
-276,Lee Jae-sung,"MF,FW",kr Korea Republic,30-128,1.de Mainz 05,1992,3,3,211,2.3,0,0,0,0,0,0,0
-277,Alireza Jahanbakhsh,MF,ir IR Iran,29-127,1.nl Feyenoord,1993,2,1,59,0.7,0,0,0,0,0,2,0
-278,Ismail Jakobs,DF,sn Senegal,23-121,1.fr Monaco,1999,4,3,278,3.1,0,1,0,0,0,1,0
-279,Abolfazl Jalali,DF,ir IR Iran,24-173,1.ir Esteghlal,1998,1,0,19,0.2,0,0,0,0,0,1,0
-280,Daniel James,"FW,MF",wls Wales,25-036,1.eng Fulham,1997,3,2,154,1.7,0,0,0,0,0,1,0
-281,Vincent Janssen,FW,nl Netherlands,28-184,1.be Antwerp,1994,2,1,86,1.0,0,0,0,0,0,0,0
-282,Ardon Jasari,FW,ch Switzerland,20-139,1.ch Luzern,2002,1,0,2,0.0,0,0,0,0,0,0,0
-283,Issam Jebali,FW,tn Tunisia,30-356,1.dk Odense,1991,3,2,182,2.0,0,0,0,0,0,0,0
-284,Artur Jędrzejczyk,DF,pl Poland,35-042,1.pl Legia Warsaw,1987,1,0,19,0.2,0,0,0,0,0,0,0
-285,Mathias Jensen,MF,dk Denmark,26-349,1.eng Brentford,1996,2,1,84,0.9,0,0,0,0,0,1,0
-286,Gabriel Jesus,FW,br Brazil,25-257,1.eng Arsenal,1997,3,1,93,1.0,0,0,0,0,0,0,0
-287,Raúl Jiménez,FW,mx Mexico,31-225,1.eng Wolves,1991,3,0,59,0.7,0,0,0,0,0,0,0
-288,Kim Jin-su,DF,kr Korea Republic,30-186,1.kr Jeonbuk,1992,4,4,315,3.5,0,1,0,0,0,0,0
-289,Brennan Johnson,"FW,MF",wls Wales,21-207,1.eng Nott'ham Forest,2001,3,0,91,1.0,0,0,0,0,0,0,0
-290,Alistair Johnston,DF,ca Canada,24-069,1.us CF Montréal,1998,3,3,270,3.0,0,0,0,0,0,1,0
-291,Frenkie de Jong,MF,nl Netherlands,25-218,1.es Barcelona,1997,5,5,475,5.3,1,1,1,0,0,1,0
-292,Luuk de Jong,FW,nl Netherlands,32-111,1.nl PSV Eindhoven,1990,1,0,57,0.6,0,0,0,0,0,0,0
-293,Luka Jović,FW,rs Serbia,24-358,1.it Fiorentina,1997,1,0,36,0.4,0,0,0,0,0,1,0
-294,Son Jun-ho,"MF,DF",kr Korea Republic,30-218,1.cn Shandong Lunen,1992,3,0,72,0.8,0,0,0,0,0,0,0
-295,Vinicius Júnior,FW,br Brazil,22-157,1.es Real Madrid,2000,4,4,299,3.3,1,2,1,0,0,0,0
-296,Josip Juranović,DF,hr Croatia,27-122,1.sct Celtic,1995,6,6,600,6.7,0,1,0,0,0,0,0
-297,Daichi Kamada,"FW,MF",jp Japan,26-133,1.de Eint Frankfurt,1996,4,4,322,3.6,0,0,0,0,0,0,0
-298,Jakub Kamiński,MF,pl Poland,20-194,1.de Wolfsburg,2002,4,2,233,2.6,0,0,0,0,0,0,0
-299,Hossein Kanaanizadegan,DF,ir IR Iran,28-268,1.qa Al Ahli SC,1994,1,0,45,0.5,0,0,0,0,0,1,0
-300,Harry Kane,FW,eng England,29-141,1.eng Tottenham,1993,5,5,402,4.5,2,3,1,1,2,0,0
-301,Lee Kangin,"MF,FW",kr Korea Republic,21-300,1.es Mallorca,2001,4,1,147,1.6,0,1,0,0,0,1,0
-302,Mohamed Kanno,"MF,FW",sa Saudi Arabia,28-085,1.sa Al-Hilal,1994,3,3,270,3.0,0,0,0,0,0,0,0
-303,Fran Karačić,DF,au Australia,26-218,2.it Brescia,1996,2,1,93,1.0,0,0,0,0,0,0,0
-304,Ali Karimi,MF,ir IR Iran,28-308,1.tr Kayserispor,1994,3,1,99,1.1,0,0,0,0,0,0,0
-305,Mark-Anthony Kaye,MF,ca Canada,28-014,1.us Toronto FC,1994,1,1,59,0.7,0,0,0,0,0,0,0
-306,Wajdi Kechrida,DF,tn Tunisia,27-041,1.gr Atromitos,1995,3,1,111,1.2,0,0,0,0,0,1,0
-307,Thilo Kehrer,DF,de Germany,26-086,1.eng West Ham,1996,1,1,69,0.8,0,0,0,0,0,1,0
-308,Wahbi Khazri,"FW,MF",tn Tunisia,31-311,1.fr Montpellier,1991,2,1,83,0.9,1,0,1,0,0,0,0
-309,Musab Kheder,DF,qa Qatar,29-081,1.qa Al Sadd SC,1993,1,0,6,0.1,0,0,0,0,0,0,0
-310,Boualem Khoukhi,DF,qa Qatar,32-160,1.qa Al Sadd SC,1990,3,3,270,3.0,0,0,0,0,0,0,0
-311,Joshua Kimmich,"MF,DF",de Germany,27-311,1.de Bayern Munich,1995,3,3,270,3.0,0,0,0,0,0,1,0
-312,Jakub Kiwior,DF,pl Poland,22-304,1.it Spezia,2000,4,4,355,3.9,0,0,0,0,0,1,0
-313,Simon Kjær,DF,dk Denmark,33-265,1.it Milan,1989,1,1,64,0.7,0,0,0,0,0,0,0
-314,Davy Klaassen,"MF,FW",nl Netherlands,29-298,1.nl Ajax,1993,4,3,190,2.1,1,2,1,0,0,0,0
-315,Lukas Klostermann,DF,de Germany,26-196,1.de RB Leipzig,1996,2,0,66,0.7,0,0,0,0,0,0,0
-316,Gregor Kobel,GK,ch Switzerland,25-010,1.de Dortmund,1997,1,1,90,1.0,0,0,0,0,0,0,0
-317,Koke,MF,es Spain,30-342,1.es Atlético Madrid,1992,2,0,52,0.6,0,0,0,0,0,0,0
-318,Randal Kolo Muani,FW,fr France,24-011,1.de Eint Frankfurt,1998,2,1,102,1.1,1,0,1,0,0,0,0
-319,Ibrahima Konaté,DF,fr France,23-205,1.eng Liverpool,1999,4,3,286,3.2,0,0,0,0,0,0,0
-320,Ismaël Koné,"MF,DF",ca Canada,20-193,1.us CF Montréal,2002,3,0,109,1.2,0,0,0,0,0,0,0
-321,Teun Koopmeiners,MF,nl Netherlands,24-291,1.it Atalanta,1998,5,1,219,2.4,0,1,0,0,0,1,0
-322,Filip Kostić,DF,rs Serbia,30-045,1.it Juventus,1992,2,2,179,2.0,0,0,0,0,0,0,0
-323,Kalidou Koulibaly,DF,sn Senegal,31-179,1.eng Chelsea,1991,4,4,360,4.0,1,0,1,0,0,1,0
-324,Jules Koundé,DF,fr France,24-034,1.es Barcelona,1998,5,4,361,4.0,0,0,0,0,0,1,0
-325,Cheikhou Kouyaté,MF,sn Senegal,32-360,1.eng Nott'ham Forest,1989,1,1,72,0.8,0,0,0,0,0,0,0
-326,Mateo Kovačić,MF,hr Croatia,28-224,1.eng Chelsea,1994,6,6,545,6.1,0,0,0,0,0,2,0
-327,Andrej Kramarić,FW,hr Croatia,31-180,1.de Hoffenheim,1991,6,6,414,4.6,2,0,2,0,0,0,0
-328,Grzegorz Krychowiak,MF,pl Poland,32-321,1.sa Al-Shabab,1990,4,4,332,3.7,0,0,0,0,0,1,0
-329,Takefusa Kubo,FW,jp Japan,21-195,1.es Real Sociedad,2001,2,2,90,1.0,0,0,0,0,0,0,0
-330,Pierre Kunde,MF,cm Cameroon,27-143,1.gr Olympiacos,1995,2,2,131,1.5,0,0,0,0,0,1,0
-331,Garang Kuol,"FW,MF",au Australia,18-092,1.au Central Coast,2004,2,0,37,0.4,0,0,0,0,0,0,0
-332,Daniel Kyereh,"MF,DF",gh Ghana,26-283,1.de Freiburg,1996,3,0,33,0.4,0,0,0,0,0,0,0
-333,Kwon Kyung-won,DF,kr Korea Republic,30-319,1.jp Gamba Osaka,1992,2,1,91,1.0,0,0,0,0,0,0,0
-334,Aïssa Laïdouni,MF,tn Tunisia,26-003,1.hu Ferencváros,1996,3,3,243,2.7,0,1,0,0,0,1,0
-335,Tariq Lamptey,DF,gh Ghana,22-077,1.eng Brighton,2000,2,1,102,1.1,0,0,0,0,0,1,0
-336,Noa Lang,MF,nl Netherlands,23-182,1.be Club Brugge,1999,1,0,8,0.1,0,0,0,0,0,1,0
-337,Aymeric Laporte,DF,es Spain,28-203,1.eng Manchester City,1994,3,3,300,3.3,0,0,0,0,0,1,0
-338,Cyle Larin,FW,ca Canada,27-243,1.be Club Brugge,1995,3,2,137,1.5,0,0,0,0,0,0,0
-339,Richie Laryea,"DF,MF",ca Canada,27-343,1.us Toronto FC,1995,3,2,160,1.8,0,0,0,0,0,0,0
-340,Darko Lazović,DF,rs Serbia,32-092,1.it Hellas Verona,1990,1,0,25,0.3,0,0,0,0,0,0,0
-341,Rafael Leão,FW,pt Portugal,23-189,1.it Milan,1999,5,0,88,1.0,2,0,2,0,0,0,0
-342,Mathew Leckie,"MF,FW",au Australia,31-315,1.au Melb City,1991,4,4,333,3.7,1,1,1,0,0,0,0
-343,Robert Lewandowski,FW,pl Poland,34-117,1.es Barcelona,1988,4,4,360,4.0,2,1,1,1,2,0,0
-344,Matthijs de Ligt,DF,nl Netherlands,23-126,1.de Bayern Munich,1999,2,1,91,1.0,0,0,0,0,0,1,0
-345,Jesper Lindstrøm,"MF,FW",dk Denmark,22-290,1.de Eint Frankfurt,2000,3,2,200,2.2,0,0,0,0,0,0,0
-346,Marko Livaja,"FW,MF",hr Croatia,29-112,1.hr Hajduk Split,1993,5,2,176,2.0,1,0,1,0,0,0,0
-347,Dominik Livaković,GK,hr Croatia,27-341,1.hr Dinamo Zagreb,1995,6,6,600,6.7,0,0,0,0,0,1,0
-348,Marcos Llorente,DF,es Spain,27-320,1.es Atlético Madrid,1995,1,1,120,1.3,0,0,0,0,0,0,0
-349,Hugo Lloris,GK,fr France,35-355,1.eng Tottenham,1986,5,5,450,5.0,0,0,0,0,0,0,0
-350,Dejan Lovren,DF,hr Croatia,33-164,1.ru Zenit,1989,6,6,600,6.7,0,1,0,0,0,1,0
-351,Hirving Lozano,FW,mx Mexico,27-139,1.it Napoli,1995,3,3,252,2.8,0,0,0,0,0,0,0
-352,Romelu Lukaku,FW,be Belgium,29-217,1.it Inter,1993,2,0,55,0.6,0,0,0,0,0,0,0
-353,Saša Lukić,MF,rs Serbia,26-125,1.it Torino,1996,3,3,245,2.7,0,0,0,0,0,2,0
-354,Ali Maâloul,DF,tn Tunisia,32-349,1.eg Al Ahly SC,1990,1,1,90,1.0,0,0,0,0,0,0,0
-355,Awer Mabil,MF,au Australia,27-092,1.es Cádiz,1995,2,0,24,0.3,0,0,0,0,0,0,0
-356,Alexis Mac Allister,MF,ar Argentina,23-357,1.eng Brighton,1998,5,5,435,4.8,1,0,1,0,0,0,0
-357,Jamie Maclaren,FW,au Australia,29-140,1.au Melb City,1993,3,0,55,0.6,0,0,0,0,0,0,0
-358,Assim Madibo,MF,qa Qatar,26-055,1.qa Al Duhail SC,1996,2,2,153,1.7,0,0,0,0,0,1,0
-359,Abdullah Madu,"DF,MF",sa Saudi Arabia,29-154,1.sa Al-Nassr,1993,1,0,45,0.5,0,0,0,0,0,1,0
-360,Daizen Maeda,FW,jp Japan,25-057,1.sct Celtic,1997,3,3,180,2.0,1,0,1,0,0,0,0
-361,Harry Maguire,DF,eng England,29-286,1.eng Manchester Utd,1993,5,5,429,4.8,0,1,0,0,0,1,0
-362,Lovro Majer,MF,hr Croatia,24-333,1.fr Rennes,1998,6,0,65,0.7,1,0,1,0,0,0,0
-363,Nemanja Maksimović,MF,rs Serbia,27-324,1.es Getafe,1995,3,1,122,1.4,0,0,0,0,0,0,0
-364,Abdulellah Al-Malki,MF,sa Saudi Arabia,28-066,1.sa Al-Hilal,1994,2,2,174,1.9,0,0,0,0,0,2,0
-365,Steve Mandanda,GK,fr France,37-263,1.fr Rennes,1985,1,1,90,1.0,0,0,0,0,0,0,0
-366,José María Giménez,DF,uy Uruguay,27-330,1.es Atlético Madrid,1995,3,3,270,3.0,0,0,0,0,0,1,0
-367,João Mário,"FW,MF",pt Portugal,29-331,1.pt Benfica,1993,2,1,84,0.9,0,0,0,0,0,0,0
-368,Marquinhos,DF,br Brazil,28-216,1.fr Paris S-G,1994,5,4,426,4.7,0,0,0,0,0,1,0
-369,Henry Martín,FW,mx Mexico,30-028,1.mx América,1992,2,2,146,1.6,1,0,1,0,0,0,0
-370,Martinelli,FW,br Brazil,21-181,1.eng Arsenal,2001,3,1,113,1.3,0,0,0,0,0,0,0
-371,Carlos Martínez,DF,cr Costa Rica,23-261,1.cr AD San Carlos,1999,1,1,45,0.5,0,0,0,0,0,0,0
-372,Emiliano Martínez,GK,ar Argentina,30-105,1.eng Aston Villa,1992,6,6,570,6.3,0,0,0,0,0,0,0
-373,Lautaro Martínez,FW,ar Argentina,25-116,1.it Inter,1997,5,2,223,2.5,0,0,0,0,0,0,0
-374,Lisandro Martínez,DF,ar Argentina,24-332,1.eng Manchester Utd,1998,5,2,303,3.4,0,0,0,0,0,1,0
-375,Pape Matar Sarr,MF,sn Senegal,20-093,1.eng Tottenham,2002,2,0,59,0.7,0,0,0,0,0,0,0
-376,Rónald Matarrita,"DF,MF",cr Costa Rica,28-160,1.us FC Cincinnati,1994,2,0,26,0.3,0,0,0,0,0,0,0
-377,Eric Maxim Choupo-Moting,"FW,MF",cm Cameroon,33-268,1.de Bayern Munich,1989,3,3,253,2.8,1,0,1,0,0,0,0
-378,Noussair Mazraoui,DF,ma Morocco,25-032,1.de Bayern Munich,1997,5,5,365,4.1,0,0,0,0,0,0,0
-379,Kylian Mbappé,FW,fr France,23-361,1.fr Paris S-G,1998,6,5,478,5.3,5,2,5,0,0,0,0
-380,Bryan Mbeumo,"FW,MF",cm Cameroon,23-131,1.eng Brentford,1999,3,3,233,2.6,0,0,0,0,0,0,0
-381,Riley McGree,"FW,MF",au Australia,24-044,2.eng Middlesbrough,1998,4,4,265,2.9,0,1,0,0,0,0,0
-382,Weston McKennie,MF,us United States,24-110,1.it Juventus,1998,4,4,271,3.0,0,0,0,0,0,1,0
-383,Hannibal Mejbri,MF,tn Tunisia,19-329,2.eng Birmingham City,2003,1,0,11,0.1,0,0,0,0,0,0,0
-384,Memphis,FW,nl Netherlands,28-306,1.es Barcelona,1994,5,3,297,3.3,1,0,1,0,0,1,0
-385,Nuno Mendes,DF,pt Portugal,20-180,1.fr Paris S-G,2002,1,1,41,0.5,0,0,0,0,0,0,0
-386,Jhegson Méndez,MF,ec Ecuador,25-234,1.us Los Angeles FC,1997,2,2,180,2.0,0,0,0,0,0,2,0
-387,Edouard Mendy,GK,sn Senegal,30-290,1.eng Chelsea,1992,4,4,360,4.0,0,0,0,0,0,0,0
-388,Nampalys Mendy,MF,sn Senegal,30-176,1.eng Leicester City,1992,4,3,272,3.0,0,0,0,0,0,1,0
-389,Gideon Mensah,DF,gh Ghana,24-151,1.fr Auxerre,1998,1,1,87,1.0,0,1,0,0,0,0,0
-390,Chris Mepham,DF,wls Wales,25-041,1.eng Bournemouth,1997,3,3,270,3.0,0,0,0,0,0,1,0
-391,Yassine Meriah,DF,tn Tunisia,29-167,1.tn Espérance de Tunis,1993,3,3,270,3.0,0,0,0,0,0,0,0
-392,Dries Mertens,"MF,FW",be Belgium,35-224,1.tr Galatasaray,1987,2,1,76,0.8,0,0,0,0,0,0,0
-393,Lionel Messi,FW,ar Argentina,35-175,1.fr Paris S-G,1987,6,6,570,6.3,5,3,2,3,4,1,0
-394,Thomas Meunier,DF,be Belgium,31-095,1.de Dortmund,1991,3,2,211,2.3,0,0,0,0,0,1,0
-395,Nikola Milenković,DF,rs Serbia,25-065,1.it Fiorentina,1997,3,3,270,3.0,0,0,0,0,0,2,0
-396,Arkadiusz Milik,"FW,MF",pl Poland,28-291,1.it Juventus,1994,3,1,101,1.1,0,0,0,0,0,1,0
-397,Sergej Milinković-Savić,MF,rs Serbia,27-292,1.it Lazio,1995,3,3,233,2.6,1,0,1,0,0,1,0
-398,Vanja Milinković-Savić,GK,rs Serbia,25-299,1.it Torino,1997,3,3,270,3.0,0,0,0,0,0,0,0
-399,Éder Militão,DF,br Brazil,24-332,1.es Real Madrid,1998,4,4,347,3.9,0,0,0,0,0,1,0
-400,Liam Millar,DF,ca Canada,23-080,1.ch Basel,1999,1,0,10,0.1,0,0,0,0,0,0,0
-401,Kamal Miller,DF,ca Canada,25-214,1.us CF Montréal,1997,3,3,270,3.0,0,0,0,0,0,1,0
-402,Kim Min-jae,DF,kr Korea Republic,26-031,1.it Napoli,1996,3,3,269,3.0,0,0,0,0,0,0,0
-403,Takumi Minamino,FW,jp Japan,27-334,1.fr Monaco,1995,3,0,60,0.7,0,0,0,0,0,0,0
-404,Kaoru Mitoma,MF,jp Japan,25-210,1.eng Brighton,1997,4,0,165,1.8,0,1,0,0,0,0,0
-405,Aleksandar Mitrović,FW,rs Serbia,28-091,1.eng Fulham,1994,3,3,262,2.9,2,0,2,0,0,1,0
-406,Stefan Mitrović,DF,rs Serbia,32-208,1.es Getafe,1990,1,0,35,0.4,0,0,0,0,0,0,0
-407,Filip Mladenović,DF,rs Serbia,31-123,1.pl Legia Warsaw,1991,1,1,65,0.7,0,0,0,0,0,0,0
-408,Luka Modrić,MF,hr Croatia,37-098,1.es Real Madrid,1985,6,6,563,6.3,0,0,0,0,0,1,0
-409,Ismail Mohamad,FW,qa Qatar,32-255,1.qa Al Duhail SC,1990,2,2,174,1.9,0,1,0,0,0,1,0
-410,Milad Mohammadi,DF,ir IR Iran,29-078,1.gr AEK Athens,1993,3,3,196,2.2,0,0,0,0,0,0,0
-411,Kudus Mohammed,"FW,MF",gh Ghana,22-136,1.nl Ajax,2000,3,3,247,2.7,2,0,2,0,0,1,0
-412,Sadegh Moharrami,DF,ir IR Iran,26-290,1.hr Dinamo Zagreb,1996,1,1,90,1.0,0,0,0,0,0,0,0
-413,Nahuel Molina,DF,ar Argentina,24-254,1.es Atlético Madrid,1998,6,5,477,5.3,1,1,1,0,0,0,0
-414,César Montes,DF,mx Mexico,25-295,1.mx Monterrey,1997,3,3,270,3.0,0,1,0,0,0,0,0
-415,Gonzalo Montiel,"DF,MF",ar Argentina,25-349,1.es Sevilla,1997,3,1,88,1.0,0,0,0,0,0,2,0
-416,Kim Moonhwan,DF,kr Korea Republic,27-137,1.kr Jeonbuk,1995,4,4,360,4.0,0,0,0,0,0,0,0
-417,Kieffer Moore,FW,wls Wales,30-130,1.eng Bournemouth,1992,3,2,225,2.5,0,0,0,0,0,0,0
-418,Shaquell Moore,DF,us United States,26-044,1.us Nashville,1996,2,0,22,0.2,0,0,0,0,0,0,0
-419,Aaron Mooy,MF,au Australia,32-092,1.sct Celtic,1990,4,4,360,4.0,0,0,0,0,0,1,0
-420,Álvaro Morata,FW,es Spain,30-054,1.es Atlético Madrid,1992,4,1,185,2.1,3,1,3,0,0,0,0
-421,Héctor Moreno,DF,mx Mexico,34-333,1.mx Monterrey,1988,3,3,270,3.0,0,0,0,0,0,1,0
-422,Hidemasa Morita,MF,jp Japan,27-220,1.pt Sporting CP,1995,3,3,285,3.2,0,0,0,0,0,0,0
-423,Joe Morrell,MF,wls Wales,25-347,3.eng Portsmouth,1997,2,0,33,0.4,0,0,0,0,0,0,0
-424,Jordan Morris,"FW,DF",us United States,28-051,1.us Seattle,1994,2,0,4,0.0,0,0,0,0,0,0,0
-425,Youssoufa Moukoko,FW,de Germany,18-026,1.de Dortmund,2004,1,0,1,0.0,0,0,0,0,0,0,0
-426,Mason Mount,MF,eng England,23-340,1.eng Chelsea,1999,4,2,186,2.1,0,0,0,0,0,0,0
-427,Youssef Msakni,"MF,FW",tn Tunisia,32-049,1.qa Al-Arabi SC,1990,2,2,169,1.9,0,0,0,0,0,0,0
-428,Thomas Müller,"FW,MF",de Germany,33-094,1.de Bayern Munich,1989,3,3,201,2.2,0,0,0,0,0,0,0
-429,Munir,GK,ma Morocco,33-220,1.sa Al-Wehda,1989,1,1,90,1.0,0,0,0,0,0,0,0
-430,Mohammed Muntari,"FW,MF",qa Qatar,28-361,1.qa Al Duhail SC,1993,3,0,63,0.7,1,0,1,0,0,0,0
-431,Yunus Musah,MF,us United States,20-017,1.es Valencia,2002,4,4,343,3.8,0,0,0,0,0,0,0
-432,Jamal Musiala,"MF,FW",de Germany,19-293,1.de Bayern Munich,2003,3,3,258,2.9,0,1,0,0,0,0,0
-433,Joakim Mæhle,DF,dk Denmark,25-210,1.it Atalanta,1997,3,3,249,2.8,0,0,0,0,0,0,0
-434,Georges-Kévin N'Koudou,"FW,MF",cm Cameroon,27-306,1.tr Beşiktaş,1995,2,0,27,0.3,0,0,0,0,0,0,0
-435,Yuto Nagatomo,"MF,DF",jp Japan,36-095,1.jp FC Tokyo,1986,4,4,209,2.3,0,0,0,0,0,0,0
-436,Sami Al-Najei,MF,sa Saudi Arabia,25-312,1.sa Al-Nassr,1997,1,1,45,0.5,0,0,0,0,0,0,0
-437,Keylor Navas,GK,cr Costa Rica,36-001,1.fr Paris S-G,1986,3,3,270,3.0,0,0,0,0,0,0,0
-438,Iliman Ndiaye,"FW,MF",sn Senegal,22-285,2.eng Sheffield Utd,2000,3,2,135,1.5,0,1,0,0,0,0,0
-439,Victor Nelsson,DF,dk Denmark,24-063,1.tr Galatasaray,1998,1,1,90,1.0,0,0,0,0,0,0,0
-440,Manuel Neuer,GK,de Germany,36-264,1.de Bayern Munich,1986,3,3,270,3.0,0,0,0,0,0,0,0
-441,Rúben Neves,MF,pt Portugal,25-278,1.eng Wolves,1997,5,4,268,3.0,0,0,0,0,0,1,0
-442,Neymar,MF,br Brazil,30-314,1.fr Paris S-G,1992,3,3,279,3.1,2,0,1,1,1,0,0
-443,Moumi Ngamaleu,"FW,MF",cm Cameroon,28-160,1.ru Dynamo Mosc,1994,2,1,95,1.1,0,0,0,0,0,0,0
-444,Jerome Ngom Mbekeli,MF,cm Cameroon,24-077,1.cm Colombe Sportive du Dja et Lobo,1998,1,0,5,0.1,0,0,0,0,0,0,0
-445,Rasmus Nissen,DF,dk Denmark,25-158,1.eng Leeds United,1997,3,3,224,2.5,0,0,0,0,0,1,0
-446,Nicolas Nkoulou,DF,cm Cameroon,32-264,1.gr Aris,1990,2,2,180,2.0,0,1,0,0,0,1,0
-447,Andries Noppert,GK,nl Netherlands,28-253,1.nl Heerenveen,1994,5,5,480,5.3,0,0,0,0,0,0,0
-448,Ahmad Nourollahi,MF,ir IR Iran,29-317,1.ae Al-Ahli Dubai FC,1993,3,3,223,2.5,0,0,0,0,0,0,0
-449,Olivier Ntcham,MF,cm Cameroon,26-310,2.eng Swansea City,1996,1,0,25,0.3,0,0,0,0,0,0,0
-450,Matheus Nunes,MF,pt Portugal,24-111,1.eng Wolves,1998,2,1,73,0.8,0,0,0,0,0,0,0
-451,Darwin Núñez,FW,uy Uruguay,23-175,1.eng Liverpool,1999,3,3,240,2.7,0,0,0,0,0,1,0
-452,Christian Nørgaard,MF,dk Denmark,28-281,1.eng Brentford,1994,1,0,6,0.1,0,0,0,0,0,0,0
-453,Guillermo Ochoa,GK,mx Mexico,37-156,1.mx América,1985,3,3,270,3.0,0,0,0,0,0,0,0
-454,Denis Odoi,DF,gh Ghana,34-203,1.be Club Brugge,1988,1,0,13,0.1,0,0,0,0,0,0,0
-455,Noah Okafor,"FW,MF",ch Switzerland,22-206,1.at RB Salzburg,2000,3,0,45,0.5,0,0,0,0,0,0,0
-456,Mathías Olivera,DF,uy Uruguay,25-046,1.it Napoli,1997,3,3,253,2.8,0,0,0,0,0,1,0
-457,Dani Olmo,FW,es Spain,24-223,1.de RB Leipzig,1998,4,4,367,4.1,1,1,1,0,0,0,0
-458,Amadou Onana,MF,be Belgium,21-122,1.eng Everton,2001,2,1,104,1.2,0,0,0,0,0,2,0
-459,André Onana,GK,cm Cameroon,26-258,1.it Inter,1996,1,1,80,0.9,0,0,0,0,0,0,0
-460,Gaël Ondoua,MF,cm Cameroon,27-042,2.de Hannover 96,1995,2,0,47,0.5,0,0,0,0,0,0,0
-461,Loïs Openda,FW,be Belgium,22-303,1.fr Lens,2000,1,0,13,0.1,0,0,0,0,0,0,0
-462,Mislav Oršić,FW,hr Croatia,29-352,1.hr Dinamo Zagreb,1992,5,0,73,0.8,0,2,0,0,0,0,0
-463,Jonathan Osorio,"MF,FW",ca Canada,30-187,1.us Toronto FC,1992,3,1,119,1.3,0,0,0,0,0,1,0
-464,Nicolás Otamendi,DF,ar Argentina,34-307,1.pt Benfica,1988,6,6,570,6.3,0,1,0,0,0,2,0
-465,Otávio,MF,pt Portugal,27-310,1.pt Porto,1995,3,3,196,2.2,0,0,0,0,0,0,0
-466,Samuel Oum Gouet,MF,cm Cameroon,25-003,1.be Mechelen,1997,2,1,100,1.1,0,0,0,0,0,0,0
-467,Azzedine Ounahi,MF,ma Morocco,22-241,1.fr Angers,2000,6,6,533,5.9,0,0,0,0,0,0,0
-468,Bryan Oviedo,DF,cr Costa Rica,32-301,1.us Real Salt Lake,1990,3,3,260,2.9,0,0,0,0,0,0,0
-469,Mohammed Al-Owais,GK,sa Saudi Arabia,31-067,1.sa Al-Hilal,1991,3,3,270,3.0,0,0,0,0,0,1,0
-470,Juan Pablo Vargas,DF,cr Costa Rica,27-193,1.co Millonarios,1995,1,1,90,1.0,1,0,1,0,0,0,0
-471,Exequiel Palacios,"MF,DF",ar Argentina,24-072,1.de Leverkusen,1998,3,0,50,0.6,0,0,0,0,0,0,0
-472,João Palhinha,MF,pt Portugal,27-160,1.eng Fulham,1995,3,0,38,0.4,0,0,0,0,0,0,0
-473,Lucas Paquetá,MF,br Brazil,25-111,1.eng West Ham,1997,4,4,314,3.5,1,1,1,0,0,0,0
-474,Leandro Paredes,MF,ar Argentina,28-170,1.it Juventus,1994,4,2,206,2.3,0,0,0,0,0,1,0
-475,Thomas Partey,MF,gh Ghana,29-186,1.eng Arsenal,1993,3,3,270,3.0,0,0,0,0,0,0,0
-476,Mario Pašalić,FW,hr Croatia,27-310,1.it Atalanta,1995,6,2,246,2.7,0,0,0,0,0,0,0
-477,Benjamin Pavard,DF,fr France,26-263,1.de Bayern Munich,1996,1,1,88,1.0,0,0,0,0,0,0,0
-478,Strahinja Pavlović,DF,rs Serbia,21-206,1.at RB Salzburg,2001,3,3,235,2.6,1,0,1,0,0,2,0
-479,Pedri,MF,es Spain,20-021,1.es Barcelona,2002,4,4,356,4.0,0,0,0,0,0,0,0
-480,Pedro,FW,br Brazil,25-179,1.br Flamengo,1997,2,0,64,0.7,0,0,0,0,0,0,0
-481,Facundo Pellistri,"MF,FW",uy Uruguay,20-361,1.eng Manchester Utd,2001,3,2,181,2.0,0,0,0,0,0,0,0
-482,Pepe,DF,pt Portugal,39-293,1.pt Porto,1983,4,4,360,4.0,1,0,1,0,0,0,0
-483,Danilo Pereira,DF,pt Portugal,31-098,1.fr Paris S-G,1991,1,1,90,1.0,0,0,0,0,0,1,0
-484,Ivan Perišić,"FW,DF",hr Croatia,33-317,1.eng Tottenham,1989,6,6,579,6.4,1,2,1,0,0,0,0
-485,Bruno Petković,FW,hr Croatia,28-091,1.hr Dinamo Zagreb,1994,5,1,209,2.3,1,0,1,0,0,1,0
-486,Germán Pezzella,DF,ar Argentina,31-172,1.es Betis,1991,2,0,55,0.6,0,0,0,0,0,1,0
-487,Kalvin Phillips,MF,eng England,27-014,1.eng Manchester City,1995,2,0,42,0.5,0,1,0,0,0,0,0
-488,Krzysztof Piątek,FW,pl Poland,27-168,1.it Salernitana,1995,2,0,28,0.3,0,0,0,0,0,0,0
-489,Jordan Pickford,GK,eng England,28-284,1.eng Everton,1994,5,5,450,5.0,0,0,0,0,0,0,0
-490,Orbelín Pineda,MF,mx Mexico,26-267,1.gr AEK Athens,1996,1,1,76,0.8,0,0,0,0,0,0,0
-491,Gonzalo Plata,"MF,FW",ec Ecuador,22-045,1.es Valladolid,2000,3,3,269,3.0,0,0,0,0,0,0,0
-492,Jackson Porozo,DF,ec Ecuador,22-134,1.fr Troyes,2000,2,1,96,1.1,0,0,0,0,0,0,0
-493,Morteza Pouraliganji,DF,ir IR Iran,30-241,1.ir Persepolis,1992,3,3,270,3.0,0,0,0,0,0,1,0
-494,Ángelo Preciado,DF,ec Ecuador,24-301,1.be Genk,1998,3,3,264,2.9,0,1,0,0,0,0,0
-495,Christian Pulisic,"FW,MF",us United States,24-089,1.eng Chelsea,1998,4,4,315,3.5,1,2,1,0,0,0,0
-496,Adrien Rabiot,MF,fr France,27-257,1.it Juventus,1995,5,4,388,4.3,1,1,1,0,0,0,0
-497,Nemanja Radonjić,"DF,FW",rs Serbia,26-304,1.it Torino,1996,3,0,60,0.7,0,0,0,0,0,0,0
-498,Baba Rahman,DF,gh Ghana,28-167,2.eng Reading,1994,3,2,183,2.0,0,0,0,0,0,0,0
-499,Gonçalo Ramos,"FW,MF",pt Portugal,21-179,1.pt Benfica,2001,4,2,152,1.7,3,1,3,0,0,0,0
-500,Aaron Ramsey,MF,wls Wales,31-355,1.fr Nice,1990,3,3,266,3.0,0,0,0,0,0,1,0
-501,Raphinha,FW,br Brazil,26-002,1.es Barcelona,1996,5,4,315,3.5,0,1,0,0,0,0,0
-502,Marcus Rashford,FW,eng England,25-046,1.eng Manchester Utd,1997,5,1,140,1.6,3,0,3,0,0,0,0
-503,David Raum,DF,de Germany,24-238,1.de RB Leipzig,1998,3,3,242,2.7,0,1,0,0,0,0,0
-504,Bassam Al-Rawi,DF,qa Qatar,25-000,1.qa Al Duhail SC,1997,1,1,90,1.0,0,0,0,0,0,0,0
-505,Tim Ream,DF,us United States,35-072,1.eng Fulham,1987,4,4,360,4.0,0,0,0,0,0,1,0
-506,Djorkaeff Reasco,FW,ec Ecuador,23-332,1.ar Newell's OB,1999,1,0,27,0.3,0,0,0,0,0,0,0
-507,Gio Reyna,FW,us United States,20-033,1.de Dortmund,2002,2,0,53,0.6,0,0,0,0,0,0,0
-508,Ramin Rezaeian,DF,ir IR Iran,32-270,1.ir Sepahan,1990,2,2,180,2.0,1,0,1,0,0,1,0
-509,Everton Ribeiro,MF,br Brazil,33-250,1.br Flamengo,1989,1,0,36,0.4,0,0,0,0,0,0,0
-510,Declan Rice,MF,eng England,23-336,1.eng West Ham,1999,5,5,417,4.6,0,0,0,0,0,0,0
-511,Richarlison,FW,br Brazil,25-220,1.eng Tottenham,1997,4,4,323,3.6,3,0,3,0,0,0,0
-512,Fabian Rieder,FW,ch Switzerland,20-303,1.ch Young Boys,2002,2,1,68,0.8,0,0,0,0,0,1,0
-513,Ró-Ró,DF,qa Qatar,32-132,1.qa Al Sadd SC,1990,3,3,262,2.9,0,0,0,0,0,0,0
-514,Connor Roberts,DF,wls Wales,27-084,2.eng Burnley,1995,3,2,200,2.2,0,0,0,0,0,0,0
-515,Antonee Robinson,DF,us United States,25-130,1.eng Fulham,1997,4,4,359,4.0,0,0,0,0,0,0,0
-516,Sergio Rochet,GK,uy Uruguay,29-268,1.uy Nacional,1993,3,3,270,3.0,0,0,0,0,0,0,0
-517,Joe Rodon,DF,wls Wales,25-055,1.fr Rennes,1997,3,3,270,3.0,0,0,0,0,0,1,0
-518,Rodri,DF,es Spain,26-177,1.eng Manchester City,1996,4,4,390,4.3,0,0,0,0,0,0,0
-519,Charly Rodríguez,MF,mx Mexico,25-347,1.mx Cruz Azul,1997,2,0,34,0.4,0,0,0,0,0,0,0
-520,Guido Rodríguez,MF,ar Argentina,28-248,1.es Betis,1994,1,1,56,0.6,0,0,0,0,0,0,0
-521,Kevin Rodríguez,FW,ec Ecuador,22-287,,2000,2,0,2,0.0,0,0,0,0,0,0,0
-522,Ricardo Rodríguez,DF,ch Switzerland,30-113,1.it Torino,1992,4,4,359,4.0,0,0,0,0,0,0,0
-523,Rodrygo,"MF,FW",br Brazil,21-341,1.es Real Madrid,2001,5,1,181,2.0,0,1,0,0,0,0,0
-524,Mohamed Ali Ben Romdhane,MF,tn Tunisia,23-101,1.tn Espérance de Tunis,1999,1,1,73,0.8,0,0,0,0,0,0,0
-525,Cristian Romero,DF,ar Argentina,24-233,1.eng Tottenham,1998,6,5,427,4.7,0,0,0,0,0,2,0
-526,Cristiano Ronaldo,FW,pt Portugal,37-314,1.eng Manchester Utd,1985,5,3,290,3.2,1,0,0,1,1,0,0
-527,Marten de Roon,MF,nl Netherlands,31-262,1.it Atalanta,1991,5,3,184,2.0,0,0,0,0,0,0,0
-528,Kye Rowles,DF,au Australia,24-175,1.sct Hearts,1998,4,4,360,4.0,0,0,0,0,0,0,0
-529,Antonio Rüdiger,DF,de Germany,29-288,1.es Real Madrid,1993,3,3,270,3.0,0,0,0,0,0,0,0
-530,Bryan Ruiz,MF,cr Costa Rica,37-120,1.cr Liga Deportiva Alajuelense,1985,1,0,30,0.3,0,0,0,0,0,0,0
-531,Mathew Ryan,GK,au Australia,30-252,1.dk FC Copenhagen,1992,4,4,360,4.0,0,0,0,0,0,0,0
-532,Youssouf Sabaly,DF,sn Senegal,29-286,1.es Betis,1993,4,4,360,4.0,0,0,0,0,0,0,0
-533,Abdelhamid Sabiri,MF,ma Morocco,26-018,1.it Sampdoria,1996,4,1,136,1.5,0,1,0,0,0,1,0
-534,Romain Saïss,DF,ma Morocco,32-265,1.tr Beşiktaş,1990,6,6,466,5.2,1,0,1,0,0,1,0
-535,Bukayo Saka,FW,eng England,21-102,1.eng Arsenal,2001,4,4,288,3.2,3,0,3,0,0,0,0
-536,Hiroki Sakai,"MF,DF",jp Japan,32-248,1.jp Urawa Reds,1990,2,1,119,1.3,0,0,0,0,0,0,0
-537,Youstin Salas,"DF,MF",cr Costa Rica,26-182,1.cr Deportivo Saprissa,1996,2,0,47,0.5,0,0,0,0,0,0,0
-538,William Saliba,DF,fr France,21-267,1.eng Arsenal,2001,1,0,28,0.3,0,0,0,0,0,0,0
-539,Mohammed Salisu,DF,gh Ghana,23-243,1.eng Southampton,1999,3,3,270,3.0,1,0,1,0,0,0,0
-540,Tarek Salman,DF,qa Qatar,25-011,1.qa Al Sadd SC,1997,1,0,8,0.1,0,0,0,0,0,0,0
-541,Alex Sandro,DF,br Brazil,31-324,1.it Juventus,1991,3,2,190,2.1,0,0,0,0,0,0,0
-542,Leroy Sané,"FW,DF",de Germany,26-339,1.de Bayern Munich,1996,2,1,111,1.2,0,1,0,0,0,0,0
-543,Na Sang-ho,FW,kr Korea Republic,26-126,1.kr FC Seoul,1996,2,1,119,1.3,0,0,0,0,0,0,0
-544,Pablo Sarabia,FW,es Spain,30-219,1.fr Paris S-G,1992,1,0,3,0.0,0,0,0,0,0,0,0
-545,Josh Sargent,FW,us United States,22-299,2.eng Norwich City,2000,3,2,157,1.7,0,0,0,0,0,0,0
-546,Jeremy Sarmiento,"MF,FW",ec Ecuador,20-183,1.eng Brighton,2002,3,0,85,0.9,0,0,0,0,0,0,0
-547,Ismaila Sarr,"FW,MF",sn Senegal,24-294,2.eng Watford,1998,4,4,344,3.8,1,0,0,1,1,0,0
-548,Ferjani Sassi,"MF,DF",tn Tunisia,30-273,1.qa Al Duhail SC,1992,2,0,48,0.5,0,0,0,0,0,1,0
-549,Fabian Schär,DF,ch Switzerland,30-361,1.eng Newcastle Utd,1991,2,2,135,1.5,0,0,0,0,0,2,0
-550,Nico Schlotterbeck,DF,de Germany,23-015,1.de Dortmund,1999,2,1,94,1.0,0,0,0,0,0,0,0
-551,Kasper Schmeichel,GK,dk Denmark,36-041,1.fr Nice,1986,3,3,270,3.0,0,0,0,0,0,0,0
-552,Haris Seferović,FW,ch Switzerland,30-297,1.tr Galatasaray,1992,3,0,71,0.8,0,0,0,0,0,0,0
-553,Alidu Seidu,DF,gh Ghana,22-195,1.fr Clermont Foot,2000,2,2,155,1.7,0,0,0,0,0,2,0
-554,Antoine Semenyo,"FW,MF",gh Ghana,22-343,2.eng Bristol City,2000,2,0,20,0.2,0,0,0,0,0,0,0
-555,Kim Seung-gyu,GK,kr Korea Republic,32-077,1.sa Al-Shabab,1990,4,4,360,4.0,0,0,0,0,0,0,0
-556,Paik Seung-ho,MF,kr Korea Republic,25-274,1.kr Jeonbuk,1997,1,0,26,0.3,1,0,1,0,0,0,0
-557,Yasser Al-Shahrani,DF,sa Saudi Arabia,30-205,1.sa Al-Hilal,1992,1,1,89,1.0,0,0,0,0,0,0,0
-558,Xherdan Shaqiri,"FW,MF",ch Switzerland,31-067,1.us Chicago Fire,1991,3,3,229,2.5,1,1,1,0,0,0,0
-559,Riyadh Sharahili,MF,sa Saudi Arabia,29-232,1.sa Abha,1993,1,0,54,0.6,0,0,0,0,0,0,0
-560,Luke Shaw,DF,eng England,27-157,1.eng Manchester Utd,1995,5,5,424,4.7,0,1,0,0,0,0,0
-561,Saad Al Sheeb,GK,qa Qatar,32-300,1.qa Al Sadd SC,1990,1,1,90,1.0,0,0,0,0,0,1,0
-562,Saleh Al-Shehri,FW,sa Saudi Arabia,29-045,1.sa Al-Hilal,1993,3,3,223,2.5,1,0,1,0,0,1,0
-563,André Silva,FW,pt Portugal,27-040,1.de RB Leipzig,1995,1,0,26,0.3,0,0,0,0,0,0,0
-564,António Silva,DF,pt Portugal,19-047,1.pt Benfica,2003,1,1,90,1.0,0,0,0,0,0,0,0
-565,Bernardo Silva,MF,pt Portugal,28-128,1.eng Manchester City,1994,5,4,356,4.0,0,0,0,0,0,0,0
-566,Thiago Silva,DF,br Brazil,38-085,1.eng Chelsea,1984,4,4,390,4.3,0,1,0,0,0,0,0
-567,Unai Simón,GK,es Spain,25-188,1.es Athletic Club,1997,4,4,390,4.3,0,0,0,0,0,0,0
-568,Xavi Simons,"FW,MF",nl Netherlands,19-239,1.nl PSV Eindhoven,2003,1,0,9,0.1,0,0,0,0,0,0,0
-569,Ellyes Skhiri,MF,tn Tunisia,27-220,1.de Köln,1995,3,3,270,3.0,0,0,0,0,0,0,0
-570,Michał Skóraś,MF,pl Poland,22-304,1.pl Lech Poznań,2000,1,0,45,0.5,0,0,0,0,0,0,0
-571,Andreas Skov Olsen,"FW,MF",dk Denmark,22-352,1.be Club Brugge,1999,2,2,132,1.5,0,0,0,0,0,0,0
-572,Robert Skov,DF,dk Denmark,26-210,1.de Hoffenheim,1996,1,0,22,0.2,0,0,0,0,0,1,0
-573,Naïm Sliti,"MF,FW",tn Tunisia,30-142,1.sa Al-Ettifaq,1992,2,1,114,1.3,0,0,0,0,0,0,0
-574,Carlos Soler,MF,es Spain,25-348,1.fr Paris S-G,1997,2,0,92,1.0,1,0,1,0,0,0,0
-575,Yuki Soma,"FW,MF",jp Japan,25-294,1.jp Grampus,1997,1,1,81,0.9,0,0,0,0,0,0,0
-576,Yann Sommer,GK,ch Switzerland,33-364,1.de M'Gladbach,1988,3,3,270,3.0,0,0,0,0,0,0,0
-577,Borna Sosa,DF,hr Croatia,24-329,1.de Stuttgart,1998,5,5,424,4.7,0,0,0,0,0,0,0
-578,Harry Souttar,DF,au Australia,24-055,2.eng Stoke City,1998,4,4,360,4.0,0,0,0,0,0,0,0
-579,Djibril Sow,MF,ch Switzerland,25-313,1.de Eint Frankfurt,1997,4,4,264,2.9,0,1,0,0,0,0,0
-580,Renato Steffen,FW,ch Switzerland,31-043,1.ch Lugano,1991,1,0,32,0.4,0,0,0,0,0,0,0
-581,Raheem Sterling,FW,eng England,28-008,1.eng Chelsea,1994,3,2,149,1.7,1,1,1,0,0,0,0
-582,John Stones,DF,eng England,28-202,1.eng Manchester City,1994,5,5,434,4.8,0,0,0,0,0,0,0
-583,Luis Suárez,FW,uy Uruguay,35-326,1.uy Nacional,1987,3,2,146,1.6,0,1,0,0,0,1,0
-584,Niklas Süle,DF,de Germany,27-104,1.de Dortmund,1995,3,3,269,3.0,0,0,0,0,0,0,0
-585,Kamaldeen Sulemana,FW,gh Ghana,20-304,1.fr Rennes,2002,2,0,58,0.6,0,0,0,0,0,1,0
-586,Karol Świderski,FW,pl Poland,25-327,1.us Charlotte,1997,1,1,45,0.5,0,0,0,0,0,0,0
-587,Wojciech Szczęsny,GK,pl Poland,32-242,1.it Juventus,1990,4,4,360,4.0,0,0,0,0,0,0,0
-588,Damian Szymański,MF,pl Poland,27-183,1.gr AEK Athens,1995,1,0,29,0.3,0,0,0,0,0,0,0
-589,Sebastian Szymański,MF,pl Poland,23-220,1.nl Feyenoord,1999,2,2,134,1.5,0,0,0,0,0,0,0
-590,Dušan Tadić,"MF,FW",rs Serbia,34-026,1.nl Ajax,1988,3,3,257,2.9,0,2,0,0,0,0,0
-591,Nicolás Tagliafico,DF,ar Argentina,30-107,1.fr Lyon,1992,5,2,254,2.8,0,0,0,0,0,0,0
-592,Montassar Talbi,DF,tn Tunisia,24-204,1.fr Lorient,1998,3,3,270,3.0,0,0,0,0,0,0,0
-593,Hassan Al Tambakti,DF,sa Saudi Arabia,23-310,1.sa Al-Shabab,1999,2,2,180,2.0,0,0,0,0,0,1,0
-594,Ao Tanaka,MF,jp Japan,24-097,2.de Düsseldorf,1998,3,2,171,1.9,1,0,1,0,0,0,0
-595,Shogo Taniguchi,DF,jp Japan,31-154,1.jp Kawa Frontale,1991,2,2,210,2.3,0,0,0,0,0,1,0
-596,Mehdi Taremi,FW,ir IR Iran,30-151,1.pt Porto,1992,3,3,270,3.0,2,1,1,1,1,0,0
-597,Kenneth Taylor,MF,nl Netherlands,20-214,1.nl Ajax,2002,1,0,5,0.1,0,0,0,0,0,0,0
-598,Aurélien Tchouaméni,MF,fr France,22-323,1.es Real Madrid,2000,6,6,501,5.6,1,0,1,0,0,1,0
-599,Yeltsin Tejeda,MF,cr Costa Rica,30-274,1.cr Club Sport Herediano,1992,3,3,269,3.0,1,1,1,0,0,0,0
-600,Alex Telles,DF,br Brazil,30-001,1.es Sevilla,1992,2,1,59,0.7,0,0,0,0,0,0,0
-601,Sorba Thomas,MF,wls Wales,23-116,2.eng Huddersfield,1999,1,0,1,0.0,0,0,0,0,0,0,0
-602,Marcus Thuram,FW,fr France,25-132,1.de M'Gladbach,1997,4,0,71,0.8,0,1,0,0,0,0,0
-603,Youri Tielemans,MF,be Belgium,25-223,1.eng Leicester City,1997,3,1,95,1.1,0,0,0,0,0,0,0
-604,Jurriën Timber,DF,nl Netherlands,21-182,1.nl Ajax,2001,4,4,390,4.3,0,0,0,0,0,1,0
-605,Karl Toko Ekambi,"FW,MF",cm Cameroon,30-093,1.fr Lyon,1992,3,2,166,1.8,0,0,0,0,0,0,0
-606,Nouhou Tolo,DF,cm Cameroon,25-176,1.us Seattle,1997,3,3,270,3.0,0,0,0,0,0,1,0
-607,Takehiro Tomiyasu,"DF,MF",jp Japan,24-041,1.eng Arsenal,1998,3,1,187,2.1,0,0,0,0,0,0,0
-608,Mehdi Torabi,MF,ir IR Iran,28-097,1.ir Persepolis,1994,3,0,62,0.7,0,0,0,0,0,0,0
-609,Félix Torres Caicedo,DF,ec Ecuador,25-339,1.mx Santos,1997,3,3,270,3.0,0,1,0,0,0,0,0
-610,Ferrán Torres,FW,es Spain,22-290,1.es Barcelona,2000,4,3,217,2.4,2,0,1,1,1,0,0
-611,Gerson Torres,MF,cr Costa Rica,25-110,1.cr Club Sport Herediano,1997,1,1,64,0.7,0,0,0,0,0,0,0
-612,Pau Torres,DF,es Spain,25-334,1.es Villarreal,1997,1,1,90,1.0,0,0,0,0,0,0,0
-613,Kieran Trippier,DF,eng England,32-088,1.eng Newcastle Utd,1990,3,2,206,2.3,0,0,0,0,0,0,0
-614,Leandro Trossard,"FW,MF",be Belgium,28-012,1.eng Brighton,1994,3,1,103,1.1,0,0,0,0,0,0,0
-615,Matt Turner,GK,us United States,28-175,1.eng Arsenal,1994,4,4,360,4.0,0,0,0,0,0,0,0
-616,Ayase Ueda,FW,jp Japan,24-097,1.be Cercle Brugge,1998,1,1,45,0.5,0,0,0,0,0,0,0
-617,Hwang Ui-jo,"FW,MF",kr Korea Republic,30-110,1.gr Olympiacos,1992,4,1,106,1.2,0,0,0,0,0,0,0
-618,Dayot Upamecano,DF,fr France,24-050,1.de Bayern Munich,1998,4,4,360,4.0,0,0,0,0,0,0,0
-619,Enner Valencia,"FW,MF",ec Ecuador,33-042,1.tr Fenerbahçe,1989,3,3,255,2.8,3,0,2,1,1,0,0
-620,Federico Valverde,MF,uy Uruguay,24-147,1.es Real Madrid,1998,3,3,270,3.0,0,0,0,0,0,0,0
-621,Virgil van Dijk,DF,nl Netherlands,31-161,1.eng Liverpool,1991,5,5,480,5.3,0,0,0,0,0,0,0
-622,Raphaël Varane,DF,fr France,29-235,1.eng Manchester Utd,1993,5,5,406,4.5,0,0,0,0,0,0,0
-623,Guillermo Varela,DF,uy Uruguay,29-267,1.br Flamengo,1993,3,2,183,2.0,0,0,0,0,0,0,0
-624,Ruben Vargas,FW,ch Switzerland,24-133,1.de Augsburg,1998,4,4,285,3.2,0,1,0,0,0,1,0
-625,Matías Vecino,MF,uy Uruguay,31-114,1.it Lazio,1991,3,2,195,2.2,0,0,0,0,0,0,0
-626,Alexis Vega,FW,mx Mexico,25-021,1.mx Guadalajara,1997,3,3,193,2.1,0,0,0,0,0,0,0
-627,Miloš Veljković,DF,rs Serbia,27-081,1.de Werder Bremen,1995,3,3,221,2.5,0,0,0,0,0,0,0
-628,Johan Venegas,"FW,MF",cr Costa Rica,34-019,1.cr Liga Deportiva Alajuelense,1988,1,1,73,0.8,0,0,0,0,0,0,0
-629,Jordan Veretout,MF,fr France,29-290,1.fr Marseille,1993,1,1,62,0.7,0,0,0,0,0,0,0
-630,Jan Vertonghen,DF,be Belgium,35-236,1.be Anderlecht,1987,3,3,270,3.0,0,0,0,0,0,0,0
-631,Matías Viña,DF,uy Uruguay,25-037,1.it Roma,1997,2,0,17,0.2,0,0,0,0,0,0,0
-632,Vitinha,MF,pt Portugal,22-306,1.fr Paris S-G,2000,3,1,120,1.3,0,0,0,0,0,1,0
-633,Steven Vitória,DF,ca Canada,35-339,1.pt Chaves,1987,3,3,270,3.0,0,0,0,0,0,1,0
-634,Dušan Vlahović,FW,rs Serbia,22-322,1.it Juventus,2000,2,1,79,0.9,1,0,1,0,0,0,0
-635,Nikola Vlašić,"FW,MF",hr Croatia,25-073,1.it Torino,1997,5,1,179,2.0,0,0,0,0,0,0,0
-636,Mohammed Waad,"MF,DF",qa Qatar,23-089,1.qa Al Sadd SC,1999,2,0,28,0.3,0,0,0,0,0,0,0
-637,Kyle Walker,DF,eng England,32-202,1.eng Manchester City,1990,3,3,236,2.6,0,0,0,0,0,0,0
-638,Danny Ward,GK,wls Wales,29-177,1.eng Leicester City,1993,2,1,94,1.0,0,0,0,0,0,0,0
-639,Kendall Waston,DF,cr Costa Rica,34-349,1.cr Deportivo Saprissa,1988,3,2,225,2.5,0,0,0,0,0,0,0
-640,Timothy Weah,FW,us United States,22-297,1.fr Lille,2000,4,4,316,3.5,1,0,1,0,0,0,0
-641,Wout Weghorst,FW,nl Netherlands,30-131,1.tr Beşiktaş,1992,4,0,64,0.7,2,0,2,0,0,1,0
-642,Wéverton,GK,br Brazil,35-003,1.br Palmeiras,1987,1,0,11,0.1,0,0,0,0,0,0,0
-643,Silvan Widmer,DF,ch Switzerland,29-286,1.de Mainz 05,1993,3,3,265,2.9,0,1,0,0,0,1,0
-644,Iñaki Williams,FW,gh Ghana,28-184,1.es Athletic Club,1994,3,3,270,3.0,0,0,0,0,0,0,0
-645,Neco Williams,DF,wls Wales,21-247,1.eng Nott'ham Forest,2001,3,3,204,2.3,0,0,0,0,0,0,0
-646,Nico Williams,FW,es Spain,20-157,1.es Athletic Club,2002,4,1,146,1.6,0,0,0,0,0,0,0
-647,Callum Wilson,FW,eng England,30-292,1.eng Newcastle Utd,1992,2,0,48,0.5,0,1,0,0,0,0,0
-648,Harry Wilson,"MF,FW",wls Wales,25-269,1.eng Fulham,1997,3,2,160,1.8,0,0,0,0,0,0,0
-649,Roan Wilson,MF,cr Costa Rica,20-229,1.cr Municipal Grecia,2002,1,0,1,0.0,0,0,0,0,0,0,0
-650,Axel Witsel,MF,be Belgium,33-338,1.es Atlético Madrid,1989,3,3,270,3.0,0,0,0,0,0,0,0
-651,Jeong Woo-yeong,MF,kr Korea Republic,23-087,1.de Freiburg,1999,1,1,45,0.5,0,0,0,0,0,0,0
-652,Jung Woo-young,MF,kr Korea Republic,33-002,1.qa Al Sadd SC,1989,4,4,303,3.4,0,0,0,0,0,2,0
-653,Christopher Wooh,DF,cm Cameroon,21-089,1.fr Rennes,2001,1,1,90,1.0,0,0,0,0,0,0,0
-654,David Wotherspoon,MF,ca Canada,32-334,1.sct St Johnstone,1990,1,0,15,0.2,0,0,0,0,0,0,0
-655,Bailey Wright,DF,au Australia,30-141,2.eng Sunderland,1992,1,0,17,0.2,0,0,0,0,0,0,0
-656,Haji Wright,FW,us United States,24-264,1.tr Antalyaspor,1998,4,1,137,1.5,1,0,1,0,0,0,0
-657,Granit Xhaka,MF,ch Switzerland,30-080,1.eng Arsenal,1992,4,4,360,4.0,0,0,0,0,0,1,0
-658,Miki Yamane,"DF,MF",jp Japan,28-359,1.jp Kawa Frontale,1993,1,1,61,0.7,0,0,0,0,0,1,0
-659,Jawad El Yamiq,DF,ma Morocco,30-290,1.es Valladolid,1992,5,2,244,2.7,0,0,0,0,0,0,0
-660,Taha Yassine Khenissi,FW,tn Tunisia,30-344,1.kw Kuwait SC,1992,2,0,29,0.3,0,0,0,0,0,1,0
-661,DeAndre Yedlin,DF,us United States,29-160,1.us Inter Miami,1993,2,0,33,0.4,0,0,0,0,0,0,0
-662,Maya Yoshida,DF,jp Japan,34-114,1.de Schalke 04,1988,4,4,390,4.3,0,1,0,0,0,1,0
-663,Kim Young-gwon,DF,kr Korea Republic,32-292,1.kr Ulsan Hyundai,1990,4,4,350,3.9,1,0,1,0,0,1,0
-664,Cho Yumin,FW,kr Korea Republic,26-029,2.kr Daejeon Citizen FC,1996,1,0,1,0.0,0,0,0,0,0,0,0
-665,Denis Zakaria,MF,ch Switzerland,26-026,1.eng Chelsea,1996,2,0,59,0.7,0,0,0,0,0,0,0
-666,Nicola Zalewski,MF,pl Poland,20-327,1.it Roma,2002,2,1,65,0.7,0,0,0,0,0,0,0
-667,Andre-Frank Zambo Anguissa,MF,cm Cameroon,27-030,1.it Napoli,1995,3,3,260,2.9,0,1,0,0,0,0,0
-668,Álvaro Zamora,MF,cr Costa Rica,20-282,1.cr Deportivo Saprissa,2002,1,0,30,0.3,0,0,0,0,0,0,0
-669,Piotr Zieliński,"MF,FW",pl Poland,28-210,1.it Napoli,1994,4,4,328,3.6,1,0,1,0,0,0,0
-670,Walker Zimmerman,DF,us United States,29-211,1.us Nashville,1993,4,3,279,3.1,0,0,0,0,0,0,0
-671,Andrija Živković,DF,rs Serbia,26-158,1.gr PAOK,1996,3,3,210,2.3,0,2,0,0,0,0,0
-672,Hakim Ziyech,"FW,MF",ma Morocco,29-272,1.eng Chelsea,1993,6,6,545,6.1,1,1,1,0,0,0,0
-673,Filip Đuričić,"MF,FW",rs Serbia,30-320,1.it Sampdoria,1992,2,0,14,0.2,0,0,0,0,0,0,0
+name,position,squad,age,club,birth_year,matches_played,starts,minutes_played,min_played_per_90,goals,assists,non_penalty_goals,pk_goals,pk_attemps,yellow_cards,red_cards
+Brenden Aaronson,MF,us United States,21,1.eng Leeds United,2000,4,0,108,1.2,0,0,0,0,0,0,0
+Ali Abdi,DF,tn Tunisia,28,2.fr Caen,1993,3,2,188,2.1,0,0,0,0,0,1,0
+Salis Abdul Samed,MF,gh Ghana,22,1.fr Lens,2000,3,3,250,2.8,0,0,0,0,0,0,0
+Saud Abdulhamid,"DF,MF",sa Saudi Arabia,22,1.sa Al-Hilal,1999,3,3,270,3.0,0,0,0,0,0,1,0
+Nawaf Al Abed,MF,sa Saudi Arabia,32,1.sa Al-Shabab,1990,2,0,88,1.0,0,0,0,0,0,1,0
+Pape Abou Cissé,DF,sn Senegal,26,1.gr Olympiacos,1995,3,1,105,1.2,0,0,0,0,0,0,0
+Vincent Aboubakar,FW,cm Cameroon,30,1.sa Al-Nassr,1992,3,1,142,1.6,2,1,2,0,0,2,1
+Abdulrahman Al-Aboud,"MF,DF",sa Saudi Arabia,27,1.sa Al-Ittihad,1995,2,0,35,0.4,0,0,0,0,0,0,0
+Zakaria Aboukhlal,"FW,MF",ma Morocco,22,1.fr Toulouse,2000,4,0,79,0.9,1,0,1,0,0,0,0
+Kellyn Acosta,MF,us United States,26,1.us Los Angeles FC,1995,2,0,43,0.5,0,0,0,0,0,1,0
+Marcos Acuña,"DF,FW",ar Argentina,30,1.es Sevilla,1991,6,4,373,4.1,0,0,0,0,0,3,0
+Tyler Adams,MF,us United States,23,1.eng Leeds United,1999,4,4,360,4.0,0,0,0,0,0,1,0
+Sam Adekugbe,DF,ca Canada,27,1.tr Hatayspor,1995,3,1,95,1.1,0,0,0,0,0,1,0
+Michel Aebischer,"MF,FW",ch Switzerland,25,1.it Bologna,1997,1,0,16,0.2,0,0,0,0,0,0,0
+Akram Afif,FW,qa Qatar,25,1.qa Al Sadd SC,1996,3,3,270,3.0,0,0,0,0,0,1,0
+Nayef Aguerd,DF,ma Morocco,26,1.eng West Ham,1996,4,4,353,3.9,0,0,0,0,0,0,0
+Brandon Aguilera,MF,cr Costa Rica,18,1.cr Asociación Deportiva Guanacasteca,2003,3,1,90,1.0,0,0,0,0,0,0,0
+Homam Ahmed,DF,qa Qatar,22,1.qa Al-Gharafa Sports Club,1999,3,3,262,2.9,0,0,0,0,0,1,0
+Manuel Akanji,DF,ch Switzerland,26,1.eng Manchester City,1995,4,4,360,4.0,1,0,1,0,0,1,0
+Nathan Aké,DF,nl Netherlands,27,1.eng Manchester City,1995,5,5,479,5.3,0,0,0,0,0,1,0
+Ahmed Alaaeldin,FW,qa Qatar,29,1.qa Al-Gharafa Sports Club,1993,1,0,6,0.1,0,0,0,0,0,0,0
+Jordi Alba,DF,es Spain,33,1.es Barcelona,1989,4,3,264,2.9,0,2,0,0,0,0,0
+Toby Alderweireld,DF,be Belgium,33,1.be Antwerp,1989,3,3,270,3.0,0,1,0,0,0,0,0
+Trent Alexander-Arnold,DF,eng England,23,1.eng Liverpool,1998,1,0,34,0.4,0,0,0,0,0,0,0
+Almoez Ali,FW,qa Qatar,25,1.qa Al Duhail SC,1996,3,3,224,2.5,0,0,0,0,0,1,0
+Alisson,GK,br Brazil,29,1.eng Liverpool,1992,4,4,379,4.2,0,0,0,0,0,0,0
+Joe Allen,MF,wls Wales,32,2.eng Swansea City,1990,2,1,94,1.0,0,0,0,0,0,0,0
+Thiago Almada,MF,ar Argentina,21,1.us Atlanta Utd,2001,1,0,7,0.1,0,0,0,0,0,0,0
+Roberto Alvarado,FW,mx Mexico,23,1.mx Guadalajara,1998,1,0,18,0.2,0,0,0,0,0,1,0
+Edson Álvarez,MF,mx Mexico,24,1.nl Ajax,1997,2,2,175,1.9,0,0,0,0,0,1,0
+Julián Álvarez,FW,ar Argentina,22,1.eng Manchester City,2000,7,5,464,5.2,4,0,4,0,0,0,0
+Kevin Álvarez,DF,mx Mexico,23,1.mx Pachuca,1999,2,1,70,0.8,0,0,0,0,0,0,0
+Dani Alves,DF,br Brazil,39,1.mx UNAM,1983,2,1,118,1.3,0,0,0,0,0,0,0
+Selim Amallah,MF,ma Morocco,25,1.be Standard Liège,1996,7,4,409,4.5,0,0,0,0,0,1,0
+Daniel Amartey,DF,gh Ghana,27,1.eng Leicester City,1994,3,3,251,2.8,0,0,0,0,0,2,0
+Ethan Ampadu,"MF,DF",wls Wales,21,1.it Spezia,2000,3,3,255,2.8,0,0,0,0,0,0,0
+Sofyan Amrabat,MF,ma Morocco,25,1.it Fiorentina,1996,7,7,660,7.3,0,0,0,0,0,1,0
+Abdulelah Al-Amri,DF,sa Saudi Arabia,25,1.sa Al-Nassr,1997,3,2,182,2.0,0,0,0,0,0,2,0
+Joachim Andersen,DF,dk Denmark,26,1.eng Crystal Palace,1996,3,3,270,3.0,0,1,0,0,0,0,0
+Karim Ansarifard,"FW,MF",ir IR Iran,32,1.cy AC Omonia,1990,2,0,35,0.4,0,0,0,0,0,0,0
+Antony,FW,br Brazil,22,1.eng Manchester Utd,2000,4,1,172,1.9,0,0,0,0,0,0,0
+Uriel Antuna,"FW,MF",mx Mexico,24,1.mx Cruz Azul,1997,3,0,77,0.9,0,0,0,0,0,0,0
+Néstor Araujo,DF,mx Mexico,30,1.mx América,1991,1,1,90,1.0,0,0,0,0,0,1,0
+Takuma Asano,FW,jp Japan,27,1.de Bochum,1994,4,0,165,1.8,1,0,1,0,0,0,0
+Marco Asensio,FW,es Spain,26,1.es Real Madrid,1996,4,3,229,2.5,1,0,1,0,0,0,0
+Ali Assadalla,MF,qa Qatar,29,1.qa Al Sadd SC,1993,1,0,27,0.3,0,0,0,0,0,0,0
+Lawrence Ati-Zigi,GK,gh Ghana,25,1.ch St. Gallen,1996,3,3,270,3.0,0,0,0,0,0,0,0
+Nathaniel Atkinson,DF,au Australia,23,1.sct Hearts,1999,1,1,84,0.9,0,0,0,0,0,0,0
+Yahya Attiat Allah,DF,ma Morocco,27,1.ma Wydad Casablanca,1995,6,2,318,3.5,0,1,0,0,0,0,0
+André Ayew,"MF,FW",gh Ghana,32,1.qa Al Sadd SC,1989,3,3,198,2.2,1,0,1,0,1,1,0
+Jordan Ayew,FW,gh Ghana,30,1.eng Crystal Palace,1991,3,2,136,1.5,0,1,0,0,0,0,0
+Sardar Azmoun,FW,ir IR Iran,27,1.de Leverkusen,1995,3,2,126,1.4,0,0,0,0,0,0,0
+César Azpilicueta,DF,es Spain,32,1.eng Chelsea,1989,2,2,135,1.5,0,1,0,0,0,0,0
+Srđan Babić,DF,rs Serbia,26,1.es Almería,1996,1,0,13,0.1,0,0,0,0,0,0,0
+Keanu Baccus,MF,au Australia,24,1.sct St Mirren,1998,4,1,114,1.3,0,0,0,0,0,0,0
+Alexander Bah,DF,dk Denmark,24,1.pt Benfica,1997,2,0,46,0.5,0,0,0,0,0,0,0
+Hattan Bahebri,MF,sa Saudi Arabia,29,1.sa Al-Shabab,1992,2,0,4,0.0,0,1,0,0,0,1,0
+Alejandro Balde,DF,es Spain,18,1.es Barcelona,2003,4,1,126,1.4,0,0,0,0,0,0,0
+Gareth Bale,FW,wls Wales,32,1.us Los Angeles FC,1989,3,3,225,2.5,1,0,0,1,1,1,0
+Fodé Ballo-Touré,DF,sn Senegal,25,1.it Milan,1997,1,0,7,0.1,0,0,0,0,0,0,0
+Badr Banoun,DF,ma Morocco,28,1.qa Qatar SC,1993,3,0,54,0.6,0,0,0,0,0,0,0
+Borna Barišić,DF,hr Croatia,29,1.sct Rangers,1992,1,1,120,1.3,0,0,0,0,0,1,0
+Meshaal Barsham,GK,qa Qatar,24,1.qa Al Sadd SC,1998,2,2,180,2.0,0,0,0,0,0,0,0
+Christian Bassogog,MF,cm Cameroon,26,1.cn Shanghai Shen,1995,1,0,24,0.3,0,0,0,0,0,1,0
+Michy Batshuayi,FW,be Belgium,28,1.tr Fenerbahçe,1993,2,2,151,1.7,1,0,1,0,0,0,0
+Jan Bednarek,DF,pl Poland,26,1.eng Aston Villa,1996,1,0,5,0.1,0,0,0,0,0,0,0
+Aziz Behich,DF,au Australia,31,1.sct Dundee United,1990,4,4,360,4.0,0,0,0,0,0,1,0
+Alireza Beiranvand,GK,ir IR Iran,29,1.ir Persepolis,1992,2,2,109,1.2,0,0,0,0,0,0,0
+Jude Bellingham,MF,eng England,18,1.de Dortmund,2003,5,5,414,4.6,1,1,1,0,0,0,0
+Anis Ben Slimane,MF,tn Tunisia,21,1.dk Brøndby,2001,2,2,148,1.6,0,0,0,0,0,0,0
+Jewison Bennette,MF,cr Costa Rica,17,2.eng Sunderland,2004,3,1,103,1.1,0,0,0,0,0,0,0
+Rodrigo Bentancur,MF,uy Uruguay,24,1.eng Tottenham,1997,3,3,213,2.4,0,0,0,0,0,1,0
+Bartosz Bereszyński,DF,pl Poland,29,1.it Sampdoria,1992,4,4,341,3.8,0,0,0,0,0,1,0
+Steven Berghuis,MF,nl Netherlands,30,1.nl Ajax,1991,4,1,200,2.2,0,1,0,0,0,1,0
+Steven Bergwijn,FW,nl Netherlands,24,1.nl Ajax,1997,4,3,213,2.4,0,0,0,0,0,1,0
+Krystian Bielik,MF,pl Poland,24,3.eng Derby County,1998,4,2,216,2.4,0,0,0,0,0,0,0
+Daley Blind,DF,nl Netherlands,32,1.nl Ajax,1990,5,5,423,4.7,1,1,1,0,0,0,0
+Celso Borges,MF,cr Costa Rica,34,1.cr Liga Deportiva Alajuelense,1988,3,3,249,2.8,0,0,0,0,0,1,0
+Milan Borjan,GK,ca Canada,34,1.rs Red Star,1987,3,3,270,3.0,0,0,0,0,0,0,0
+Karim Boudiaf,MF,qa Qatar,31,1.qa Al Duhail SC,1990,3,2,185,2.1,0,0,0,0,0,1,0
+Sofiane Boufal,FW,ma Morocco,28,1.fr Angers,1993,7,7,475,5.3,0,0,0,0,0,1,0
+Yassine Bounou,GK,ma Morocco,31,1.es Sevilla,1991,6,6,570,6.3,0,0,0,0,0,0,0
+Martin Braithwaite,"FW,MF",dk Denmark,31,1.es Espanyol,1991,2,1,103,1.1,0,0,0,0,0,0,0
+Mohammed Al-Breik,DF,sa Saudi Arabia,29,1.sa Al-Hilal,1992,2,1,65,0.7,0,0,0,0,0,0,0
+Gleison Bremer,DF,br Brazil,25,1.it Juventus,1997,2,1,109,1.2,0,0,0,0,0,0,0
+Dylan Bronn,DF,tn Tunisia,26,1.it Salernitana,1995,2,2,162,1.8,0,0,0,0,0,0,0
+Marcelo Brozović,MF,hr Croatia,29,1.it Inter,1992,6,6,552,6.1,0,0,0,0,0,1,0
+Tajon Buchanan,"MF,DF",ca Canada,23,1.be Club Brugge,1999,3,3,260,2.9,0,1,0,0,0,1,0
+Ante Budimir,FW,hr Croatia,30,1.es Osasuna,1991,2,0,55,0.6,0,0,0,0,0,0,0
+Osman Bukari,MF,gh Ghana,23,1.rs Red Star,1998,2,0,59,0.7,1,0,1,0,0,0,0
+Ali Al-Bulaihi,DF,sa Saudi Arabia,32,1.sa Al-Hilal,1989,3,3,216,2.4,0,0,0,0,0,1,0
+Firas Al-Buraikan,"MF,FW",sa Saudi Arabia,22,1.sa Al-Fateh,2000,3,3,268,3.0,0,1,0,0,0,0,0
+Sergio Busquets,MF,es Spain,33,1.es Barcelona,1988,4,4,363,4.0,0,0,0,0,0,1,0
+Martín Cáceres,DF,uy Uruguay,35,1.us LA Galaxy,1987,1,1,90,1.0,0,0,0,0,0,1,0
+Moisés Caicedo,MF,ec Ecuador,20,1.eng Brighton,2001,3,3,269,3.0,1,0,1,0,0,1,0
+Francisco Calvo,DF,cr Costa Rica,29,1.tr Konyaspor,1992,2,2,180,2.0,0,0,0,0,0,2,0
+Eduardo Camavinga,DF,fr France,19,1.es Real Madrid,2002,2,1,140,1.6,0,0,0,0,0,0,0
+Joel Campbell,"FW,MF",cr Costa Rica,29,1.mx León,1992,3,3,269,3.0,0,0,0,0,0,1,0
+João Cancelo,DF,pt Portugal,28,1.eng Manchester City,1994,4,3,310,3.4,0,0,0,0,0,0,0
+Agustín Canobbio,MF,uy Uruguay,23,1.br Atl Paranaense,1998,1,0,11,0.1,0,0,0,0,0,0,0
+Yannick Carrasco,"FW,DF",be Belgium,28,1.es Atlético Madrid,1993,2,2,116,1.3,0,0,0,0,0,1,0
+Cameron Carter-Vickers,DF,us United States,24,1.sct Celtic,1997,1,1,90,1.0,0,0,0,0,0,0,0
+Dani Carvajal,DF,es Spain,30,1.es Real Madrid,1992,2,1,135,1.5,0,0,0,0,0,0,0
+William Carvalho,MF,pt Portugal,30,1.es Betis,1992,4,2,215,2.4,0,0,0,0,0,0,0
+Casemiro,MF,br Brazil,30,1.eng Manchester Utd,1992,4,4,390,4.3,1,0,1,0,0,1,0
+Matty Cash,DF,pl Poland,24,1.eng Aston Villa,1997,4,4,360,4.0,0,0,0,0,0,2,0
+Timothy Castagne,DF,be Belgium,26,1.eng Leicester City,1995,3,3,270,3.0,0,0,0,0,0,0,0
+Jean-Charles Castelletto,DF,cm Cameroon,27,1.fr Nantes,1995,2,2,180,2.0,1,1,1,0,0,0,0
+Lucas Cavallini,FW,ca Canada,29,1.us Vancouver,1992,1,0,19,0.2,0,0,0,0,0,0,0
+Edinson Cavani,FW,uy Uruguay,35,1.es Valencia,1987,3,1,124,1.4,0,0,0,0,0,1,0
+Ghaylène Chaalali,MF,tn Tunisia,28,1.tn Espérance de Tunis,1994,1,0,17,0.2,0,0,0,0,0,0,0
+Daniel Chacón,MF,cr Costa Rica,21,1.cr CS Cartaginés,2001,1,0,1,0.0,0,0,0,0,0,0,0
+Ilias Chair,MF,ma Morocco,24,2.eng QPR,1997,1,0,45,0.5,0,0,0,0,0,0,0
+Kwon Chang-hoon,"FW,MF",kr Korea Republic,27,1.kr Sangju Sangmu,1994,1,1,56,0.6,0,0,0,0,0,0,0
+Luis Chávez,MF,mx Mexico,26,1.mx Pachuca,1996,3,3,270,3.0,1,0,1,0,0,0,0
+Walid Cheddira,FW,ma Morocco,24,2.it Bari,1998,2,0,64,0.7,0,0,0,0,0,2,1
+Roozbeh Cheshmi,"DF,MF",ir IR Iran,28,1.ir Esteghlal,1993,2,1,58,0.6,1,0,1,0,0,0,0
+Andreas Christensen,DF,dk Denmark,26,1.es Barcelona,1996,3,3,270,3.0,1,0,1,0,0,1,0
+Hong Chul,DF,kr Korea Republic,31,1.kr Daegu,1990,1,0,45,0.5,0,0,0,0,0,0,0
+José Cifuentes,MF,ec Ecuador,23,1.us Los Angeles FC,1999,2,0,59,0.7,0,0,0,0,0,0,0
+Pathé Ciss,MF,sn Senegal,28,1.es Rayo Vallecano,1994,3,2,146,1.6,0,0,0,0,0,1,0
+Sebastián Coates,DF,uy Uruguay,31,1.pt Sporting CP,1990,2,2,180,2.0,0,0,0,0,0,1,0
+Rubin Colwill,MF,wls Wales,20,2.eng Cardiff City,2002,1,0,10,0.1,0,0,0,0,0,0,0
+Kingsley Coman,"FW,MF",fr France,26,1.de Bayern Munich,1996,6,1,169,1.9,0,0,0,0,0,0,0
+Eray Cömert,DF,ch Switzerland,24,1.es Valencia,1998,2,0,46,0.5,0,0,0,0,0,1,0
+Anthony Contreras,"FW,MF",cr Costa Rica,22,1.cr Club Sport Herediano,2000,3,2,125,1.4,0,0,0,0,0,1,0
+Andreas Cornelius,FW,dk Denmark,29,1.dk FC Copenhagen,1993,3,1,92,1.0,0,0,0,0,0,1,0
+Ángel Correa,MF,ar Argentina,27,1.es Atlético Madrid,1995,1,0,5,0.1,0,0,0,0,0,0,0
+Diogo Costa,GK,pt Portugal,22,1.pt Porto,1999,5,5,450,5.0,0,0,0,0,0,0,0
+Thibaut Courtois,GK,be Belgium,30,1.es Real Madrid,1992,3,3,270,3.0,0,0,0,0,0,0,0
+Jason Cummings,FW,au Australia,26,1.au Central Coast,1995,1,0,35,0.4,0,0,0,0,0,0,0
+Aimen Dahmen,GK,tn Tunisia,25,1.tn CS Sfaxien,1997,3,3,270,3.0,0,0,0,0,0,0,0
+Diogo Dalot,DF,pt Portugal,23,1.eng Manchester Utd,1999,3,3,258,2.9,0,2,0,0,0,0,0
+Mikkel Damsgaard,"MF,FW",dk Denmark,21,1.eng Brentford,2000,3,1,150,1.7,0,0,0,0,0,0,0
+Danilo,DF,br Brazil,30,1.it Juventus,1991,3,3,281,3.1,0,0,0,0,0,1,0
+Achraf Dari,DF,ma Morocco,23,1.fr Brest,1999,3,2,187,2.1,1,0,1,0,0,1,0
+Jonathan David,"FW,MF",ca Canada,22,1.fr Lille,2000,3,2,192,2.1,0,0,0,0,0,0,0
+Alphonso Davies,"MF,DF",ca Canada,21,1.de Bayern Munich,2000,3,3,270,3.0,1,0,1,0,1,1,0
+Ben Davies,DF,wls Wales,29,1.eng Tottenham,1993,3,3,238,2.6,0,0,0,0,0,0,0
+Nasser Al-Dawsari,FW,sa Saudi Arabia,23,1.sa Al-Hilal,1998,1,0,5,0.1,0,0,0,0,0,0,0
+Salem Al-Dawsari,MF,sa Saudi Arabia,30,1.sa Al-Hilal,1991,3,3,270,3.0,2,0,2,0,1,1,0
+Giorgian De Arrascaeta,MF,uy Uruguay,28,1.br Flamengo,1994,2,1,108,1.2,2,0,2,0,0,0,0
+Kevin De Bruyne,"FW,MF",be Belgium,30,1.eng Manchester City,1991,3,3,270,3.0,0,0,0,0,0,0,0
+Charles De Ketelaere,FW,be Belgium,21,1.it Milan,2001,1,0,16,0.2,0,0,0,0,0,0,0
+Nicolás De La Cruz,MF,uy Uruguay,25,1.ar River Plate,1997,2,0,38,0.4,0,0,0,0,0,0,0
+Rodrigo De Paul,MF,ar Argentina,28,1.es Atlético Madrid,1994,7,7,599,6.7,0,0,0,0,0,0,0
+Miloš Degenek,DF,au Australia,28,1.us Columbus Crew,1994,4,2,183,2.0,0,0,0,0,0,2,0
+Thomas Delaney,MF,dk Denmark,30,1.es Sevilla,1991,1,1,44,0.5,0,0,0,0,0,0,0
+Ousmane Dembélé,FW,fr France,25,1.es Barcelona,1997,7,6,433,4.8,0,2,0,0,0,1,0
+Leander Dendoncker,"DF,MF",be Belgium,27,1.eng Aston Villa,1995,2,2,161,1.8,0,0,0,0,0,1,0
+Sergiño Dest,DF,us United States,21,1.it Milan,2000,4,4,305,3.4,0,1,0,0,0,1,0
+Ángel Di María,"MF,FW",ar Argentina,34,1.it Juventus,1988,5,4,288,3.2,1,1,1,0,0,0,0
+Boulaye Dia,FW,sn Senegal,25,1.it Salernitana,1996,4,4,318,3.5,1,0,1,0,0,1,0
+Abdou Diallo,DF,sn Senegal,26,1.de RB Leipzig,1996,4,4,331,3.7,0,0,0,0,0,0,0
+Rúben Dias,DF,pt Portugal,25,1.eng Manchester City,1997,4,4,360,4.0,0,0,0,0,0,1,0
+Krépin Diatta,"FW,MF",sn Senegal,23,1.fr Monaco,1999,3,3,181,2.0,0,0,0,0,0,0,0
+Famara Diedhiou,FW,sn Senegal,29,1.tr Alanyaspor,1992,2,1,92,1.0,1,0,1,0,0,0,0
+Bamba Dieng,FW,sn Senegal,22,1.fr Marseille,2000,4,0,100,1.1,1,0,1,0,0,0,0
+Eric Dier,DF,eng England,28,1.eng Tottenham,1994,2,0,36,0.4,0,0,0,0,0,0,0
+Axel Disasi,DF,fr France,24,1.fr Monaco,1998,3,1,92,1.0,0,0,0,0,0,0,0
+Alexander Djiku,"DF,FW",gh Ghana,27,1.fr Strasbourg,1994,2,1,97,1.1,0,0,0,0,0,0,0
+Ritsu Doan,FW,jp Japan,23,1.de Freiburg,1998,4,2,217,2.4,2,0,2,0,0,0,0
+Jeremy Doku,"MF,FW",be Belgium,20,1.fr Rennes,2002,1,0,19,0.2,0,0,0,0,0,0,0
+Kasper Dolberg,FW,dk Denmark,24,1.es Sevilla,1997,3,1,114,1.3,0,0,0,0,0,0,0
+Mohamed Dräger,DF,tn Tunisia,25,1.ch Luzern,1996,2,2,132,1.5,0,0,0,0,0,0,0
+Óscar Duarte,DF,cr Costa Rica,33,1.sa Al-Wehda,1989,3,3,270,3.0,0,0,0,0,0,1,0
+Mitchell Duke,FW,au Australia,31,2.jp Fagi Okayama,1991,4,4,270,3.0,1,0,1,0,0,1,0
+Denzel Dumfries,DF,nl Netherlands,26,1.it Inter,1996,5,5,479,5.3,1,2,1,0,0,2,1
+Paulo Dybala,FW,ar Argentina,28,1.it Roma,1993,2,0,18,0.2,0,0,0,0,0,0,0
+Enzo Ebosse,DF,cm Cameroon,23,1.it Udinese,1999,1,1,90,1.0,0,0,0,0,0,0,0
+Ederson,GK,br Brazil,28,1.eng Manchester City,1993,1,1,90,1.0,0,0,0,0,0,0,0
+Jorge Eduardo Sánchez,DF,mx Mexico,24,1.nl Ajax,1997,2,2,175,1.9,0,0,0,0,0,1,0
+Nico Elvedi,DF,ch Switzerland,25,1.de M'Gladbach,1996,2,2,180,2.0,0,0,0,0,0,1,0
+Breel Embolo,FW,ch Switzerland,25,1.fr Monaco,1997,4,4,323,3.6,2,0,2,0,0,0,0
+Youssef En-Nesyri,FW,ma Morocco,25,1.es Sevilla,1997,7,7,542,6.0,2,0,2,0,0,0,0
+Wataru Endo,MF,jp Japan,29,1.de Stuttgart,1993,4,3,304,3.4,0,0,0,0,0,1,0
+Devis Epassy,GK,cm Cameroon,29,1.sa Abha,1993,2,2,180,2.0,0,0,0,0,0,0,0
+Christian Eriksen,MF,dk Denmark,30,1.eng Manchester Utd,1992,3,3,270,3.0,0,0,0,0,0,0,0
+Michael Estrada,FW,ec Ecuador,26,1.mx Cruz Azul,1996,3,3,225,2.5,0,0,0,0,0,0,0
+Pervis Estupiñán,DF,ec Ecuador,24,1.eng Brighton,1998,3,3,270,3.0,0,0,0,0,0,0,0
+Stephen Eustáquio,MF,ca Canada,25,1.pt Porto,1996,2,2,125,1.4,0,0,0,0,0,0,0
+Saeid Ezatolahi,MF,ir IR Iran,25,2.dk Vejle BK,1996,3,2,217,2.4,0,0,0,0,0,0,0
+Abdessamad Ezzalzouli,"FW,MF",ma Morocco,20,1.es Osasuna,2001,3,0,93,1.0,0,0,0,0,0,0,0
+Fabinho,MF,br Brazil,28,1.eng Liverpool,1993,1,1,90,1.0,0,0,0,0,0,0,0
+Collins Fai,DF,cm Cameroon,29,1.sa Al-Ta'ee,1992,3,3,270,3.0,0,0,0,0,0,2,0
+Salman Al-Faraj,MF,sa Saudi Arabia,32,1.sa Al-Hilal,1989,1,1,44,0.5,0,0,0,0,0,0,0
+Christian Fassnacht,FW,ch Switzerland,28,1.ch Young Boys,1993,1,0,8,0.1,0,0,0,0,0,0,0
+Abdul Fatawu Issahaku,FW,gh Ghana,18,1.pt Sporting CP,2004,1,0,1,0.0,0,0,0,0,0,0,0
+Ansu Fati,FW,es Spain,19,1.es Barcelona,2002,2,0,46,0.5,0,0,0,0,0,0,0
+João Félix,FW,pt Portugal,22,1.es Atlético Madrid,1999,4,4,331,3.7,1,2,1,0,0,1,0
+Bruno Fernandes,"FW,MF",pt Portugal,27,1.eng Manchester Utd,1994,4,4,356,4.0,2,3,1,1,1,1,0
+Edimilson Fernandes,"FW,DF",ch Switzerland,26,1.de Mainz 05,1996,3,1,145,1.6,0,0,0,0,0,0,0
+Enzo Fernández,MF,ar Argentina,21,1.pt Benfica,2001,7,5,564,6.3,1,1,1,0,0,1,0
+Jesús Ferreira,FW,us United States,21,1.us FC Dallas,2000,1,1,45,0.5,0,0,0,0,0,0,0
+Phil Foden,"FW,MF",eng England,22,1.eng Manchester City,2000,4,3,258,2.9,1,2,1,0,0,0,0
+Youssouf Fofana,MF,fr France,23,1.fr Monaco,1999,6,2,227,2.5,0,0,0,0,0,0,0
+Juan Foyth,DF,ar Argentina,24,1.es Villarreal,1998,1,0,5,0.1,0,0,0,0,0,0,0
+Alan Franco,MF,ec Ecuador,23,1.ar Talleres,1998,2,1,46,0.5,0,0,0,0,0,0,0
+Przemysław Frankowski,MF,pl Poland,27,1.fr Lens,1995,4,3,240,2.7,0,0,0,0,0,1,0
+Fred,MF,br Brazil,29,1.eng Manchester Utd,1993,4,2,142,1.6,0,0,0,0,0,1,0
+Fabian Frei,MF,ch Switzerland,33,1.ch Basel,1989,2,0,25,0.3,0,0,0,0,0,0,0
+Remo Freuler,MF,ch Switzerland,30,1.eng Nott'ham Forest,1992,4,4,323,3.6,1,0,1,0,0,0,0
+Keysher Fuller,"DF,MF",cr Costa Rica,27,1.cr Club Sport Herediano,1994,3,3,253,2.8,1,0,1,0,0,0,0
+Niclas Füllkrug,FW,de Germany,29,1.de Werder Bremen,1993,3,0,69,0.8,2,1,2,0,0,0,0
+Rogelio Funes Mori,FW,mx Mexico,31,1.mx Monterrey,1991,1,0,5,0.1,0,0,0,0,0,0,0
+Cody Gakpo,"FW,MF",nl Netherlands,23,1.nl PSV Eindhoven,1999,5,5,450,5.0,3,0,3,0,0,0,0
+Hernán Galíndez,GK,ec Ecuador,35,1.ec SD Aucas,1987,3,3,270,3.0,0,0,0,0,0,0,0
+Jesús Gallardo,DF,mx Mexico,27,1.mx Monterrey,1994,3,3,270,3.0,0,0,0,0,0,0,0
+Idrissa Gana Gueye,MF,sn Senegal,32,1.eng Everton,1989,3,3,270,3.0,0,0,0,0,0,2,0
+Gavi,MF,es Spain,17,1.es Barcelona,2004,4,4,284,3.2,1,0,1,0,0,0,0
+Sultan Al-Ghanam,"DF,MF",sa Saudi Arabia,28,1.sa Al-Nassr,1994,3,1,126,1.4,0,0,0,0,0,0,0
+Nader Ghandri,DF,tn Tunisia,27,1.tn Club Africain,1995,1,1,90,1.0,0,0,0,0,0,0,0
+Saman Ghoddos,MF,ir IR Iran,28,1.eng Brentford,1993,1,0,45,0.5,0,0,0,0,0,0,0
+Ali Gholizadeh,"MF,FW",ir IR Iran,26,1.be Charleroi,1996,3,2,199,2.2,0,1,0,0,0,0,0
+Matthias Ginter,DF,de Germany,28,1.de Freiburg,1994,1,0,1,0.0,0,0,0,0,0,0,0
+Olivier Giroud,FW,fr France,35,1.it Milan,1986,6,6,419,4.7,4,0,4,0,0,1,0
+Kamil Glik,DF,pl Poland,34,2.it Benevento,1988,4,4,360,4.0,0,0,0,0,0,0,0
+Serge Gnabry,"FW,MF",de Germany,26,1.de Bayern Munich,1995,3,3,263,2.9,1,1,1,0,0,0,0
+Diego Godín,DF,uy Uruguay,36,1.ar Vélez Sarsf,1986,2,2,151,1.7,0,0,0,0,0,0,0
+Maxi Gómez,FW,uy Uruguay,25,1.tr Trabzonspor,1996,2,0,30,0.3,0,0,0,0,0,0,0
+Papu Gómez,"MF,FW",ar Argentina,34,1.es Sevilla,1988,2,2,107,1.2,0,0,0,0,0,0,0
+Shūichi Gonda,GK,jp Japan,33,1.jp S-Pulse,1989,4,4,390,4.3,0,0,0,0,0,0,0
+Craig Goodwin,MF,au Australia,30,1.au Adelaide,1991,4,3,234,2.6,1,1,1,0,0,0,0
+Leon Goretzka,MF,de Germany,27,1.de Bayern Munich,1995,3,2,159,1.8,0,0,0,0,0,1,0
+Mario Götze,MF,de Germany,30,1.de Eint Frankfurt,1992,2,0,36,0.4,0,0,0,0,0,0,0
+Jack Grealish,FW,eng England,26,1.eng Manchester City,1995,5,0,86,1.0,1,0,1,0,0,0,0
+Antoine Griezmann,MF,fr France,31,1.es Atlético Madrid,1991,7,6,537,6.0,0,3,0,0,0,1,0
+Kamil Grosicki,MF,pl Poland,34,1.pl Pogoń Szczecin,1988,1,0,4,0.0,0,0,0,0,0,0,0
+Carlos Gruezo,MF,ec Ecuador,27,1.de Augsburg,1995,1,1,45,0.5,0,0,0,0,0,0,0
+Marko Grujić,MF,rs Serbia,26,1.pt Porto,1996,1,0,13,0.1,0,0,0,0,0,0,0
+Andrés Guardado,MF,mx Mexico,35,1.es Betis,1986,1,1,41,0.5,0,0,0,0,0,0,0
+Nemanja Gudelj,"MF,DF",rs Serbia,30,1.es Sevilla,1991,2,1,92,1.0,0,0,0,0,0,2,0
+Mattéo Guendouzi,"FW,MF",fr France,23,1.fr Marseille,1999,1,1,78,0.9,0,0,0,0,0,0,0
+Raphaël Guerreiro,DF,pt Portugal,28,1.de Dortmund,1993,4,3,279,3.1,1,2,1,0,0,0,0
+Cho Guesung,FW,kr Korea Republic,24,1.kr Jeonbuk,1998,4,3,275,3.1,2,0,2,0,0,1,0
+Pape Gueye,MF,sn Senegal,23,1.fr Marseille,1999,3,1,153,1.7,0,0,0,0,0,0,0
+Bruno Guimarães,MF,br Brazil,24,1.eng Newcastle Utd,1997,2,0,69,0.8,0,0,0,0,0,1,0
+İlkay Gündoğan,MF,de Germany,31,1.eng Manchester City,1990,3,3,189,2.1,1,0,0,1,1,0,0
+Erick Gutiérrez,MF,mx Mexico,26,1.nl PSV Eindhoven,1995,1,0,49,0.5,0,0,0,0,0,1,0
+Joško Gvardiol,DF,hr Croatia,20,1.de RB Leipzig,2002,7,7,690,7.7,1,0,1,0,0,0,0
+Asiri Haitham,FW,sa Saudi Arabia,21,2.sa Al-Ahli,2001,1,0,2,0.0,0,0,0,0,0,0,0
+Ehsan Hajsafi,"MF,DF",ir IR Iran,32,1.gr AEK Athens,1990,3,3,237,2.6,0,0,0,0,0,0,0
+Achraf Hakimi,DF,ma Morocco,23,1.fr Paris S-G,1998,7,7,631,7.0,0,1,0,0,0,0,0
+Abderrazak Hamdallah,FW,ma Morocco,31,1.sa Al-Ittihad,1990,4,0,68,0.8,0,0,0,0,0,0,0
+Abdelkarim Hassan,DF,qa Qatar,28,1.qa Al Sadd SC,1993,3,3,270,3.0,0,0,0,0,0,0,0
+Ali Al Hassan,MF,sa Saudi Arabia,25,1.sa Al-Nassr,1997,1,1,45,0.5,0,0,0,0,0,1,0
+Abdulaziz Hatem,MF,qa Qatar,31,1.qa Al Rayyan SC,1990,3,2,196,2.2,0,0,0,0,0,0,0
+Kai Havertz,FW,de Germany,23,1.eng Chelsea,1999,2,1,102,1.1,2,0,2,0,0,0,0
+Hassan Al-Haydos,MF,qa Qatar,31,1.qa Al Sadd SC,1990,3,3,206,2.3,0,0,0,0,0,0,0
+Eden Hazard,MF,be Belgium,31,1.es Real Madrid,1991,3,2,124,1.4,0,0,0,0,0,0,0
+Thorgan Hazard,FW,be Belgium,29,1.de Dortmund,1993,2,1,106,1.2,0,0,0,0,0,0,0
+Hwang Hee-chan,"MF,FW",kr Korea Republic,26,1.eng Wolves,1996,2,1,115,1.3,1,0,1,0,0,1,0
+Jordan Henderson,MF,eng England,31,1.eng Liverpool,1990,4,3,271,3.0,1,0,1,0,0,0,0
+Wayne Hennessey,GK,wls Wales,35,1.eng Nott'ham Forest,1987,2,2,175,1.9,0,0,0,0,0,0,1
+Lucas Hernández,DF,fr France,26,1.de Bayern Munich,1996,1,1,12,0.1,0,0,0,0,0,0,0
+Theo Hernández,DF,fr France,24,1.it Milan,1997,6,5,508,5.6,1,2,1,0,0,1,0
+Héctor Herrera,MF,mx Mexico,32,1.us Houston Dynamo,1990,2,2,160,1.8,0,0,0,0,0,1,0
+Son Heung-min,"FW,MF",kr Korea Republic,29,1.eng Tottenham,1992,4,4,360,4.0,0,1,0,0,0,0,0
+Piero Hincapié,DF,ec Ecuador,20,1.de Leverkusen,2002,3,3,270,3.0,0,0,0,0,0,0,0
+Jonas Hofmann,FW,de Germany,29,1.de M'Gladbach,1992,2,0,30,0.3,0,0,0,0,0,0,0
+Junior Hoilett,"FW,MF",ca Canada,32,2.eng Reading,1990,3,2,161,1.8,0,0,0,0,0,1,0
+Martin Hongla,MF,cm Cameroon,24,1.it Hellas Verona,1998,2,2,121,1.3,0,0,0,0,0,0,0
+Ricardo Horta,FW,pt Portugal,27,1.pt Braga,1994,3,1,119,1.3,1,0,1,0,0,0,0
+Hossein Hosseini,GK,ir IR Iran,29,1.ir Esteghlal,1992,2,1,161,1.8,0,0,0,0,0,0,0
+Majid Hosseini,DF,ir IR Iran,25,1.tr Kayserispor,1996,3,3,270,3.0,0,0,0,0,0,1,0
+Ajdin Hrustic,"MF,FW",au Australia,25,1.it Hellas Verona,1996,3,0,62,0.7,0,0,0,0,0,0,0
+Atiba Hutchinson,MF,ca Canada,39,1.tr Beşiktaş,1983,3,2,159,1.8,0,0,0,0,0,0,0
+Pierre Højbjerg,MF,dk Denmark,26,1.eng Tottenham,1995,3,3,270,3.0,0,0,0,0,0,0,0
+Romario Ibarra,MF,ec Ecuador,27,1.mx Pachuca,1994,2,1,68,0.8,0,0,0,0,0,0,0
+Ivan Ilić,MF,rs Serbia,21,1.it Hellas Verona,2001,1,0,34,0.4,0,0,0,0,0,0,0
+Hwang In-beom,MF,kr Korea Republic,25,1.gr Olympiacos,1996,4,4,334,3.7,0,0,0,0,0,0,0
+Jackson Irvine,"MF,FW",au Australia,29,2.de St. Pauli,1993,4,4,354,3.9,0,0,0,0,0,2,0
+Ko Itakura,DF,jp Japan,25,1.de M'Gladbach,1997,3,3,270,3.0,0,1,0,0,0,2,0
+Hiroki Ito,DF,jp Japan,23,1.de Stuttgart,1999,1,0,45,0.5,0,0,0,0,0,0,0
+Junya Ito,"MF,FW",jp Japan,29,1.fr Reims,1993,4,3,324,3.6,0,1,0,0,0,0,0
+Yahya Jabrane,MF,ma Morocco,30,1.ma Wydad Casablanca,1991,2,0,15,0.2,0,0,0,0,0,0,0
+Nicolas Jackson,FW,sn Senegal,20,1.es Villarreal,2001,1,0,17,0.2,0,0,0,0,0,0,0
+Lee Jae-sung,"MF,FW",kr Korea Republic,29,1.de Mainz 05,1992,3,3,211,2.3,0,0,0,0,0,0,0
+Alireza Jahanbakhsh,MF,ir IR Iran,28,1.nl Feyenoord,1993,2,1,59,0.7,0,0,0,0,0,2,0
+Kristijan Jakić,FW,hr Croatia,25,1.de Eint Frankfurt,1997,1,0,1,0.0,0,0,0,0,0,0,0
+Ismail Jakobs,DF,sn Senegal,22,1.fr Monaco,1999,4,3,278,3.1,0,1,0,0,0,1,0
+Abolfazl Jalali,DF,ir IR Iran,23,1.ir Esteghlal,1998,1,0,19,0.2,0,0,0,0,0,1,0
+Daniel James,"FW,MF",wls Wales,24,1.eng Fulham,1997,3,2,154,1.7,0,0,0,0,0,1,0
+Vincent Janssen,FW,nl Netherlands,27,1.be Antwerp,1994,2,1,86,1.0,0,0,0,0,0,0,0
+Ardon Jasari,FW,ch Switzerland,19,1.ch Luzern,2002,1,0,2,0.0,0,0,0,0,0,0,0
+Issam Jebali,FW,tn Tunisia,30,1.dk Odense,1991,3,2,182,2.0,0,0,0,0,0,0,0
+Artur Jędrzejczyk,DF,pl Poland,34,1.pl Legia Warsaw,1987,1,0,19,0.2,0,0,0,0,0,0,0
+Mathias Jensen,MF,dk Denmark,26,1.eng Brentford,1996,2,1,84,0.9,0,0,0,0,0,1,0
+Gabriel Jesus,FW,br Brazil,25,1.eng Arsenal,1997,3,1,93,1.0,0,0,0,0,0,0,0
+Raúl Jiménez,FW,mx Mexico,31,1.eng Wolves,1991,3,0,59,0.7,0,0,0,0,0,0,0
+Kim Jin-su,DF,kr Korea Republic,30,1.kr Jeonbuk,1992,4,4,315,3.5,0,1,0,0,0,0,0
+Brennan Johnson,"FW,MF",wls Wales,21,1.eng Nott'ham Forest,2001,3,0,91,1.0,0,0,0,0,0,0,0
+Alistair Johnston,DF,ca Canada,23,1.us CF Montréal,1998,3,3,270,3.0,0,0,0,0,0,1,0
+Frenkie de Jong,MF,nl Netherlands,25,1.es Barcelona,1997,5,5,475,5.3,1,1,1,0,0,1,0
+Luuk de Jong,FW,nl Netherlands,31,1.nl PSV Eindhoven,1990,1,0,57,0.6,0,0,0,0,0,0,0
+Luka Jović,FW,rs Serbia,24,1.it Fiorentina,1997,1,0,36,0.4,0,0,0,0,0,1,0
+Son Jun-ho,"MF,DF",kr Korea Republic,30,1.cn Shandong Lunen,1992,3,0,72,0.8,0,0,0,0,0,0,0
+Vinicius Júnior,FW,br Brazil,21,1.es Real Madrid,2000,4,4,299,3.3,1,2,1,0,0,0,0
+Josip Juranović,DF,hr Croatia,26,1.sct Celtic,1995,6,6,600,6.7,0,1,0,0,0,0,0
+Daichi Kamada,"FW,MF",jp Japan,25,1.de Eint Frankfurt,1996,4,4,322,3.6,0,0,0,0,0,0,0
+Jakub Kamiński,MF,pl Poland,20,1.de Wolfsburg,2002,4,2,233,2.6,0,0,0,0,0,0,0
+Hossein Kanaanizadegan,DF,ir IR Iran,28,1.qa Al Ahli SC,1994,1,0,45,0.5,0,0,0,0,0,1,0
+Harry Kane,FW,eng England,28,1.eng Tottenham,1993,5,5,402,4.5,2,3,1,1,2,0,0
+Lee Kangin,"MF,FW",kr Korea Republic,21,1.es Mallorca,2001,4,1,147,1.6,0,1,0,0,0,1,0
+Mohamed Kanno,"MF,FW",sa Saudi Arabia,27,1.sa Al-Hilal,1994,3,3,270,3.0,0,0,0,0,0,0,0
+Fran Karačić,DF,au Australia,26,2.it Brescia,1996,2,1,93,1.0,0,0,0,0,0,0,0
+Ali Karimi,MF,ir IR Iran,28,1.tr Kayserispor,1994,3,1,99,1.1,0,0,0,0,0,0,0
+Mark-Anthony Kaye,MF,ca Canada,27,1.us Toronto FC,1994,1,1,59,0.7,0,0,0,0,0,0,0
+Wajdi Kechrida,DF,tn Tunisia,26,1.gr Atromitos,1995,3,1,111,1.2,0,0,0,0,0,1,0
+Thilo Kehrer,DF,de Germany,25,1.eng West Ham,1996,1,1,69,0.8,0,0,0,0,0,1,0
+Bilal El Khannous,MF,ma Morocco,18,1.be Genk,2004,1,1,55,0.6,0,0,0,0,0,0,0
+Wahbi Khazri,"FW,MF",tn Tunisia,31,1.fr Montpellier,1991,2,1,83,0.9,1,0,1,0,0,0,0
+Musab Kheder,DF,qa Qatar,28,1.qa Al Sadd SC,1993,1,0,6,0.1,0,0,0,0,0,0,0
+Boualem Khoukhi,DF,qa Qatar,31,1.qa Al Sadd SC,1990,3,3,270,3.0,0,0,0,0,0,0,0
+Joshua Kimmich,"MF,DF",de Germany,27,1.de Bayern Munich,1995,3,3,270,3.0,0,0,0,0,0,1,0
+Jakub Kiwior,DF,pl Poland,22,1.it Spezia,2000,4,4,355,3.9,0,0,0,0,0,1,0
+Simon Kjær,DF,dk Denmark,33,1.it Milan,1989,1,1,64,0.7,0,0,0,0,0,0,0
+Davy Klaassen,"MF,FW",nl Netherlands,29,1.nl Ajax,1993,4,3,190,2.1,1,2,1,0,0,0,0
+Lukas Klostermann,DF,de Germany,26,1.de RB Leipzig,1996,2,0,66,0.7,0,0,0,0,0,0,0
+Gregor Kobel,GK,ch Switzerland,24,1.de Dortmund,1997,1,1,90,1.0,0,0,0,0,0,0,0
+Koke,MF,es Spain,30,1.es Atlético Madrid,1992,2,0,52,0.6,0,0,0,0,0,0,0
+Randal Kolo Muani,FW,fr France,23,1.de Eint Frankfurt,1998,3,1,182,2.0,1,0,1,0,0,0,0
+Ibrahima Konaté,DF,fr France,23,1.eng Liverpool,1999,5,3,294,3.3,0,0,0,0,0,0,0
+Ismaël Koné,"MF,DF",ca Canada,20,1.us CF Montréal,2002,3,0,109,1.2,0,0,0,0,0,0,0
+Teun Koopmeiners,MF,nl Netherlands,24,1.it Atalanta,1998,5,1,219,2.4,0,1,0,0,0,1,0
+Filip Kostić,DF,rs Serbia,29,1.it Juventus,1992,2,2,179,2.0,0,0,0,0,0,0,0
+Kalidou Koulibaly,DF,sn Senegal,30,1.eng Chelsea,1991,4,4,360,4.0,1,0,1,0,0,1,0
+Jules Koundé,DF,fr France,23,1.es Barcelona,1998,6,5,480,5.3,0,0,0,0,0,1,0
+Cheikhou Kouyaté,MF,sn Senegal,32,1.eng Nott'ham Forest,1989,1,1,72,0.8,0,0,0,0,0,0,0
+Mateo Kovačić,MF,hr Croatia,28,1.eng Chelsea,1994,7,7,635,7.1,0,0,0,0,0,2,0
+Andrej Kramarić,"FW,MF",hr Croatia,30,1.de Hoffenheim,1991,7,7,474,5.3,2,0,2,0,0,0,0
+Grzegorz Krychowiak,MF,pl Poland,32,1.sa Al-Shabab,1990,4,4,332,3.7,0,0,0,0,0,1,0
+Takefusa Kubo,FW,jp Japan,21,1.es Real Sociedad,2001,2,2,90,1.0,0,0,0,0,0,0,0
+Pierre Kunde,MF,cm Cameroon,26,1.gr Olympiacos,1995,2,2,131,1.5,0,0,0,0,0,1,0
+Garang Kuol,"FW,MF",au Australia,17,1.au Central Coast,2004,2,0,37,0.4,0,0,0,0,0,0,0
+Daniel Kyereh,"MF,DF",gh Ghana,26,1.de Freiburg,1996,3,0,33,0.4,0,0,0,0,0,0,0
+Kwon Kyung-won,DF,kr Korea Republic,30,1.jp Gamba Osaka,1992,2,1,91,1.0,0,0,0,0,0,0,0
+Aïssa Laïdouni,MF,tn Tunisia,25,1.hu Ferencváros,1996,3,3,243,2.7,0,1,0,0,0,1,0
+Tariq Lamptey,DF,gh Ghana,21,1.eng Brighton,2000,2,1,102,1.1,0,0,0,0,0,1,0
+Noa Lang,MF,nl Netherlands,22,1.be Club Brugge,1999,1,0,8,0.1,0,0,0,0,0,1,0
+Aymeric Laporte,DF,es Spain,28,1.eng Manchester City,1994,3,3,300,3.3,0,0,0,0,0,1,0
+Cyle Larin,FW,ca Canada,27,1.be Club Brugge,1995,3,2,137,1.5,0,0,0,0,0,0,0
+Richie Laryea,"DF,MF",ca Canada,27,1.us Toronto FC,1995,3,2,160,1.8,0,0,0,0,0,0,0
+Darko Lazović,DF,rs Serbia,31,1.it Hellas Verona,1990,1,0,25,0.3,0,0,0,0,0,0,0
+Rafael Leão,FW,pt Portugal,23,1.it Milan,1999,5,0,88,1.0,2,0,2,0,0,0,0
+Mathew Leckie,"MF,FW",au Australia,31,1.au Melb City,1991,4,4,333,3.7,1,1,1,0,0,0,0
+Robert Lewandowski,FW,pl Poland,33,1.es Barcelona,1988,4,4,360,4.0,2,1,1,1,2,0,0
+Matthijs de Ligt,DF,nl Netherlands,22,1.de Bayern Munich,1999,2,1,91,1.0,0,0,0,0,0,1,0
+Jesper Lindstrøm,"MF,FW",dk Denmark,22,1.de Eint Frankfurt,2000,3,2,200,2.2,0,0,0,0,0,0,0
+Marko Livaja,FW,hr Croatia,28,1.hr Hajduk Split,1993,6,3,241,2.7,1,1,1,0,0,0,0
+Dominik Livaković,GK,hr Croatia,27,1.hr Dinamo Zagreb,1995,7,7,690,7.7,0,0,0,0,0,1,0
+Marcos Llorente,DF,es Spain,27,1.es Atlético Madrid,1995,1,1,120,1.3,0,0,0,0,0,0,0
+Hugo Lloris,GK,fr France,35,1.eng Tottenham,1986,6,6,570,6.3,0,0,0,0,0,0,0
+Dejan Lovren,DF,hr Croatia,32,1.ru Zenit,1989,6,6,600,6.7,0,1,0,0,0,1,0
+Hirving Lozano,FW,mx Mexico,26,1.it Napoli,1995,3,3,252,2.8,0,0,0,0,0,0,0
+Romelu Lukaku,FW,be Belgium,29,1.it Inter,1993,2,0,55,0.6,0,0,0,0,0,0,0
+Saša Lukić,MF,rs Serbia,25,1.it Torino,1996,3,3,245,2.7,0,0,0,0,0,2,0
+Ali Maâloul,DF,tn Tunisia,32,1.eg Al Ahly SC,1990,1,1,90,1.0,0,0,0,0,0,0,0
+Awer Mabil,MF,au Australia,26,1.es Cádiz,1995,2,0,24,0.3,0,0,0,0,0,0,0
+Alexis Mac Allister,MF,ar Argentina,23,1.eng Brighton,1998,6,6,550,6.1,1,1,1,0,0,0,0
+Jamie Maclaren,FW,au Australia,28,1.au Melb City,1993,3,0,55,0.6,0,0,0,0,0,0,0
+Assim Madibo,MF,qa Qatar,25,1.qa Al Duhail SC,1996,2,2,153,1.7,0,0,0,0,0,1,0
+Abdullah Madu,"DF,MF",sa Saudi Arabia,28,1.sa Al-Nassr,1993,1,0,45,0.5,0,0,0,0,0,1,0
+Daizen Maeda,FW,jp Japan,24,1.sct Celtic,1997,3,3,180,2.0,1,0,1,0,0,0,0
+Harry Maguire,DF,eng England,29,1.eng Manchester Utd,1993,5,5,429,4.8,0,1,0,0,0,1,0
+Lovro Majer,"MF,FW",hr Croatia,24,1.fr Rennes,1998,7,1,130,1.4,1,0,1,0,0,0,0
+Nemanja Maksimović,MF,rs Serbia,27,1.es Getafe,1995,3,1,122,1.4,0,0,0,0,0,0,0
+Abdulellah Al-Malki,MF,sa Saudi Arabia,27,1.sa Al-Hilal,1994,2,2,174,1.9,0,0,0,0,0,2,0
+Steve Mandanda,GK,fr France,37,1.fr Rennes,1985,1,1,90,1.0,0,0,0,0,0,0,0
+José María Giménez,DF,uy Uruguay,27,1.es Atlético Madrid,1995,3,3,270,3.0,0,0,0,0,0,1,0
+João Mário,"FW,MF",pt Portugal,29,1.pt Benfica,1993,2,1,84,0.9,0,0,0,0,0,0,0
+Marquinhos,DF,br Brazil,28,1.fr Paris S-G,1994,5,4,426,4.7,0,0,0,0,0,1,0
+Henry Martín,FW,mx Mexico,29,1.mx América,1992,2,2,146,1.6,1,0,1,0,0,0,0
+Martinelli,FW,br Brazil,20,1.eng Arsenal,2001,3,1,113,1.3,0,0,0,0,0,0,0
+Carlos Martínez,DF,cr Costa Rica,23,1.cr AD San Carlos,1999,1,1,45,0.5,0,0,0,0,0,0,0
+Emiliano Martínez,GK,ar Argentina,29,1.eng Aston Villa,1992,7,7,690,7.7,0,0,0,0,0,1,0
+Lautaro Martínez,FW,ar Argentina,24,1.it Inter,1997,6,2,241,2.7,0,0,0,0,0,0,0
+Lisandro Martínez,DF,ar Argentina,24,1.eng Manchester Utd,1998,5,2,303,3.4,0,0,0,0,0,1,0
+Pape Matar Sarr,MF,sn Senegal,19,1.eng Tottenham,2002,2,0,59,0.7,0,0,0,0,0,0,0
+Rónald Matarrita,"DF,MF",cr Costa Rica,27,1.us FC Cincinnati,1994,2,0,26,0.3,0,0,0,0,0,0,0
+Eric Maxim Choupo-Moting,"FW,MF",cm Cameroon,33,1.de Bayern Munich,1989,3,3,253,2.8,1,0,1,0,0,0,0
+Noussair Mazraoui,DF,ma Morocco,24,1.de Bayern Munich,1997,5,5,365,4.1,0,0,0,0,0,0,0
+Kylian Mbappé,FW,fr France,23,1.fr Paris S-G,1998,7,6,598,6.6,8,2,6,2,2,0,0
+Bryan Mbeumo,"FW,MF",cm Cameroon,22,1.eng Brentford,1999,3,3,233,2.6,0,0,0,0,0,0,0
+Riley McGree,"FW,MF",au Australia,23,2.eng Middlesbrough,1998,4,4,265,2.9,0,1,0,0,0,0,0
+Weston McKennie,MF,us United States,23,1.it Juventus,1998,4,4,271,3.0,0,0,0,0,0,1,0
+Hannibal Mejbri,MF,tn Tunisia,19,2.eng Birmingham City,2003,1,0,11,0.1,0,0,0,0,0,0,0
+Memphis,FW,nl Netherlands,28,1.es Barcelona,1994,5,3,297,3.3,1,0,1,0,0,1,0
+Nuno Mendes,DF,pt Portugal,19,1.fr Paris S-G,2002,1,1,41,0.5,0,0,0,0,0,0,0
+Jhegson Méndez,MF,ec Ecuador,25,1.us Los Angeles FC,1997,2,2,180,2.0,0,0,0,0,0,2,0
+Edouard Mendy,GK,sn Senegal,30,1.eng Chelsea,1992,4,4,360,4.0,0,0,0,0,0,0,0
+Nampalys Mendy,MF,sn Senegal,29,1.eng Leicester City,1992,4,3,272,3.0,0,0,0,0,0,1,0
+Gideon Mensah,DF,gh Ghana,23,1.fr Auxerre,1998,1,1,87,1.0,0,1,0,0,0,0,0
+Chris Mepham,DF,wls Wales,24,1.eng Bournemouth,1997,3,3,270,3.0,0,0,0,0,0,1,0
+Yassine Meriah,DF,tn Tunisia,28,1.tn Espérance de Tunis,1993,3,3,270,3.0,0,0,0,0,0,0,0
+Dries Mertens,"MF,FW",be Belgium,35,1.tr Galatasaray,1987,2,1,76,0.8,0,0,0,0,0,0,0
+Lionel Messi,FW,ar Argentina,34,1.fr Paris S-G,1987,7,7,690,7.7,7,3,3,4,5,1,0
+Thomas Meunier,DF,be Belgium,30,1.de Dortmund,1991,3,2,211,2.3,0,0,0,0,0,1,0
+Nikola Milenković,DF,rs Serbia,24,1.it Fiorentina,1997,3,3,270,3.0,0,0,0,0,0,2,0
+Arkadiusz Milik,"FW,MF",pl Poland,28,1.it Juventus,1994,3,1,101,1.1,0,0,0,0,0,1,0
+Sergej Milinković-Savić,MF,rs Serbia,27,1.it Lazio,1995,3,3,233,2.6,1,0,1,0,0,1,0
+Vanja Milinković-Savić,GK,rs Serbia,25,1.it Torino,1997,3,3,270,3.0,0,0,0,0,0,0,0
+Éder Militão,DF,br Brazil,24,1.es Real Madrid,1998,4,4,347,3.9,0,0,0,0,0,1,0
+Liam Millar,DF,ca Canada,22,1.ch Basel,1999,1,0,10,0.1,0,0,0,0,0,0,0
+Kamal Miller,DF,ca Canada,25,1.us CF Montréal,1997,3,3,270,3.0,0,0,0,0,0,1,0
+Kim Min-jae,DF,kr Korea Republic,25,1.it Napoli,1996,3,3,269,3.0,0,0,0,0,0,0,0
+Takumi Minamino,FW,jp Japan,27,1.fr Monaco,1995,3,0,60,0.7,0,0,0,0,0,0,0
+Kaoru Mitoma,MF,jp Japan,25,1.eng Brighton,1997,4,0,165,1.8,0,1,0,0,0,0,0
+Aleksandar Mitrović,FW,rs Serbia,27,1.eng Fulham,1994,3,3,262,2.9,2,0,2,0,0,1,0
+Stefan Mitrović,DF,rs Serbia,32,1.es Getafe,1990,1,0,35,0.4,0,0,0,0,0,0,0
+Filip Mladenović,DF,rs Serbia,30,1.pl Legia Warsaw,1991,1,1,65,0.7,0,0,0,0,0,0,0
+Luka Modrić,MF,hr Croatia,36,1.es Real Madrid,1985,7,7,653,7.3,0,0,0,0,0,1,0
+Ismail Mohamad,FW,qa Qatar,32,1.qa Al Duhail SC,1990,2,2,174,1.9,0,1,0,0,0,1,0
+Milad Mohammadi,DF,ir IR Iran,28,1.gr AEK Athens,1993,3,3,196,2.2,0,0,0,0,0,0,0
+Kudus Mohammed,"FW,MF",gh Ghana,21,1.nl Ajax,2000,3,3,247,2.7,2,0,2,0,0,1,0
+Sadegh Moharrami,DF,ir IR Iran,26,1.hr Dinamo Zagreb,1996,1,1,90,1.0,0,0,0,0,0,0,0
+Nahuel Molina,DF,ar Argentina,24,1.es Atlético Madrid,1998,7,6,567,6.3,1,1,1,0,0,0,0
+César Montes,DF,mx Mexico,25,1.mx Monterrey,1997,3,3,270,3.0,0,1,0,0,0,0,0
+Gonzalo Montiel,"DF,MF",ar Argentina,25,1.es Sevilla,1997,4,1,118,1.3,0,0,0,0,0,3,0
+Kim Moonhwan,DF,kr Korea Republic,26,1.kr Jeonbuk,1995,4,4,360,4.0,0,0,0,0,0,0,0
+Kieffer Moore,FW,wls Wales,29,1.eng Bournemouth,1992,3,2,225,2.5,0,0,0,0,0,0,0
+Shaquell Moore,DF,us United States,25,1.us Nashville,1996,2,0,22,0.2,0,0,0,0,0,0,0
+Aaron Mooy,MF,au Australia,31,1.sct Celtic,1990,4,4,360,4.0,0,0,0,0,0,1,0
+Álvaro Morata,FW,es Spain,29,1.es Atlético Madrid,1992,4,1,185,2.1,3,1,3,0,0,0,0
+Héctor Moreno,DF,mx Mexico,34,1.mx Monterrey,1988,3,3,270,3.0,0,0,0,0,0,1,0
+Hidemasa Morita,MF,jp Japan,27,1.pt Sporting CP,1995,3,3,285,3.2,0,0,0,0,0,0,0
+Joe Morrell,MF,wls Wales,25,3.eng Portsmouth,1997,2,0,33,0.4,0,0,0,0,0,0,0
+Jordan Morris,"FW,DF",us United States,27,1.us Seattle,1994,2,0,4,0.0,0,0,0,0,0,0,0
+Youssoufa Moukoko,FW,de Germany,17,1.de Dortmund,2004,1,0,1,0.0,0,0,0,0,0,0,0
+Mason Mount,MF,eng England,23,1.eng Chelsea,1999,4,2,186,2.1,0,0,0,0,0,0,0
+Youssef Msakni,"MF,FW",tn Tunisia,31,1.qa Al-Arabi SC,1990,2,2,169,1.9,0,0,0,0,0,0,0
+Thomas Müller,"FW,MF",de Germany,32,1.de Bayern Munich,1989,3,3,201,2.2,0,0,0,0,0,0,0
+Munir,GK,ma Morocco,33,1.sa Al-Wehda,1989,1,1,90,1.0,0,0,0,0,0,0,0
+Mohammed Muntari,"FW,MF",qa Qatar,28,1.qa Al Duhail SC,1993,3,0,63,0.7,1,0,1,0,0,0,0
+Yunus Musah,MF,us United States,19,1.es Valencia,2002,4,4,343,3.8,0,0,0,0,0,0,0
+Jamal Musiala,"MF,FW",de Germany,19,1.de Bayern Munich,2003,3,3,258,2.9,0,1,0,0,0,0,0
+Joakim Mæhle,DF,dk Denmark,25,1.it Atalanta,1997,3,3,249,2.8,0,0,0,0,0,0,0
+Georges-Kévin N'Koudou,"FW,MF",cm Cameroon,27,1.tr Beşiktaş,1995,2,0,27,0.3,0,0,0,0,0,0,0
+Yuto Nagatomo,"MF,DF",jp Japan,35,1.jp FC Tokyo,1986,4,4,209,2.3,0,0,0,0,0,0,0
+Sami Al-Najei,MF,sa Saudi Arabia,25,1.sa Al-Nassr,1997,1,1,45,0.5,0,0,0,0,0,0,0
+Keylor Navas,GK,cr Costa Rica,35,1.fr Paris S-G,1986,3,3,270,3.0,0,0,0,0,0,0,0
+Iliman Ndiaye,"FW,MF",sn Senegal,22,2.eng Sheffield Utd,2000,3,2,135,1.5,0,1,0,0,0,0,0
+Victor Nelsson,DF,dk Denmark,23,1.tr Galatasaray,1998,1,1,90,1.0,0,0,0,0,0,0,0
+Manuel Neuer,GK,de Germany,36,1.de Bayern Munich,1986,3,3,270,3.0,0,0,0,0,0,0,0
+Rúben Neves,MF,pt Portugal,25,1.eng Wolves,1997,5,4,268,3.0,0,0,0,0,0,1,0
+Neymar,MF,br Brazil,30,1.fr Paris S-G,1992,3,3,279,3.1,2,0,1,1,1,0,0
+Moumi Ngamaleu,"FW,MF",cm Cameroon,27,1.ru Dynamo Mosc,1994,2,1,95,1.1,0,0,0,0,0,0,0
+Jerome Ngom Mbekeli,MF,cm Cameroon,23,1.cm Colombe Sportive du Dja et Lobo,1998,1,0,5,0.1,0,0,0,0,0,0,0
+Rasmus Nissen,DF,dk Denmark,24,1.eng Leeds United,1997,3,3,224,2.5,0,0,0,0,0,1,0
+Nicolas Nkoulou,DF,cm Cameroon,32,1.gr Aris,1990,2,2,180,2.0,0,1,0,0,0,1,0
+Andries Noppert,GK,nl Netherlands,28,1.nl Heerenveen,1994,5,5,480,5.3,0,0,0,0,0,0,0
+Ahmad Nourollahi,MF,ir IR Iran,29,1.ae Al-Ahli Dubai FC,1993,3,3,223,2.5,0,0,0,0,0,0,0
+Olivier Ntcham,MF,cm Cameroon,26,2.eng Swansea City,1996,1,0,25,0.3,0,0,0,0,0,0,0
+Matheus Nunes,MF,pt Portugal,23,1.eng Wolves,1998,2,1,73,0.8,0,0,0,0,0,0,0
+Darwin Núñez,FW,uy Uruguay,22,1.eng Liverpool,1999,3,3,240,2.7,0,0,0,0,0,1,0
+Christian Nørgaard,MF,dk Denmark,28,1.eng Brentford,1994,1,0,6,0.1,0,0,0,0,0,0,0
+Guillermo Ochoa,GK,mx Mexico,36,1.mx América,1985,3,3,270,3.0,0,0,0,0,0,0,0
+Denis Odoi,DF,gh Ghana,34,1.be Club Brugge,1988,1,0,13,0.1,0,0,0,0,0,0,0
+Noah Okafor,"FW,MF",ch Switzerland,22,1.at RB Salzburg,2000,3,0,45,0.5,0,0,0,0,0,0,0
+Mathías Olivera,DF,uy Uruguay,24,1.it Napoli,1997,3,3,253,2.8,0,0,0,0,0,1,0
+Dani Olmo,FW,es Spain,24,1.de RB Leipzig,1998,4,4,367,4.1,1,1,1,0,0,0,0
+Amadou Onana,MF,be Belgium,20,1.eng Everton,2001,2,1,104,1.2,0,0,0,0,0,2,0
+André Onana,GK,cm Cameroon,26,1.it Inter,1996,1,1,80,0.9,0,0,0,0,0,0,0
+Gaël Ondoua,MF,cm Cameroon,26,2.de Hannover 96,1995,2,0,47,0.5,0,0,0,0,0,0,0
+Loïs Openda,FW,be Belgium,22,1.fr Lens,2000,1,0,13,0.1,0,0,0,0,0,0,0
+Mislav Oršić,FW,hr Croatia,29,1.hr Dinamo Zagreb,1992,6,1,162,1.8,1,2,1,0,0,0,0
+Jonathan Osorio,"MF,FW",ca Canada,30,1.us Toronto FC,1992,3,1,119,1.3,0,0,0,0,0,1,0
+Nicolás Otamendi,DF,ar Argentina,34,1.pt Benfica,1988,7,7,690,7.7,0,1,0,0,0,2,0
+Otávio,MF,pt Portugal,27,1.pt Porto,1995,3,3,196,2.2,0,0,0,0,0,0,0
+Samuel Oum Gouet,MF,cm Cameroon,24,1.be Mechelen,1997,2,1,100,1.1,0,0,0,0,0,0,0
+Azzedine Ounahi,MF,ma Morocco,22,1.fr Angers,2000,7,6,568,6.3,0,0,0,0,0,1,0
+Bryan Oviedo,DF,cr Costa Rica,32,1.us Real Salt Lake,1990,3,3,260,2.9,0,0,0,0,0,0,0
+Mohammed Al-Owais,GK,sa Saudi Arabia,30,1.sa Al-Hilal,1991,3,3,270,3.0,0,0,0,0,0,1,0
+Juan Pablo Vargas,DF,cr Costa Rica,27,1.co Millonarios,1995,1,1,90,1.0,1,0,1,0,0,0,0
+Exequiel Palacios,"MF,DF",ar Argentina,23,1.de Leverkusen,1998,3,0,50,0.6,0,0,0,0,0,0,0
+João Palhinha,MF,pt Portugal,26,1.eng Fulham,1995,3,0,38,0.4,0,0,0,0,0,0,0
+Lucas Paquetá,MF,br Brazil,24,1.eng West Ham,1997,4,4,314,3.5,1,1,1,0,0,0,0
+Leandro Paredes,MF,ar Argentina,27,1.it Juventus,1994,5,2,225,2.5,0,0,0,0,0,2,0
+Thomas Partey,MF,gh Ghana,29,1.eng Arsenal,1993,3,3,270,3.0,0,0,0,0,0,0,0
+Mario Pašalić,"FW,MF",hr Croatia,27,1.it Atalanta,1995,7,2,271,3.0,0,0,0,0,0,0,0
+Benjamin Pavard,DF,fr France,26,1.de Bayern Munich,1996,1,1,88,1.0,0,0,0,0,0,0,0
+Strahinja Pavlović,DF,rs Serbia,21,1.at RB Salzburg,2001,3,3,235,2.6,1,0,1,0,0,2,0
+Pedri,MF,es Spain,19,1.es Barcelona,2002,4,4,356,4.0,0,0,0,0,0,0,0
+Pedro,FW,br Brazil,24,1.br Flamengo,1997,2,0,64,0.7,0,0,0,0,0,0,0
+Facundo Pellistri,"MF,FW",uy Uruguay,20,1.eng Manchester Utd,2001,3,2,181,2.0,0,0,0,0,0,0,0
+Pepe,DF,pt Portugal,39,1.pt Porto,1983,4,4,360,4.0,1,0,1,0,0,0,0
+Danilo Pereira,DF,pt Portugal,30,1.fr Paris S-G,1991,1,1,90,1.0,0,0,0,0,0,1,0
+Ivan Perišić,"FW,DF",hr Croatia,33,1.eng Tottenham,1989,7,7,669,7.4,1,3,1,0,0,0,0
+Bruno Petković,FW,hr Croatia,27,1.hr Dinamo Zagreb,1994,6,1,234,2.6,1,0,1,0,0,1,0
+Germán Pezzella,DF,ar Argentina,30,1.es Betis,1991,3,0,60,0.7,0,0,0,0,0,1,0
+Kalvin Phillips,MF,eng England,26,1.eng Manchester City,1995,2,0,42,0.5,0,1,0,0,0,0,0
+Krzysztof Piątek,FW,pl Poland,26,1.it Salernitana,1995,2,0,28,0.3,0,0,0,0,0,0,0
+Jordan Pickford,GK,eng England,28,1.eng Everton,1994,5,5,450,5.0,0,0,0,0,0,0,0
+Orbelín Pineda,MF,mx Mexico,26,1.gr AEK Athens,1996,1,1,76,0.8,0,0,0,0,0,0,0
+Gonzalo Plata,"MF,FW",ec Ecuador,21,1.es Valladolid,2000,3,3,269,3.0,0,0,0,0,0,0,0
+Jackson Porozo,DF,ec Ecuador,21,1.fr Troyes,2000,2,1,96,1.1,0,0,0,0,0,0,0
+Morteza Pouraliganji,DF,ir IR Iran,30,1.ir Persepolis,1992,3,3,270,3.0,0,0,0,0,0,1,0
+Ángelo Preciado,DF,ec Ecuador,24,1.be Genk,1998,3,3,264,2.9,0,1,0,0,0,0,0
+Christian Pulisic,"FW,MF",us United States,23,1.eng Chelsea,1998,4,4,315,3.5,1,2,1,0,0,0,0
+Adrien Rabiot,MF,fr France,27,1.it Juventus,1995,6,5,483,5.4,1,1,1,0,0,1,0
+Nemanja Radonjić,"DF,FW",rs Serbia,26,1.it Torino,1996,3,0,60,0.7,0,0,0,0,0,0,0
+Baba Rahman,DF,gh Ghana,27,2.eng Reading,1994,3,2,183,2.0,0,0,0,0,0,0,0
+Gonçalo Ramos,"FW,MF",pt Portugal,20,1.pt Benfica,2001,4,2,152,1.7,3,1,3,0,0,0,0
+Aaron Ramsey,MF,wls Wales,31,1.fr Nice,1990,3,3,266,3.0,0,0,0,0,0,1,0
+Raphinha,FW,br Brazil,25,1.es Barcelona,1996,5,4,315,3.5,0,1,0,0,0,0,0
+Marcus Rashford,FW,eng England,24,1.eng Manchester Utd,1997,5,1,140,1.6,3,0,3,0,0,0,0
+David Raum,DF,de Germany,24,1.de RB Leipzig,1998,3,3,242,2.7,0,1,0,0,0,0,0
+Bassam Al-Rawi,DF,qa Qatar,24,1.qa Al Duhail SC,1997,1,1,90,1.0,0,0,0,0,0,0,0
+Tim Ream,DF,us United States,34,1.eng Fulham,1987,4,4,360,4.0,0,0,0,0,0,1,0
+Djorkaeff Reasco,FW,ec Ecuador,23,1.ar Newell's OB,1999,1,0,27,0.3,0,0,0,0,0,0,0
+Gio Reyna,FW,us United States,19,1.de Dortmund,2002,2,0,53,0.6,0,0,0,0,0,0,0
+Ramin Rezaeian,DF,ir IR Iran,32,1.ir Sepahan,1990,2,2,180,2.0,1,0,1,0,0,1,0
+Everton Ribeiro,MF,br Brazil,33,1.br Flamengo,1989,1,0,36,0.4,0,0,0,0,0,0,0
+Declan Rice,MF,eng England,23,1.eng West Ham,1999,5,5,417,4.6,0,0,0,0,0,0,0
+Richarlison,FW,br Brazil,25,1.eng Tottenham,1997,4,4,323,3.6,3,0,3,0,0,0,0
+Fabian Rieder,FW,ch Switzerland,20,1.ch Young Boys,2002,2,1,68,0.8,0,0,0,0,0,1,0
+Ró-Ró,DF,qa Qatar,31,1.qa Al Sadd SC,1990,3,3,262,2.9,0,0,0,0,0,0,0
+Connor Roberts,DF,wls Wales,26,2.eng Burnley,1995,3,2,200,2.2,0,0,0,0,0,0,0
+Antonee Robinson,DF,us United States,24,1.eng Fulham,1997,4,4,359,4.0,0,0,0,0,0,0,0
+Sergio Rochet,GK,uy Uruguay,29,1.uy Nacional,1993,3,3,270,3.0,0,0,0,0,0,0,0
+Joe Rodon,DF,wls Wales,24,1.fr Rennes,1997,3,3,270,3.0,0,0,0,0,0,1,0
+Rodri,DF,es Spain,25,1.eng Manchester City,1996,4,4,390,4.3,0,0,0,0,0,0,0
+Charly Rodríguez,MF,mx Mexico,25,1.mx Cruz Azul,1997,2,0,34,0.4,0,0,0,0,0,0,0
+Guido Rodríguez,MF,ar Argentina,28,1.es Betis,1994,1,1,56,0.6,0,0,0,0,0,0,0
+Kevin Rodríguez,FW,ec Ecuador,22,,2000,2,0,2,0.0,0,0,0,0,0,0,0
+Ricardo Rodríguez,DF,ch Switzerland,29,1.it Torino,1992,4,4,359,4.0,0,0,0,0,0,0,0
+Rodrygo,"MF,FW",br Brazil,21,1.es Real Madrid,2001,5,1,181,2.0,0,1,0,0,0,0,0
+Mohamed Ali Ben Romdhane,MF,tn Tunisia,22,1.tn Espérance de Tunis,1999,1,1,73,0.8,0,0,0,0,0,0,0
+Cristian Romero,DF,ar Argentina,24,1.eng Tottenham,1998,7,6,547,6.1,0,0,0,0,0,2,0
+Cristiano Ronaldo,FW,pt Portugal,37,1.eng Manchester Utd,1985,5,3,290,3.2,1,0,0,1,1,0,0
+Marten de Roon,MF,nl Netherlands,31,1.it Atalanta,1991,5,3,184,2.0,0,0,0,0,0,0,0
+Kye Rowles,DF,au Australia,23,1.sct Hearts,1998,4,4,360,4.0,0,0,0,0,0,0,0
+Antonio Rüdiger,DF,de Germany,29,1.es Real Madrid,1993,3,3,270,3.0,0,0,0,0,0,0,0
+Bryan Ruiz,MF,cr Costa Rica,36,1.cr Liga Deportiva Alajuelense,1985,1,0,30,0.3,0,0,0,0,0,0,0
+Mathew Ryan,GK,au Australia,30,1.dk FC Copenhagen,1992,4,4,360,4.0,0,0,0,0,0,0,0
+Youssouf Sabaly,DF,sn Senegal,29,1.es Betis,1993,4,4,360,4.0,0,0,0,0,0,0,0
+Abdelhamid Sabiri,MF,ma Morocco,25,1.it Sampdoria,1996,5,2,181,2.0,0,1,0,0,0,1,0
+Romain Saïss,DF,ma Morocco,32,1.tr Beşiktaş,1990,6,6,466,5.2,1,0,1,0,0,1,0
+Bukayo Saka,FW,eng England,20,1.eng Arsenal,2001,4,4,288,3.2,3,0,3,0,0,0,0
+Hiroki Sakai,"MF,DF",jp Japan,32,1.jp Urawa Reds,1990,2,1,119,1.3,0,0,0,0,0,0,0
+Youstin Salas,"DF,MF",cr Costa Rica,25,1.cr Deportivo Saprissa,1996,2,0,47,0.5,0,0,0,0,0,0,0
+William Saliba,DF,fr France,21,1.eng Arsenal,2001,1,0,28,0.3,0,0,0,0,0,0,0
+Mohammed Salisu,DF,gh Ghana,23,1.eng Southampton,1999,3,3,270,3.0,1,0,1,0,0,0,0
+Tarek Salman,DF,qa Qatar,24,1.qa Al Sadd SC,1997,1,0,8,0.1,0,0,0,0,0,0,0
+Alex Sandro,DF,br Brazil,31,1.it Juventus,1991,3,2,190,2.1,0,0,0,0,0,0,0
+Leroy Sané,"FW,DF",de Germany,26,1.de Bayern Munich,1996,2,1,111,1.2,0,1,0,0,0,0,0
+Na Sang-ho,FW,kr Korea Republic,25,1.kr FC Seoul,1996,2,1,119,1.3,0,0,0,0,0,0,0
+Pablo Sarabia,FW,es Spain,30,1.fr Paris S-G,1992,1,0,3,0.0,0,0,0,0,0,0,0
+Josh Sargent,FW,us United States,22,2.eng Norwich City,2000,3,2,157,1.7,0,0,0,0,0,0,0
+Jeremy Sarmiento,"MF,FW",ec Ecuador,19,1.eng Brighton,2002,3,0,85,0.9,0,0,0,0,0,0,0
+Ismaila Sarr,"FW,MF",sn Senegal,24,2.eng Watford,1998,4,4,344,3.8,1,0,0,1,1,0,0
+Ferjani Sassi,"MF,DF",tn Tunisia,30,1.qa Al Duhail SC,1992,2,0,48,0.5,0,0,0,0,0,1,0
+Fabian Schär,DF,ch Switzerland,30,1.eng Newcastle Utd,1991,2,2,135,1.5,0,0,0,0,0,2,0
+Nico Schlotterbeck,DF,de Germany,22,1.de Dortmund,1999,2,1,94,1.0,0,0,0,0,0,0,0
+Kasper Schmeichel,GK,dk Denmark,35,1.fr Nice,1986,3,3,270,3.0,0,0,0,0,0,0,0
+Haris Seferović,FW,ch Switzerland,30,1.tr Galatasaray,1992,3,0,71,0.8,0,0,0,0,0,0,0
+Alidu Seidu,DF,gh Ghana,22,1.fr Clermont Foot,2000,2,2,155,1.7,0,0,0,0,0,2,0
+Antoine Semenyo,"FW,MF",gh Ghana,22,2.eng Bristol City,2000,2,0,20,0.2,0,0,0,0,0,0,0
+Kim Seung-gyu,GK,kr Korea Republic,31,1.sa Al-Shabab,1990,4,4,360,4.0,0,0,0,0,0,0,0
+Paik Seung-ho,MF,kr Korea Republic,25,1.kr Jeonbuk,1997,1,0,26,0.3,1,0,1,0,0,0,0
+Yasser Al-Shahrani,DF,sa Saudi Arabia,30,1.sa Al-Hilal,1992,1,1,89,1.0,0,0,0,0,0,0,0
+Xherdan Shaqiri,"FW,MF",ch Switzerland,30,1.us Chicago Fire,1991,3,3,229,2.5,1,1,1,0,0,0,0
+Riyadh Sharahili,MF,sa Saudi Arabia,29,1.sa Abha,1993,1,0,54,0.6,0,0,0,0,0,0,0
+Luke Shaw,DF,eng England,26,1.eng Manchester Utd,1995,5,5,424,4.7,0,1,0,0,0,0,0
+Saad Al Sheeb,GK,qa Qatar,32,1.qa Al Sadd SC,1990,1,1,90,1.0,0,0,0,0,0,1,0
+Saleh Al-Shehri,FW,sa Saudi Arabia,28,1.sa Al-Hilal,1993,3,3,223,2.5,1,0,1,0,0,1,0
+André Silva,FW,pt Portugal,26,1.de RB Leipzig,1995,1,0,26,0.3,0,0,0,0,0,0,0
+António Silva,DF,pt Portugal,18,1.pt Benfica,2003,1,1,90,1.0,0,0,0,0,0,0,0
+Bernardo Silva,MF,pt Portugal,27,1.eng Manchester City,1994,5,4,356,4.0,0,0,0,0,0,0,0
+Thiago Silva,DF,br Brazil,37,1.eng Chelsea,1984,4,4,390,4.3,0,1,0,0,0,0,0
+Unai Simón,GK,es Spain,25,1.es Athletic Club,1997,4,4,390,4.3,0,0,0,0,0,0,0
+Xavi Simons,"FW,MF",nl Netherlands,19,1.nl PSV Eindhoven,2003,1,0,9,0.1,0,0,0,0,0,0,0
+Ellyes Skhiri,MF,tn Tunisia,27,1.de Köln,1995,3,3,270,3.0,0,0,0,0,0,0,0
+Michał Skóraś,MF,pl Poland,22,1.pl Lech Poznań,2000,1,0,45,0.5,0,0,0,0,0,0,0
+Andreas Skov Olsen,"FW,MF",dk Denmark,22,1.be Club Brugge,1999,2,2,132,1.5,0,0,0,0,0,0,0
+Robert Skov,DF,dk Denmark,26,1.de Hoffenheim,1996,1,0,22,0.2,0,0,0,0,0,1,0
+Naïm Sliti,"MF,FW",tn Tunisia,29,1.sa Al-Ettifaq,1992,2,1,114,1.3,0,0,0,0,0,0,0
+Carlos Soler,MF,es Spain,25,1.fr Paris S-G,1997,2,0,92,1.0,1,0,1,0,0,0,0
+Yuki Soma,"FW,MF",jp Japan,25,1.jp Grampus,1997,1,1,81,0.9,0,0,0,0,0,0,0
+Yann Sommer,GK,ch Switzerland,33,1.de M'Gladbach,1988,3,3,270,3.0,0,0,0,0,0,0,0
+Borna Sosa,DF,hr Croatia,24,1.de Stuttgart,1998,5,5,424,4.7,0,0,0,0,0,0,0
+Harry Souttar,DF,au Australia,23,2.eng Stoke City,1998,4,4,360,4.0,0,0,0,0,0,0,0
+Djibril Sow,MF,ch Switzerland,25,1.de Eint Frankfurt,1997,4,4,264,2.9,0,1,0,0,0,0,0
+Josip Stanišić,DF,hr Croatia,22,1.de Bayern Munich,2000,1,1,90,1.0,0,0,0,0,0,0,0
+Renato Steffen,FW,ch Switzerland,30,1.ch Lugano,1991,1,0,32,0.4,0,0,0,0,0,0,0
+Raheem Sterling,FW,eng England,27,1.eng Chelsea,1994,3,2,149,1.7,1,1,1,0,0,0,0
+John Stones,DF,eng England,28,1.eng Manchester City,1994,5,5,434,4.8,0,0,0,0,0,0,0
+Luis Suárez,FW,uy Uruguay,35,1.uy Nacional,1987,3,2,146,1.6,0,1,0,0,0,1,0
+Niklas Süle,DF,de Germany,26,1.de Dortmund,1995,3,3,269,3.0,0,0,0,0,0,0,0
+Kamaldeen Sulemana,FW,gh Ghana,20,1.fr Rennes,2002,2,0,58,0.6,0,0,0,0,0,1,0
+Josip Šutalo,DF,hr Croatia,22,1.hr Dinamo Zagreb,2000,1,1,90,1.0,0,0,0,0,0,0,0
+Karol Świderski,FW,pl Poland,25,1.us Charlotte,1997,1,1,45,0.5,0,0,0,0,0,0,0
+Wojciech Szczęsny,GK,pl Poland,32,1.it Juventus,1990,4,4,360,4.0,0,0,0,0,0,0,0
+Damian Szymański,MF,pl Poland,26,1.gr AEK Athens,1995,1,0,29,0.3,0,0,0,0,0,0,0
+Sebastian Szymański,MF,pl Poland,23,1.nl Feyenoord,1999,2,2,134,1.5,0,0,0,0,0,0,0
+Dušan Tadić,"MF,FW",rs Serbia,33,1.nl Ajax,1988,3,3,257,2.9,0,2,0,0,0,0,0
+Nicolás Tagliafico,DF,ar Argentina,29,1.fr Lyon,1992,6,3,373,4.1,0,0,0,0,0,0,0
+Montassar Talbi,DF,tn Tunisia,24,1.fr Lorient,1998,3,3,270,3.0,0,0,0,0,0,0,0
+Hassan Al Tambakti,DF,sa Saudi Arabia,23,1.sa Al-Shabab,1999,2,2,180,2.0,0,0,0,0,0,1,0
+Ao Tanaka,MF,jp Japan,23,2.de Düsseldorf,1998,3,2,171,1.9,1,0,1,0,0,0,0
+Shogo Taniguchi,DF,jp Japan,30,1.jp Kawa Frontale,1991,2,2,210,2.3,0,0,0,0,0,1,0
+Mehdi Taremi,FW,ir IR Iran,29,1.pt Porto,1992,3,3,270,3.0,2,1,1,1,1,0,0
+Kenneth Taylor,MF,nl Netherlands,20,1.nl Ajax,2002,1,0,5,0.1,0,0,0,0,0,0,0
+Aurélien Tchouaméni,MF,fr France,22,1.es Real Madrid,2000,7,7,621,6.9,1,0,1,0,0,1,0
+Yeltsin Tejeda,MF,cr Costa Rica,30,1.cr Club Sport Herediano,1992,3,3,269,3.0,1,1,1,0,0,0,0
+Alex Telles,DF,br Brazil,29,1.es Sevilla,1992,2,1,59,0.7,0,0,0,0,0,0,0
+Sorba Thomas,MF,wls Wales,22,2.eng Huddersfield,1999,1,0,1,0.0,0,0,0,0,0,0,0
+Marcus Thuram,"FW,MF",fr France,24,1.de M'Gladbach,1997,5,0,151,1.7,0,2,0,0,0,1,0
+Youri Tielemans,MF,be Belgium,25,1.eng Leicester City,1997,3,1,95,1.1,0,0,0,0,0,0,0
+Jurriën Timber,DF,nl Netherlands,20,1.nl Ajax,2001,4,4,390,4.3,0,0,0,0,0,1,0
+Karl Toko Ekambi,"FW,MF",cm Cameroon,29,1.fr Lyon,1992,3,2,166,1.8,0,0,0,0,0,0,0
+Nouhou Tolo,DF,cm Cameroon,24,1.us Seattle,1997,3,3,270,3.0,0,0,0,0,0,1,0
+Takehiro Tomiyasu,"DF,MF",jp Japan,23,1.eng Arsenal,1998,3,1,187,2.1,0,0,0,0,0,0,0
+Mehdi Torabi,MF,ir IR Iran,27,1.ir Persepolis,1994,3,0,62,0.7,0,0,0,0,0,0,0
+Félix Torres Caicedo,DF,ec Ecuador,25,1.mx Santos,1997,3,3,270,3.0,0,1,0,0,0,0,0
+Ferrán Torres,FW,es Spain,22,1.es Barcelona,2000,4,3,217,2.4,2,0,1,1,1,0,0
+Gerson Torres,MF,cr Costa Rica,24,1.cr Club Sport Herediano,1997,1,1,64,0.7,0,0,0,0,0,0,0
+Pau Torres,DF,es Spain,25,1.es Villarreal,1997,1,1,90,1.0,0,0,0,0,0,0,0
+Kieran Trippier,DF,eng England,31,1.eng Newcastle Utd,1990,3,2,206,2.3,0,0,0,0,0,0,0
+Leandro Trossard,"FW,MF",be Belgium,27,1.eng Brighton,1994,3,1,103,1.1,0,0,0,0,0,0,0
+Matt Turner,GK,us United States,27,1.eng Arsenal,1994,4,4,360,4.0,0,0,0,0,0,0,0
+Ayase Ueda,FW,jp Japan,23,1.be Cercle Brugge,1998,1,1,45,0.5,0,0,0,0,0,0,0
+Hwang Ui-jo,"FW,MF",kr Korea Republic,29,1.gr Olympiacos,1992,4,1,106,1.2,0,0,0,0,0,0,0
+Dayot Upamecano,DF,fr France,23,1.de Bayern Munich,1998,5,5,480,5.3,0,0,0,0,0,0,0
+Enner Valencia,"FW,MF",ec Ecuador,32,1.tr Fenerbahçe,1989,3,3,255,2.8,3,0,2,1,1,0,0
+Federico Valverde,MF,uy Uruguay,23,1.es Real Madrid,1998,3,3,270,3.0,0,0,0,0,0,0,0
+Virgil van Dijk,DF,nl Netherlands,30,1.eng Liverpool,1991,5,5,480,5.3,0,0,0,0,0,0,0
+Raphaël Varane,DF,fr France,29,1.eng Manchester Utd,1993,6,6,518,5.8,0,0,0,0,0,0,0
+Guillermo Varela,DF,uy Uruguay,29,1.br Flamengo,1993,3,2,183,2.0,0,0,0,0,0,0,0
+Ruben Vargas,FW,ch Switzerland,23,1.de Augsburg,1998,4,4,285,3.2,0,1,0,0,0,1,0
+Matías Vecino,MF,uy Uruguay,30,1.it Lazio,1991,3,2,195,2.2,0,0,0,0,0,0,0
+Alexis Vega,FW,mx Mexico,24,1.mx Guadalajara,1997,3,3,193,2.1,0,0,0,0,0,0,0
+Miloš Veljković,DF,rs Serbia,26,1.de Werder Bremen,1995,3,3,221,2.5,0,0,0,0,0,0,0
+Johan Venegas,"FW,MF",cr Costa Rica,33,1.cr Liga Deportiva Alajuelense,1988,1,1,73,0.8,0,0,0,0,0,0,0
+Jordan Veretout,MF,fr France,29,1.fr Marseille,1993,1,1,62,0.7,0,0,0,0,0,0,0
+Jan Vertonghen,DF,be Belgium,35,1.be Anderlecht,1987,3,3,270,3.0,0,0,0,0,0,0,0
+Matías Viña,DF,uy Uruguay,24,1.it Roma,1997,2,0,17,0.2,0,0,0,0,0,0,0
+Vitinha,MF,pt Portugal,22,1.fr Paris S-G,2000,3,1,120,1.3,0,0,0,0,0,1,0
+Steven Vitória,DF,ca Canada,35,1.pt Chaves,1987,3,3,270,3.0,0,0,0,0,0,1,0
+Dušan Vlahović,FW,rs Serbia,22,1.it Juventus,2000,2,1,79,0.9,1,0,1,0,0,0,0
+Nikola Vlašić,"FW,MF",hr Croatia,24,1.it Torino,1997,6,1,209,2.3,0,0,0,0,0,0,0
+Mohammed Waad,"MF,DF",qa Qatar,22,1.qa Al Sadd SC,1999,2,0,28,0.3,0,0,0,0,0,0,0
+Kyle Walker,DF,eng England,32,1.eng Manchester City,1990,3,3,236,2.6,0,0,0,0,0,0,0
+Danny Ward,GK,wls Wales,28,1.eng Leicester City,1993,2,1,94,1.0,0,0,0,0,0,0,0
+Kendall Waston,DF,cr Costa Rica,34,1.cr Deportivo Saprissa,1988,3,2,225,2.5,0,0,0,0,0,0,0
+Timothy Weah,FW,us United States,22,1.fr Lille,2000,4,4,316,3.5,1,0,1,0,0,0,0
+Wout Weghorst,FW,nl Netherlands,29,1.tr Beşiktaş,1992,4,0,64,0.7,2,0,2,0,0,1,0
+Wéverton,GK,br Brazil,34,1.br Palmeiras,1987,1,0,11,0.1,0,0,0,0,0,0,0
+Silvan Widmer,DF,ch Switzerland,29,1.de Mainz 05,1993,3,3,265,2.9,0,1,0,0,0,1,0
+Iñaki Williams,FW,gh Ghana,27,1.es Athletic Club,1994,3,3,270,3.0,0,0,0,0,0,0,0
+Neco Williams,DF,wls Wales,21,1.eng Nott'ham Forest,2001,3,3,204,2.3,0,0,0,0,0,0,0
+Nico Williams,FW,es Spain,19,1.es Athletic Club,2002,4,1,146,1.6,0,0,0,0,0,0,0
+Callum Wilson,FW,eng England,30,1.eng Newcastle Utd,1992,2,0,48,0.5,0,1,0,0,0,0,0
+Harry Wilson,"MF,FW",wls Wales,25,1.eng Fulham,1997,3,2,160,1.8,0,0,0,0,0,0,0
+Roan Wilson,MF,cr Costa Rica,20,1.cr Municipal Grecia,2002,1,0,1,0.0,0,0,0,0,0,0,0
+Axel Witsel,MF,be Belgium,33,1.es Atlético Madrid,1989,3,3,270,3.0,0,0,0,0,0,0,0
+Jeong Woo-yeong,MF,kr Korea Republic,22,1.de Freiburg,1999,1,1,45,0.5,0,0,0,0,0,0,0
+Jung Woo-young,MF,kr Korea Republic,32,1.qa Al Sadd SC,1989,4,4,303,3.4,0,0,0,0,0,2,0
+Christopher Wooh,DF,cm Cameroon,20,1.fr Rennes,2001,1,1,90,1.0,0,0,0,0,0,0,0
+David Wotherspoon,MF,ca Canada,32,1.sct St Johnstone,1990,1,0,15,0.2,0,0,0,0,0,0,0
+Bailey Wright,DF,au Australia,29,2.eng Sunderland,1992,1,0,17,0.2,0,0,0,0,0,0,0
+Haji Wright,FW,us United States,24,1.tr Antalyaspor,1998,4,1,137,1.5,1,0,1,0,0,0,0
+Granit Xhaka,MF,ch Switzerland,29,1.eng Arsenal,1992,4,4,360,4.0,0,0,0,0,0,1,0
+Miki Yamane,"DF,MF",jp Japan,28,1.jp Kawa Frontale,1993,1,1,61,0.7,0,0,0,0,0,1,0
+Jawad El Yamiq,DF,ma Morocco,30,1.es Valladolid,1992,6,3,309,3.4,0,0,0,0,0,0,0
+Taha Yassine Khenissi,FW,tn Tunisia,30,1.kw Kuwait SC,1992,2,0,29,0.3,0,0,0,0,0,1,0
+DeAndre Yedlin,DF,us United States,28,1.us Inter Miami,1993,2,0,33,0.4,0,0,0,0,0,0,0
+Maya Yoshida,DF,jp Japan,33,1.de Schalke 04,1988,4,4,390,4.3,0,1,0,0,0,1,0
+Kim Young-gwon,DF,kr Korea Republic,32,1.kr Ulsan Hyundai,1990,4,4,350,3.9,1,0,1,0,0,1,0
+Cho Yumin,FW,kr Korea Republic,25,2.kr Daejeon Citizen FC,1996,1,0,1,0.0,0,0,0,0,0,0,0
+Denis Zakaria,MF,ch Switzerland,25,1.eng Chelsea,1996,2,0,59,0.7,0,0,0,0,0,0,0
+Nicola Zalewski,MF,pl Poland,20,1.it Roma,2002,2,1,65,0.7,0,0,0,0,0,0,0
+Andre-Frank Zambo Anguissa,MF,cm Cameroon,26,1.it Napoli,1995,3,3,260,2.9,0,1,0,0,0,0,0
+Álvaro Zamora,MF,cr Costa Rica,20,1.cr Deportivo Saprissa,2002,1,0,30,0.3,0,0,0,0,0,0,0
+Anass Zaroury,FW,ma Morocco,21,2.eng Burnley,2000,1,0,27,0.3,0,0,0,0,0,0,0
+Piotr Zieliński,"MF,FW",pl Poland,28,1.it Napoli,1994,4,4,328,3.6,1,0,1,0,0,0,0
+Walker Zimmerman,DF,us United States,29,1.us Nashville,1993,4,3,279,3.1,0,0,0,0,0,0,0
+Andrija Živković,DF,rs Serbia,25,1.gr PAOK,1996,3,3,210,2.3,0,2,0,0,0,0,0
+Hakim Ziyech,FW,ma Morocco,29,1.eng Chelsea,1993,7,7,635,7.1,1,1,1,0,0,0,0
+Filip Đuričić,"MF,FW",rs Serbia,30,1.it Sampdoria,1992,2,0,14,0.2,0,0,0,0,0,0,0
