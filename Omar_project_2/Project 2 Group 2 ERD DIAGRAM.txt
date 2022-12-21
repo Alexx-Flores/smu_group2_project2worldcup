@@ -1,1 +1,66 @@
-# Conceptual (without relationships)all_players_main-id serial PKname varchar(100)position_id int FK >- positions.idposition_2_id int FK >- positions.idsquad_id int FK >- squads.idage  intclub_id int FK >- clubs.idbirth_year intmatches_played intstarts intminutes_played intlast_updated timestampclubs-id serial PK clubs varchar(50)last_updated timestamppositions-id serial PK positions varchar(3)last_updated timestampsquads-id serial PKsquads varchar(50)last_updated timestampplayers_stats-id serial PKplayer_id int FK >- all_players_main.idgoals intassists intnon_penalty_goals intpk_goals intpk_attemps int yellow_cards intred_cards intlast_updated timestampkeepers_stats-id serial PKplayer_id int FK >- all_players_main.idgoals_against intshots_on_target_against intsaves intclean_sheets intpenalty_kicks_attempted intpenalty_kicks_allowed intpenalty_kicks_saved intlast_updated timestamp
+
+# Conceptual (without relationships)
+
+all_players_main
+-
+id serial PK
+name varchar(100)
+position_id int FK >- positions.id
+position_2_id int FK >- positions.id
+squad_id int FK >- squads.id
+age  int
+club_id int FK >- clubs.id
+birth_year int
+matches_played int
+starts int
+minutes_played int
+last_updated timestamp
+
+
+clubs
+-
+id serial PK 
+clubs varchar(50)
+last_updated timestamp
+
+
+
+
+positions
+-
+id serial PK 
+positions varchar(10)
+last_updated timestamp
+
+squads
+-
+id serial PK
+squads varchar(50)
+last_updated timestamp
+
+
+players_stats
+-
+id serial PK
+player_id int FK >- all_players_main.id
+goals int
+assists int
+non_penalty_goals int
+pk_goals int
+pk_attemps int 
+yellow_cards int
+red_cards int
+last_updated timestamp
+
+keepers_stats
+-
+id serial PK
+player_id int FK >- all_players_main.id
+goals_against int
+shots_on_target_against int
+saves int
+clean_sheets int
+penalty_kicks_attempted int
+penalty_kicks_allowed int
+penalty_kicks_saved int
+last_updated timestamp

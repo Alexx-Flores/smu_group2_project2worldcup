@@ -33,7 +33,7 @@ CREATE TABLE "clubs" (
 
 CREATE TABLE "positions" (
     "id" serial   NOT NULL,
-    "positions" varchar(3)   NOT NULL,
+    "positions" varchar(10)   NOT NULL,
     "last_updated" timestamp   NOT NULL,
     CONSTRAINT "pk_positions" PRIMARY KEY (
         "id"
