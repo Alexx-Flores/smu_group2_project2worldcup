@@ -14,14 +14,14 @@ birth_year int
 matches_played int
 starts int
 minutes_played int
-last_updated timestamp
+last_updated timestamp 
 
 
 clubs
 -
 id serial PK 
 clubs varchar(50)
-last_updated timestamp
+last_updated timestamp 
 
 
 
@@ -30,13 +30,13 @@ positions
 -
 id serial PK 
 positions varchar(10)
-last_updated timestamp
+last_updated timestamp 
 
 squads
 -
 id serial PK
 squads varchar(50)
-last_updated timestamp
+last_updated timestamp 
 
 
 players_stats
@@ -47,10 +47,10 @@ goals int
 assists int
 non_penalty_goals int
 pk_goals int
-pk_attemps int 
+pk_attempts int 
 yellow_cards int
 red_cards int
-last_updated timestamp
+last_updated timestamp 
 
 keepers_stats
 -
@@ -63,4 +63,8 @@ clean_sheets int
 penalty_kicks_attempted int
 penalty_kicks_allowed int
 penalty_kicks_saved int
-last_updated timestamp
+last_updated timestamp 
+
+
+
+

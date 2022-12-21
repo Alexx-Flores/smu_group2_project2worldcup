@@ -16,7 +16,7 @@ CREATE TABLE "all_players_main" (
     "matches_played" int   NOT NULL,
     "starts" int   NOT NULL,
     "minutes_played" int   NOT NULL,
-    "last_updated" timestamp   NOT NULL,
+    "last_updated" timestamp default localtimestamp   NOT NULL,
     CONSTRAINT "pk_all_players_main" PRIMARY KEY (
         "id"
      )
@@ -25,7 +25,7 @@ CREATE TABLE "all_players_main" (
 CREATE TABLE "clubs" (
     "id" serial   NOT NULL,
     "clubs" varchar(50)   NOT NULL,
-    "last_updated" timestamp   NOT NULL,
+    "last_updated" timestamp default localtimestamp   NOT NULL,
     CONSTRAINT "pk_clubs" PRIMARY KEY (
         "id"
      )
@@ -34,7 +34,7 @@ CREATE TABLE "clubs" (
 CREATE TABLE "positions" (
     "id" serial   NOT NULL,
     "positions" varchar(10)   NOT NULL,
-    "last_updated" timestamp   NOT NULL,
+    "last_updated" timestamp default localtimestamp   NOT NULL,
     CONSTRAINT "pk_positions" PRIMARY KEY (
         "id"
      )
@@ -43,7 +43,7 @@ CREATE TABLE "positions" (
 CREATE TABLE "squads" (
     "id" serial   NOT NULL,
     "squads" varchar(50)   NOT NULL,
-    "last_updated" timestamp   NOT NULL,
+    "last_updated" timestamp default localtimestamp   NOT NULL,
     CONSTRAINT "pk_squads" PRIMARY KEY (
         "id"
      )
@@ -59,7 +59,7 @@ CREATE TABLE "players_stats" (
     "pk_attemps" int   NOT NULL,
     "yellow_cards" int   NOT NULL,
     "red_cards" int   NOT NULL,
-    "last_updated" timestamp   NOT NULL,
+    "last_updated" timestamp default localtimestamp   NOT NULL,
     CONSTRAINT "pk_players_stats" PRIMARY KEY (
         "id"
      )
@@ -75,7 +75,7 @@ CREATE TABLE "keepers_stats" (
     "penalty_kicks_attempted" int   NOT NULL,
     "penalty_kicks_allowed" int   NOT NULL,
     "penalty_kicks_saved" int   NOT NULL,
-    "last_updated" timestamp   NOT NULL,
+    "last_updated" timestamp default localtimestamp   NOT NULL,
     CONSTRAINT "pk_keepers_stats" PRIMARY KEY (
         "id"
      )
